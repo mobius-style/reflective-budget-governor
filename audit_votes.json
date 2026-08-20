@@ -1,0 +1,125 @@
+{
+ "note": "Main-session blind audit votes, text1/text2 frame (first=text1 preferred, second=text2, tie=parity). Cast before unblinding verdicts and flip map. Recorded 2026-08-15; released 2026-08-20.",
+ "votes": [
+  {
+   "key": "12b:hr_005:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:tech_032:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:pr_020:B",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "26b:biz_047:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:hr_041:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:mkt_030:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:mkt_033:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:biz_012:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:hr_038:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "12b:acad_032:C",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "26b:pr_048:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:pr_042:C",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "26b:edu_028:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:cs_038:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:biz_025:C",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "12b:pr_035:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:cs_021:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:int_010:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:pr_021:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:cs_034:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:tech_004:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:cs_027:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:gov_013:C",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "12b:biz_024:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:pr_027:B",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "12b:mkt_028:B",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "12b:cs_012:C",
+   "auditor_preference_text_frame": "first"
+  },
+  {
+   "key": "26b:pr_010:B",
+   "auditor_preference_text_frame": "tie"
+  },
+  {
+   "key": "26b:hr_027:C",
+   "auditor_preference_text_frame": "second"
+  },
+  {
+   "key": "26b:tech_011:C",
+   "auditor_preference_text_frame": "first"
+  }
+ ]
+}

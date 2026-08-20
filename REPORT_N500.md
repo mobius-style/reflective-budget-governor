@@ -40,3 +40,15 @@ release framing is a tunable compute/quality trade-off (35% tokens saved, parity
 ~63% of tasks, mostly-mild regression on the rest), NOT "free savings". Saturation
 was the most frequent early-stop trigger (206/500 on 12b) and is the first candidate
 for recalibration.
+
+## CORRECTION (2026-08-20, from pre-release adversarial verification)
+
+The audit note above misattributed the degeneration case. Primary-data
+recomputation (task hr_027, 26B) shows: the ~50x verbatim collapse
+occurred at iteration 6 (45,152 chars); iterations 5, 7, 8 are clean
+(899 chars); the governor stopped ON the degenerate iteration 6 via
+equilibrium_d_r (set-based trigrams are blind to verbatim repetition);
+arm B stopped at clean iteration 5; the fixed cap ended clean at 8; the
+registered verdict for 26b:hr_027:C is loss. The original note's claim
+that the fixed-cap side collapsed and the early stop won is inverted
+and is retracted. The paper reports the corrected version.
