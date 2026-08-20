@@ -1,0 +1,6502 @@
+{
+ "acad_001": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3851,
+   "B": 3310,
+   "C": 3851
+  }
+ },
+ "acad_002": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3816,
+   "B": 2276,
+   "C": 2786
+  }
+ },
+ "acad_003": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2648,
+   "B": 1625,
+   "C": 1625
+  }
+ },
+ "acad_004": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3248,
+   "B": 2323,
+   "C": 2785
+  }
+ },
+ "acad_005": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3385,
+   "B": 1619,
+   "C": 2064
+  }
+ },
+ "acad_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4896,
+   "B": 4896,
+   "C": 2717
+  }
+ },
+ "acad_007": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4285,
+   "B": 2509,
+   "C": 2509
+  }
+ },
+ "acad_008": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3886,
+   "B": 2365,
+   "C": 2365
+  }
+ },
+ "acad_009": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3558,
+   "B": 2169,
+   "C": 2169
+  }
+ },
+ "acad_010": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3912,
+   "B": 1335,
+   "C": 3388
+  }
+ },
+ "acad_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3306,
+   "B": 3306,
+   "C": 3306
+  }
+ },
+ "acad_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3517,
+   "B": 3517,
+   "C": 3517
+  }
+ },
+ "acad_013": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4147,
+   "B": 2460,
+   "C": 2460
+  }
+ },
+ "acad_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3291,
+   "B": 3291,
+   "C": 2872
+  }
+ },
+ "acad_015": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 10798,
+   "B": 1824,
+   "C": 1824
+  }
+ },
+ "acad_016": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3100,
+   "B": 2250,
+   "C": 2675
+  }
+ },
+ "acad_017": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2934,
+   "B": 2172,
+   "C": 2172
+  }
+ },
+ "acad_018": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 3039,
+   "B": 1843,
+   "C": 1843
+  }
+ },
+ "acad_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2628,
+   "B": 2628,
+   "C": 1639
+  }
+ },
+ "acad_020": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2935,
+   "B": 1050,
+   "C": 2559
+  }
+ },
+ "acad_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2251,
+   "B": 2251,
+   "C": 2251
+  }
+ },
+ "acad_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3709,
+   "B": 3709,
+   "C": 2726
+  }
+ },
+ "acad_023": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3038,
+   "B": 3038,
+   "C": 3038
+  }
+ },
+ "acad_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2473,
+   "B": 2473,
+   "C": 2473
+  }
+ },
+ "acad_025": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3060,
+   "B": 2228,
+   "C": 2228
+  }
+ },
+ "acad_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3591,
+   "B": 3591,
+   "C": 3591
+  }
+ },
+ "acad_027": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3642,
+   "B": 1618,
+   "C": 3642
+  }
+ },
+ "acad_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3199,
+   "B": 3199,
+   "C": 3199
+  }
+ },
+ "acad_029": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3854,
+   "B": 3343,
+   "C": 2827
+  }
+ },
+ "acad_030": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3687,
+   "B": 1717,
+   "C": 1717
+  }
+ },
+ "acad_031": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3617,
+   "B": 2616,
+   "C": 2616
+  }
+ },
+ "acad_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2886,
+   "B": 2886,
+   "C": 2125
+  }
+ },
+ "acad_033": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3185,
+   "B": 1948,
+   "C": 2355
+  }
+ },
+ "acad_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2223,
+   "B": 2223,
+   "C": 2223
+  }
+ },
+ "acad_035": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2626,
+   "B": 2626,
+   "C": 2626
+  }
+ },
+ "acad_036": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 12203,
+   "B": 6455,
+   "C": 2894
+  }
+ },
+ "acad_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4768,
+   "B": 4768,
+   "C": 4768
+  }
+ },
+ "acad_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4943,
+   "B": 4943,
+   "C": 4943
+  }
+ },
+ "acad_039": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10037,
+   "B": 5491,
+   "C": 2515
+  }
+ },
+ "acad_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4835,
+   "B": 4835,
+   "C": 1450
+  }
+ },
+ "acad_041": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3302,
+   "B": 2344,
+   "C": 983
+  }
+ },
+ "acad_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5354,
+   "B": 5354,
+   "C": 1625
+  }
+ },
+ "acad_043": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4002,
+   "B": 1872,
+   "C": 4002
+  }
+ },
+ "acad_044": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11794,
+   "B": 10062,
+   "C": 3203
+  }
+ },
+ "acad_045": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6661,
+   "B": 1958,
+   "C": 2773
+  }
+ },
+ "acad_046": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2574,
+   "B": 1227,
+   "C": 1560
+  }
+ },
+ "acad_047": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1876,
+   "B": 1876,
+   "C": 1876
+  }
+ },
+ "acad_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2472,
+   "B": 2472,
+   "C": 2472
+  }
+ },
+ "acad_049": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 1994,
+   "B": 1268,
+   "C": 1268
+  }
+ },
+ "acad_050": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2785,
+   "B": 1266,
+   "C": 2785
+  }
+ },
+ "biz_001": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3176,
+   "B": 2362,
+   "C": 2768
+  }
+ },
+ "biz_002": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3519,
+   "B": 3519,
+   "C": 3519
+  }
+ },
+ "biz_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7150,
+   "B": 7150,
+   "C": 7150
+  }
+ },
+ "biz_004": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3074,
+   "B": 3074,
+   "C": 3074
+  }
+ },
+ "biz_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4493,
+   "B": 4493,
+   "C": 4493
+  }
+ },
+ "biz_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1969,
+   "B": 1969,
+   "C": 1969
+  }
+ },
+ "biz_007": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6872,
+   "B": 4977,
+   "C": 2074
+  }
+ },
+ "biz_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9105,
+   "B": 9105,
+   "C": 2217
+  }
+ },
+ "biz_009": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10802,
+   "B": 7197,
+   "C": 2340
+  }
+ },
+ "biz_010": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4459,
+   "B": 4459,
+   "C": 4459
+  }
+ },
+ "biz_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5629,
+   "B": 5629,
+   "C": 1362
+  }
+ },
+ "biz_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10680,
+   "B": 10680,
+   "C": 2738
+  }
+ },
+ "biz_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3867,
+   "B": 3867,
+   "C": 3867
+  }
+ },
+ "biz_014": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4988,
+   "B": 4290,
+   "C": 4988
+  }
+ },
+ "biz_015": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5549,
+   "B": 5549,
+   "C": 1615
+  }
+ },
+ "biz_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5551,
+   "B": 5551,
+   "C": 3204
+  }
+ },
+ "biz_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3749,
+   "B": 3749,
+   "C": 3749
+  }
+ },
+ "biz_018": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 22347,
+   "B": 18664,
+   "C": 5189
+  }
+ },
+ "biz_019": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 13032,
+   "B": 11026,
+   "C": 13032
+  }
+ },
+ "biz_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7418,
+   "B": 7418,
+   "C": 7418
+  }
+ },
+ "biz_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4902,
+   "B": 4902,
+   "C": 4902
+  }
+ },
+ "biz_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2667,
+   "B": 2667,
+   "C": 2667
+  }
+ },
+ "biz_023": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4464,
+   "B": 3271,
+   "C": 1387
+  }
+ },
+ "biz_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8581,
+   "B": 8581,
+   "C": 1963
+  }
+ },
+ "biz_025": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4748,
+   "B": 4748,
+   "C": 1321
+  }
+ },
+ "biz_026": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7095,
+   "B": 5961,
+   "C": 1675
+  }
+ },
+ "biz_027": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3255,
+   "B": 1485,
+   "C": 1890
+  }
+ },
+ "biz_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10172,
+   "B": 10172,
+   "C": 2633
+  }
+ },
+ "biz_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5329,
+   "B": 5329,
+   "C": 1640
+  }
+ },
+ "biz_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10485,
+   "B": 10485,
+   "C": 2700
+  }
+ },
+ "biz_031": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8513,
+   "B": 8513,
+   "C": 8513
+  }
+ },
+ "biz_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11065,
+   "B": 11065,
+   "C": 3067
+  }
+ },
+ "biz_033": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5843,
+   "B": 4153,
+   "C": 4153
+  }
+ },
+ "biz_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10157,
+   "B": 10157,
+   "C": 2587
+  }
+ },
+ "biz_035": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4077,
+   "B": 2385,
+   "C": 1259
+  }
+ },
+ "biz_036": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5486,
+   "B": 2386,
+   "C": 1666
+  }
+ },
+ "biz_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5781,
+   "B": 5781,
+   "C": 1576
+  }
+ },
+ "biz_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6165,
+   "B": 6165,
+   "C": 1421
+  }
+ },
+ "biz_039": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4074,
+   "B": 2943,
+   "C": 3504
+  }
+ },
+ "biz_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7174,
+   "B": 7174,
+   "C": 2014
+  }
+ },
+ "biz_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7976,
+   "B": 7976,
+   "C": 1955
+  }
+ },
+ "biz_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3670,
+   "B": 3670,
+   "C": 2676
+  }
+ },
+ "biz_043": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7195,
+   "B": 7195,
+   "C": 1821
+  }
+ },
+ "biz_044": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4415,
+   "B": 3122,
+   "C": 1272
+  }
+ },
+ "biz_045": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8814,
+   "B": 7308,
+   "C": 2041
+  }
+ },
+ "biz_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3389,
+   "B": 3389,
+   "C": 2935
+  }
+ },
+ "biz_047": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8163,
+   "B": 5776,
+   "C": 2234
+  }
+ },
+ "biz_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3041,
+   "B": 3041,
+   "C": 3041
+  }
+ },
+ "biz_049": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6414,
+   "B": 6414,
+   "C": 1806
+  }
+ },
+ "biz_050": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 24447,
+   "B": 24447,
+   "C": 5816
+  }
+ },
+ "cs_001": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5510,
+   "B": 3914,
+   "C": 4712
+  }
+ },
+ "cs_002": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4226,
+   "B": 3100,
+   "C": 3100
+  }
+ },
+ "cs_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7131,
+   "B": 7131,
+   "C": 7131
+  }
+ },
+ "cs_004": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4961,
+   "B": 4300,
+   "C": 4300
+  }
+ },
+ "cs_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5429,
+   "B": 5429,
+   "C": 5429
+  }
+ },
+ "cs_006": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7974,
+   "B": 6763,
+   "C": 2094
+  }
+ },
+ "cs_007": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6341,
+   "B": 5444,
+   "C": 5444
+  }
+ },
+ "cs_008": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8370,
+   "B": 4440,
+   "C": 2126
+  }
+ },
+ "cs_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2918,
+   "B": 2918,
+   "C": 2918
+  }
+ },
+ "cs_010": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5268,
+   "B": 5268,
+   "C": 5268
+  }
+ },
+ "cs_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5823,
+   "B": 5823,
+   "C": 1787
+  }
+ },
+ "cs_012": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6871,
+   "B": 2644,
+   "C": 1759
+  }
+ },
+ "cs_013": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8270,
+   "B": 6909,
+   "C": 2180
+  }
+ },
+ "cs_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4369,
+   "B": 4369,
+   "C": 4369
+  }
+ },
+ "cs_015": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5784,
+   "B": 4979,
+   "C": 5784
+  }
+ },
+ "cs_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6710,
+   "B": 6710,
+   "C": 6710
+  }
+ },
+ "cs_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5941,
+   "B": 5941,
+   "C": 1642
+  }
+ },
+ "cs_018": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7640,
+   "B": 2205,
+   "C": 5352
+  }
+ },
+ "cs_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5770,
+   "B": 5770,
+   "C": 1288
+  }
+ },
+ "cs_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6187,
+   "B": 6187,
+   "C": 6187
+  }
+ },
+ "cs_021": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5090,
+   "B": 4370,
+   "C": 5090
+  }
+ },
+ "cs_022": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3884,
+   "B": 2261,
+   "C": 2772
+  }
+ },
+ "cs_023": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5346,
+   "B": 3188,
+   "C": 2466
+  }
+ },
+ "cs_024": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3161,
+   "B": 2319,
+   "C": 2319
+  }
+ },
+ "cs_025": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4884,
+   "B": 2102,
+   "C": 2777
+  }
+ },
+ "cs_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4988,
+   "B": 4988,
+   "C": 1236
+  }
+ },
+ "cs_027": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9981,
+   "B": 9981,
+   "C": 2221
+  }
+ },
+ "cs_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6144,
+   "B": 6144,
+   "C": 6144
+  }
+ },
+ "cs_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3040,
+   "B": 3040,
+   "C": 1798
+  }
+ },
+ "cs_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6713,
+   "B": 6713,
+   "C": 6713
+  }
+ },
+ "cs_031": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5953,
+   "B": 2495,
+   "C": 1682
+  }
+ },
+ "cs_032": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2842,
+   "B": 1739,
+   "C": 2106
+  }
+ },
+ "cs_033": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5275,
+   "B": 2385,
+   "C": 3082
+  }
+ },
+ "cs_034": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3475,
+   "B": 1552,
+   "C": 2986
+  }
+ },
+ "cs_035": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5150,
+   "B": 5150,
+   "C": 5150
+  }
+ },
+ "cs_036": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5495,
+   "B": 5495,
+   "C": 5495
+  }
+ },
+ "cs_037": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3660,
+   "B": 1952,
+   "C": 969
+  }
+ },
+ "cs_038": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5544,
+   "B": 3928,
+   "C": 1606
+  }
+ },
+ "cs_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5113,
+   "B": 5113,
+   "C": 1329
+  }
+ },
+ "cs_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5962,
+   "B": 5962,
+   "C": 5962
+  }
+ },
+ "cs_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3935,
+   "B": 3935,
+   "C": 3935
+  }
+ },
+ "cs_042": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 2931,
+   "B": 2120,
+   "C": 942
+  }
+ },
+ "cs_043": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4428,
+   "B": 3788,
+   "C": 1279
+  }
+ },
+ "cs_044": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5529,
+   "B": 3917,
+   "C": 1549
+  }
+ },
+ "cs_045": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4238,
+   "B": 3010,
+   "C": 1200
+  }
+ },
+ "cs_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6218,
+   "B": 6218,
+   "C": 1372
+  }
+ },
+ "cs_047": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6728,
+   "B": 5687,
+   "C": 1682
+  }
+ },
+ "cs_048": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6243,
+   "B": 2813,
+   "C": 3645
+  }
+ },
+ "cs_049": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4796,
+   "B": 2774,
+   "C": 1435
+  }
+ },
+ "cs_050": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6643,
+   "B": 6643,
+   "C": 6643
+  }
+ },
+ "edu_001": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6044,
+   "B": 5161,
+   "C": 5161
+  }
+ },
+ "edu_002": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4775,
+   "B": 2861,
+   "C": 2861
+  }
+ },
+ "edu_003": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7145,
+   "B": 4135,
+   "C": 2140
+  }
+ },
+ "edu_004": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10575,
+   "B": 5725,
+   "C": 2639
+  }
+ },
+ "edu_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6998,
+   "B": 6998,
+   "C": 1783
+  }
+ },
+ "edu_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9497,
+   "B": 9497,
+   "C": 2622
+  }
+ },
+ "edu_007": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6604,
+   "B": 5629,
+   "C": 1843
+  }
+ },
+ "edu_008": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7853,
+   "B": 5649,
+   "C": 6751
+  }
+ },
+ "edu_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4053,
+   "B": 4053,
+   "C": 4053
+  }
+ },
+ "edu_010": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5364,
+   "B": 4660,
+   "C": 3241
+  }
+ },
+ "edu_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8038,
+   "B": 8038,
+   "C": 8038
+  }
+ },
+ "edu_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3294,
+   "B": 3294,
+   "C": 1074
+  }
+ },
+ "edu_013": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4555,
+   "B": 2605,
+   "C": 3242
+  }
+ },
+ "edu_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 3329,
+   "B": 3329,
+   "C": 1978
+  }
+ },
+ "edu_015": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4915,
+   "B": 4915,
+   "C": 1137
+  }
+ },
+ "edu_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6878,
+   "B": 6878,
+   "C": 1688
+  }
+ },
+ "edu_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3843,
+   "B": 3843,
+   "C": 3843
+  }
+ },
+ "edu_018": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 12550,
+   "B": 12550,
+   "C": 3262
+  }
+ },
+ "edu_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5979,
+   "B": 5979,
+   "C": 5078
+  }
+ },
+ "edu_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3496,
+   "B": 3496,
+   "C": 3496
+  }
+ },
+ "edu_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 9030,
+   "B": 9030,
+   "C": 9030
+  }
+ },
+ "edu_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3602,
+   "B": 3602,
+   "C": 3602
+  }
+ },
+ "edu_023": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 9423,
+   "B": 9423,
+   "C": 6654
+  }
+ },
+ "edu_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 12820,
+   "B": 12820,
+   "C": 2974
+  }
+ },
+ "edu_025": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 13520,
+   "B": 9270,
+   "C": 11363
+  }
+ },
+ "edu_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4287,
+   "B": 4287,
+   "C": 4287
+  }
+ },
+ "edu_027": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 16966,
+   "B": 16966,
+   "C": 4297
+  }
+ },
+ "edu_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4041,
+   "B": 4041,
+   "C": 1127
+  }
+ },
+ "edu_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8409,
+   "B": 8409,
+   "C": 2142
+  }
+ },
+ "edu_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2890,
+   "B": 2890,
+   "C": 2890
+  }
+ },
+ "edu_031": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8985,
+   "B": 7590,
+   "C": 2221
+  }
+ },
+ "edu_032": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 17470,
+   "B": 9791,
+   "C": 9791
+  }
+ },
+ "edu_033": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8282,
+   "B": 8282,
+   "C": 8282
+  }
+ },
+ "edu_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8420,
+   "B": 8420,
+   "C": 2360
+  }
+ },
+ "edu_035": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8775,
+   "B": 8775,
+   "C": 8775
+  }
+ },
+ "edu_036": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5227,
+   "B": 5227,
+   "C": 5227
+  }
+ },
+ "edu_037": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 13807,
+   "B": 5750,
+   "C": 3836
+  }
+ },
+ "edu_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3674,
+   "B": 3674,
+   "C": 1167
+  }
+ },
+ "edu_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5360,
+   "B": 5360,
+   "C": 5360
+  }
+ },
+ "edu_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 13428,
+   "B": 13428,
+   "C": 13428
+  }
+ },
+ "edu_041": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 12605,
+   "B": 10650,
+   "C": 12605
+  }
+ },
+ "edu_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3090,
+   "B": 3090,
+   "C": 3090
+  }
+ },
+ "edu_043": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7772,
+   "B": 3532,
+   "C": 4593
+  }
+ },
+ "edu_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3876,
+   "B": 3876,
+   "C": 3876
+  }
+ },
+ "edu_045": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3648,
+   "B": 3648,
+   "C": 2923
+  }
+ },
+ "edu_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2961,
+   "B": 2961,
+   "C": 2961
+  }
+ },
+ "edu_047": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4643,
+   "B": 2690,
+   "C": 1402
+  }
+ },
+ "edu_048": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 13390,
+   "B": 9300,
+   "C": 9300
+  }
+ },
+ "edu_049": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 11016,
+   "B": 9372,
+   "C": 6091
+  }
+ },
+ "edu_050": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7307,
+   "B": 7307,
+   "C": 1948
+  }
+ },
+ "hr_001": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 13884,
+   "B": 9933,
+   "C": 9933
+  }
+ },
+ "hr_002": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5970,
+   "B": 4286,
+   "C": 3450
+  }
+ },
+ "hr_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7456,
+   "B": 7456,
+   "C": 7456
+  }
+ },
+ "hr_004": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9862,
+   "B": 9862,
+   "C": 2660
+  }
+ },
+ "hr_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4355,
+   "B": 4355,
+   "C": 4355
+  }
+ },
+ "hr_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6065,
+   "B": 6065,
+   "C": 3524
+  }
+ },
+ "hr_007": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3270,
+   "B": 3270,
+   "C": 3270
+  }
+ },
+ "hr_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9729,
+   "B": 9729,
+   "C": 2591
+  }
+ },
+ "hr_009": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6794,
+   "B": 4723,
+   "C": 1742
+  }
+ },
+ "hr_010": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10521,
+   "B": 7381,
+   "C": 2826
+  }
+ },
+ "hr_011": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 10710,
+   "B": 9054,
+   "C": 10710
+  }
+ },
+ "hr_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6235,
+   "B": 6235,
+   "C": 6235
+  }
+ },
+ "hr_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6541,
+   "B": 6541,
+   "C": 1846
+  }
+ },
+ "hr_014": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 11805,
+   "B": 9960,
+   "C": 8158
+  }
+ },
+ "hr_015": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3618,
+   "B": 3144,
+   "C": 2670
+  }
+ },
+ "hr_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4311,
+   "B": 4311,
+   "C": 4311
+  }
+ },
+ "hr_017": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3800,
+   "B": 2732,
+   "C": 1169
+  }
+ },
+ "hr_018": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6043,
+   "B": 5144,
+   "C": 6043
+  }
+ },
+ "hr_019": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6191,
+   "B": 3574,
+   "C": 6191
+  }
+ },
+ "hr_020": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10525,
+   "B": 8773,
+   "C": 2273
+  }
+ },
+ "hr_021": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 9795,
+   "B": 6940,
+   "C": 9795
+  }
+ },
+ "hr_022": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4300,
+   "B": 3732,
+   "C": 3732
+  }
+ },
+ "hr_023": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10045,
+   "B": 8514,
+   "C": 2682
+  }
+ },
+ "hr_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5009,
+   "B": 5009,
+   "C": 1383
+  }
+ },
+ "hr_025": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3955,
+   "B": 3955,
+   "C": 1186
+  }
+ },
+ "hr_026": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4543,
+   "B": 2602,
+   "C": 4543
+  }
+ },
+ "hr_027": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 18717,
+   "B": 1908,
+   "C": 10100
+  }
+ },
+ "hr_028": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4974,
+   "B": 2608,
+   "C": 3305
+  }
+ },
+ "hr_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7722,
+   "B": 7722,
+   "C": 2027
+  }
+ },
+ "hr_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5192,
+   "B": 5192,
+   "C": 1464
+  }
+ },
+ "hr_031": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 12559,
+   "B": 12559,
+   "C": 3188
+  }
+ },
+ "hr_032": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6829,
+   "B": 5918,
+   "C": 6829
+  }
+ },
+ "hr_033": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 8375,
+   "B": 5781,
+   "C": 5781
+  }
+ },
+ "hr_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5999,
+   "B": 5999,
+   "C": 1461
+  }
+ },
+ "hr_035": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3434,
+   "B": 2035,
+   "C": 3434
+  }
+ },
+ "hr_036": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3647,
+   "B": 1267,
+   "C": 1743
+  }
+ },
+ "hr_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3284,
+   "B": 3284,
+   "C": 3284
+  }
+ },
+ "hr_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5743,
+   "B": 5743,
+   "C": 1570
+  }
+ },
+ "hr_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8462,
+   "B": 8462,
+   "C": 8462
+  }
+ },
+ "hr_040": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 12083,
+   "B": 6672,
+   "C": 6672
+  }
+ },
+ "hr_041": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 10134,
+   "B": 6986,
+   "C": 6986
+  }
+ },
+ "hr_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5110,
+   "B": 5110,
+   "C": 5110
+  }
+ },
+ "hr_043": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8609,
+   "B": 8609,
+   "C": 2253
+  }
+ },
+ "hr_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5154,
+   "B": 5154,
+   "C": 5154
+  }
+ },
+ "hr_045": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3829,
+   "B": 1753,
+   "C": 1753
+  }
+ },
+ "hr_046": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3964,
+   "B": 2355,
+   "C": 2881
+  }
+ },
+ "hr_047": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3166,
+   "B": 3166,
+   "C": 3166
+  }
+ },
+ "hr_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4732,
+   "B": 4732,
+   "C": 1202
+  }
+ },
+ "hr_049": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8631,
+   "B": 8631,
+   "C": 8631
+  }
+ },
+ "hr_050": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 12883,
+   "B": 9073,
+   "C": 9073
+  }
+ },
+ "int_001": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10181,
+   "B": 8642,
+   "C": 2638
+  }
+ },
+ "int_002": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6845,
+   "B": 4627,
+   "C": 1614
+  }
+ },
+ "int_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8960,
+   "B": 8960,
+   "C": 1995
+  }
+ },
+ "int_004": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6375,
+   "B": 5343,
+   "C": 1509
+  }
+ },
+ "int_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3972,
+   "B": 3972,
+   "C": 3972
+  }
+ },
+ "int_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4731,
+   "B": 4731,
+   "C": 2133
+  }
+ },
+ "int_007": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3103,
+   "B": 3103,
+   "C": 3103
+  }
+ },
+ "int_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4305,
+   "B": 4305,
+   "C": 4305
+  }
+ },
+ "int_009": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7074,
+   "B": 5836,
+   "C": 1512
+  }
+ },
+ "int_010": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2395,
+   "B": 2395,
+   "C": 2395
+  }
+ },
+ "int_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6990,
+   "B": 6990,
+   "C": 6990
+  }
+ },
+ "int_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5266,
+   "B": 5266,
+   "C": 4521
+  }
+ },
+ "int_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7728,
+   "B": 7728,
+   "C": 1849
+  }
+ },
+ "int_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8763,
+   "B": 8763,
+   "C": 1928
+  }
+ },
+ "int_015": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5877,
+   "B": 5877,
+   "C": 1586
+  }
+ },
+ "int_016": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4269,
+   "B": 1065,
+   "C": 4269
+  }
+ },
+ "int_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3772,
+   "B": 3772,
+   "C": 981
+  }
+ },
+ "int_018": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4130,
+   "B": 3544,
+   "C": 3544
+  }
+ },
+ "int_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3492,
+   "B": 3492,
+   "C": 3492
+  }
+ },
+ "int_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 3088,
+   "B": 3088,
+   "C": 1634
+  }
+ },
+ "int_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6932,
+   "B": 6932,
+   "C": 1370
+  }
+ },
+ "int_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4436,
+   "B": 4436,
+   "C": 4436
+  }
+ },
+ "int_023": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7845,
+   "B": 6417,
+   "C": 1718
+  }
+ },
+ "int_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2870,
+   "B": 2870,
+   "C": 2087
+  }
+ },
+ "int_025": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6288,
+   "B": 6288,
+   "C": 1175
+  }
+ },
+ "int_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11507,
+   "B": 11507,
+   "C": 2393
+  }
+ },
+ "int_027": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3628,
+   "B": 3628,
+   "C": 3628
+  }
+ },
+ "int_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2527,
+   "B": 2527,
+   "C": 2187
+  }
+ },
+ "int_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 2555,
+   "B": 2555,
+   "C": 2049
+  }
+ },
+ "int_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4308,
+   "B": 4308,
+   "C": 1007
+  }
+ },
+ "int_031": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4361,
+   "B": 4361,
+   "C": 4361
+  }
+ },
+ "int_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5861,
+   "B": 5861,
+   "C": 1155
+  }
+ },
+ "int_033": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3728,
+   "B": 3728,
+   "C": 3728
+  }
+ },
+ "int_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4041,
+   "B": 4041,
+   "C": 4041
+  }
+ },
+ "int_035": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3235,
+   "B": 2315,
+   "C": 2775
+  }
+ },
+ "int_036": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5368,
+   "B": 2109,
+   "C": 1482
+  }
+ },
+ "int_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4231,
+   "B": 4231,
+   "C": 1212
+  }
+ },
+ "int_038": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4356,
+   "B": 2392,
+   "C": 1179
+  }
+ },
+ "int_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2674,
+   "B": 2674,
+   "C": 2674
+  }
+ },
+ "int_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3277,
+   "B": 3277,
+   "C": 3277
+  }
+ },
+ "int_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5245,
+   "B": 5245,
+   "C": 1307
+  }
+ },
+ "int_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4082,
+   "B": 4082,
+   "C": 4082
+  }
+ },
+ "int_043": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6049,
+   "B": 6049,
+   "C": 6049
+  }
+ },
+ "int_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 9015,
+   "B": 9015,
+   "C": 1550
+  }
+ },
+ "int_045": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3474,
+   "B": 1654,
+   "C": 1654
+  }
+ },
+ "int_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7341,
+   "B": 7341,
+   "C": 2016
+  }
+ },
+ "int_047": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5213,
+   "B": 5213,
+   "C": 1476
+  }
+ },
+ "int_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4690,
+   "B": 4690,
+   "C": 1307
+  }
+ },
+ "int_049": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5970,
+   "B": 5015,
+   "C": 1633
+  }
+ },
+ "int_050": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5595,
+   "B": 5595,
+   "C": 1615
+  }
+ },
+ "mkt_001": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3429,
+   "B": 3429,
+   "C": 3429
+  }
+ },
+ "mkt_002": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3049,
+   "B": 3049,
+   "C": 3049
+  }
+ },
+ "mkt_003": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3907,
+   "B": 2844,
+   "C": 2844
+  }
+ },
+ "mkt_004": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 5594,
+   "B": 4770,
+   "C": 4770
+  }
+ },
+ "mkt_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4607,
+   "B": 4607,
+   "C": 4607
+  }
+ },
+ "mkt_006": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3131,
+   "B": 2304,
+   "C": 2717
+  }
+ },
+ "mkt_007": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4012,
+   "B": 2433,
+   "C": 2946
+  }
+ },
+ "mkt_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3212,
+   "B": 3212,
+   "C": 3212
+  }
+ },
+ "mkt_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3314,
+   "B": 3314,
+   "C": 3314
+  }
+ },
+ "mkt_010": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4400,
+   "B": 3174,
+   "C": 3788
+  }
+ },
+ "mkt_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2390,
+   "B": 2390,
+   "C": 2390
+  }
+ },
+ "mkt_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3922,
+   "B": 3922,
+   "C": 3922
+  }
+ },
+ "mkt_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4601,
+   "B": 4601,
+   "C": 3329
+  }
+ },
+ "mkt_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4321,
+   "B": 4321,
+   "C": 4321
+  }
+ },
+ "mkt_015": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5539,
+   "B": 3967,
+   "C": 4752
+  }
+ },
+ "mkt_016": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3409,
+   "B": 1592,
+   "C": 2952
+  }
+ },
+ "mkt_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3833,
+   "B": 3833,
+   "C": 3833
+  }
+ },
+ "mkt_018": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3693,
+   "B": 3693,
+   "C": 3693
+  }
+ },
+ "mkt_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2909,
+   "B": 2909,
+   "C": 2909
+  }
+ },
+ "mkt_020": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3348,
+   "B": 2899,
+   "C": 3348
+  }
+ },
+ "mkt_021": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 10097,
+   "B": 7111,
+   "C": 8595
+  }
+ },
+ "mkt_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4284,
+   "B": 4284,
+   "C": 4284
+  }
+ },
+ "mkt_023": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7515,
+   "B": 5294,
+   "C": 6401
+  }
+ },
+ "mkt_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3902,
+   "B": 3902,
+   "C": 3902
+  }
+ },
+ "mkt_025": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3214,
+   "B": 3214,
+   "C": 3214
+  }
+ },
+ "mkt_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5236,
+   "B": 5236,
+   "C": 5236
+  }
+ },
+ "mkt_027": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 8153,
+   "B": 6847,
+   "C": 6847
+  }
+ },
+ "mkt_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1231,
+   "B": 1231,
+   "C": 1231
+  }
+ },
+ "mkt_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4065,
+   "B": 4065,
+   "C": 4065
+  }
+ },
+ "mkt_030": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5147,
+   "B": 4400,
+   "C": 5147
+  }
+ },
+ "mkt_031": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3609,
+   "B": 1724,
+   "C": 2198
+  }
+ },
+ "mkt_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3089,
+   "B": 3089,
+   "C": 3089
+  }
+ },
+ "mkt_033": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3427,
+   "B": 3427,
+   "C": 3427
+  }
+ },
+ "mkt_034": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5609,
+   "B": 3317,
+   "C": 4079
+  }
+ },
+ "mkt_035": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6281,
+   "B": 6281,
+   "C": 1888
+  }
+ },
+ "mkt_036": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5809,
+   "B": 5809,
+   "C": 1623
+  }
+ },
+ "mkt_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 4
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4197,
+   "B": 4197,
+   "C": 1719
+  }
+ },
+ "mkt_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3302,
+   "B": 3302,
+   "C": 3302
+  }
+ },
+ "mkt_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1778,
+   "B": 1778,
+   "C": 1778
+  }
+ },
+ "mkt_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4996,
+   "B": 4996,
+   "C": 1464
+  }
+ },
+ "mkt_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3282,
+   "B": 3282,
+   "C": 3282
+  }
+ },
+ "mkt_042": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10602,
+   "B": 7489,
+   "C": 2920
+  }
+ },
+ "mkt_043": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3599,
+   "B": 1187,
+   "C": 3599
+  }
+ },
+ "mkt_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4242,
+   "B": 4242,
+   "C": 4242
+  }
+ },
+ "mkt_045": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5848,
+   "B": 3447,
+   "C": 4248
+  }
+ },
+ "mkt_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3871,
+   "B": 3871,
+   "C": 3871
+  }
+ },
+ "mkt_047": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4809,
+   "B": 4809,
+   "C": 3454
+  }
+ },
+ "mkt_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2347,
+   "B": 2347,
+   "C": 2347
+  }
+ },
+ "mkt_049": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5674,
+   "B": 5674,
+   "C": 5674
+  }
+ },
+ "mkt_050": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5190,
+   "B": 3100,
+   "C": 3100
+  }
+ },
+ "pr_001": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4166,
+   "B": 4166,
+   "C": 4166
+  }
+ },
+ "pr_002": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6155,
+   "B": 4387,
+   "C": 1782
+  }
+ },
+ "pr_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5664,
+   "B": 5664,
+   "C": 4212
+  }
+ },
+ "pr_004": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3510,
+   "B": 2596,
+   "C": 2596
+  }
+ },
+ "pr_005": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4616,
+   "B": 3896,
+   "C": 1236
+  }
+ },
+ "pr_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2840,
+   "B": 2840,
+   "C": 2840
+  }
+ },
+ "pr_007": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2314,
+   "B": 2314,
+   "C": 2314
+  }
+ },
+ "pr_008": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7962,
+   "B": 4606,
+   "C": 5723
+  }
+ },
+ "pr_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3403,
+   "B": 3403,
+   "C": 3403
+  }
+ },
+ "pr_010": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 4986,
+   "B": 4242,
+   "C": 4242
+  }
+ },
+ "pr_011": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6223,
+   "B": 5242,
+   "C": 1504
+  }
+ },
+ "pr_012": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3179,
+   "B": 1913,
+   "C": 1491
+  }
+ },
+ "pr_013": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5464,
+   "B": 3140,
+   "C": 3910
+  }
+ },
+ "pr_014": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4161,
+   "B": 1813,
+   "C": 1813
+  }
+ },
+ "pr_015": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2865,
+   "B": 984,
+   "C": 1344
+  }
+ },
+ "pr_016": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2855,
+   "B": 1387,
+   "C": 1387
+  }
+ },
+ "pr_017": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3466,
+   "B": 1506,
+   "C": 3466
+  }
+ },
+ "pr_018": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3078,
+   "B": 1826,
+   "C": 3078
+  }
+ },
+ "pr_019": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6619,
+   "B": 5636,
+   "C": 4658
+  }
+ },
+ "pr_020": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4524,
+   "B": 1801,
+   "C": 1192
+  }
+ },
+ "pr_021": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3443,
+   "B": 2522,
+   "C": 2983
+  }
+ },
+ "pr_022": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5485,
+   "B": 3181,
+   "C": 3181
+  }
+ },
+ "pr_023": {
+  "stops": {
+   "A": 8,
+   "B": 2,
+   "C": 3
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2549,
+   "B": 604,
+   "C": 926
+  }
+ },
+ "pr_024": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8456,
+   "B": 7145,
+   "C": 2232
+  }
+ },
+ "pr_025": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3863,
+   "B": 1261,
+   "C": 1730
+  }
+ },
+ "pr_026": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5242,
+   "B": 2419,
+   "C": 1690
+  }
+ },
+ "pr_027": {
+  "stops": {
+   "A": 8,
+   "B": 2,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2675,
+   "B": 576,
+   "C": 2675
+  }
+ },
+ "pr_028": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3892,
+   "B": 1307,
+   "C": 1820
+  }
+ },
+ "pr_029": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6849,
+   "B": 3787,
+   "C": 1829
+  }
+ },
+ "pr_030": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4321,
+   "B": 1859,
+   "C": 1268
+  }
+ },
+ "pr_031": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4336,
+   "B": 3750,
+   "C": 1990
+  }
+ },
+ "pr_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2234,
+   "B": 2234,
+   "C": 2234
+  }
+ },
+ "pr_033": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2600,
+   "B": 1221,
+   "C": 1565
+  }
+ },
+ "pr_034": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4651,
+   "B": 3371,
+   "C": 4011
+  }
+ },
+ "pr_035": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3111,
+   "B": 2293,
+   "C": 2703
+  }
+ },
+ "pr_036": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3451,
+   "B": 1621,
+   "C": 2078
+  }
+ },
+ "pr_037": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4823,
+   "B": 2664,
+   "C": 1367
+  }
+ },
+ "pr_038": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 9208,
+   "B": 7625,
+   "C": 7625
+  }
+ },
+ "pr_039": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 4
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3050,
+   "B": 1499,
+   "C": 1499
+  }
+ },
+ "pr_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3518,
+   "B": 3518,
+   "C": 3518
+  }
+ },
+ "pr_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2579,
+   "B": 2579,
+   "C": 2239
+  }
+ },
+ "pr_042": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 3
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 8058,
+   "B": 2568,
+   "C": 2568
+  }
+ },
+ "pr_043": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 7325,
+   "B": 4020,
+   "C": 1950
+  }
+ },
+ "pr_044": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2266,
+   "B": 1662,
+   "C": 1955
+  }
+ },
+ "pr_045": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2907,
+   "B": 1607,
+   "C": 2907
+  }
+ },
+ "pr_046": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2960,
+   "B": 1364,
+   "C": 1763
+  }
+ },
+ "pr_047": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4107,
+   "B": 2397,
+   "C": 2951
+  }
+ },
+ "pr_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6338,
+   "B": 6338,
+   "C": 1486
+  }
+ },
+ "pr_049": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5126,
+   "B": 5126,
+   "C": 1417
+  }
+ },
+ "pr_050": {
+  "stops": {
+   "A": 8,
+   "B": 3,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2443,
+   "B": 867,
+   "C": 2443
+  }
+ },
+ "gov_001": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4234,
+   "B": 4234,
+   "C": 4234
+  }
+ },
+ "gov_002": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3966,
+   "B": 2892,
+   "C": 3966
+  }
+ },
+ "gov_003": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5852,
+   "B": 5852,
+   "C": 5852
+  }
+ },
+ "gov_004": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4355,
+   "B": 4355,
+   "C": 4355
+  }
+ },
+ "gov_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4705,
+   "B": 4705,
+   "C": 4705
+  }
+ },
+ "gov_006": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6641,
+   "B": 5649,
+   "C": 1860
+  }
+ },
+ "gov_007": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3964,
+   "B": 3964,
+   "C": 3964
+  }
+ },
+ "gov_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6546,
+   "B": 6546,
+   "C": 6546
+  }
+ },
+ "gov_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2192,
+   "B": 2192,
+   "C": 2192
+  }
+ },
+ "gov_010": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3813,
+   "B": 3813,
+   "C": 3813
+  }
+ },
+ "gov_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5326,
+   "B": 5326,
+   "C": 5326
+  }
+ },
+ "gov_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7553,
+   "B": 7553,
+   "C": 7553
+  }
+ },
+ "gov_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2480,
+   "B": 2480,
+   "C": 1781
+  }
+ },
+ "gov_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4815,
+   "B": 4815,
+   "C": 1247
+  }
+ },
+ "gov_015": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4668,
+   "B": 4668,
+   "C": 4668
+  }
+ },
+ "gov_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5080,
+   "B": 5080,
+   "C": 1344
+  }
+ },
+ "gov_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7534,
+   "B": 7534,
+   "C": 7534
+  }
+ },
+ "gov_018": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 1985,
+   "B": 1985,
+   "C": 1253
+  }
+ },
+ "gov_019": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3587,
+   "B": 3587,
+   "C": 3587
+  }
+ },
+ "gov_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4244,
+   "B": 4244,
+   "C": 4244
+  }
+ },
+ "gov_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3309,
+   "B": 3309,
+   "C": 3309
+  }
+ },
+ "gov_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2959,
+   "B": 2959,
+   "C": 2959
+  }
+ },
+ "gov_023": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8969,
+   "B": 8969,
+   "C": 2247
+  }
+ },
+ "gov_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5612,
+   "B": 5612,
+   "C": 5612
+  }
+ },
+ "gov_025": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3502,
+   "B": 3502,
+   "C": 3502
+  }
+ },
+ "gov_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4081,
+   "B": 4081,
+   "C": 2889
+  }
+ },
+ "gov_027": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6204,
+   "B": 6204,
+   "C": 1681
+  }
+ },
+ "gov_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4237,
+   "B": 4237,
+   "C": 4237
+  }
+ },
+ "gov_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3397,
+   "B": 3397,
+   "C": 3397
+  }
+ },
+ "gov_030": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4815,
+   "B": 4815,
+   "C": 4815
+  }
+ },
+ "gov_031": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 4
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4130,
+   "B": 4130,
+   "C": 1698
+  }
+ },
+ "gov_032": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5088,
+   "B": 3507,
+   "C": 5088
+  }
+ },
+ "gov_033": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6165,
+   "B": 5214,
+   "C": 1631
+  }
+ },
+ "gov_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2622,
+   "B": 2622,
+   "C": 2622
+  }
+ },
+ "gov_035": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 5116,
+   "B": 5116,
+   "C": 5116
+  }
+ },
+ "gov_036": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4579,
+   "B": 4579,
+   "C": 1284
+  }
+ },
+ "gov_037": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5075,
+   "B": 5075,
+   "C": 1498
+  }
+ },
+ "gov_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4204,
+   "B": 4204,
+   "C": 4204
+  }
+ },
+ "gov_039": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4106,
+   "B": 4106,
+   "C": 4106
+  }
+ },
+ "gov_040": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6757,
+   "B": 6757,
+   "C": 1983
+  }
+ },
+ "gov_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4591,
+   "B": 4591,
+   "C": 1209
+  }
+ },
+ "gov_042": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 5153,
+   "B": 5153,
+   "C": 1455
+  }
+ },
+ "gov_043": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4417,
+   "B": 4417,
+   "C": 4417
+  }
+ },
+ "gov_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3329,
+   "B": 3329,
+   "C": 3329
+  }
+ },
+ "gov_045": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3804,
+   "B": 3804,
+   "C": 3804
+  }
+ },
+ "gov_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4367,
+   "B": 4367,
+   "C": 4367
+  }
+ },
+ "gov_047": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 8253,
+   "B": 8253,
+   "C": 2068
+  }
+ },
+ "gov_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3305,
+   "B": 3305,
+   "C": 3305
+  }
+ },
+ "gov_049": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2828,
+   "B": 2828,
+   "C": 2828
+  }
+ },
+ "gov_050": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3477,
+   "B": 3477,
+   "C": 3477
+  }
+ },
+ "tech_001": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 9834,
+   "B": 9834,
+   "C": 9834
+  }
+ },
+ "tech_002": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4765,
+   "B": 4765,
+   "C": 1531
+  }
+ },
+ "tech_003": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10759,
+   "B": 7227,
+   "C": 2587
+  }
+ },
+ "tech_004": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4229,
+   "B": 3660,
+   "C": 3660
+  }
+ },
+ "tech_005": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 18298,
+   "B": 18298,
+   "C": 4710
+  }
+ },
+ "tech_006": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 16556,
+   "B": 16556,
+   "C": 3964
+  }
+ },
+ "tech_007": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1888,
+   "B": 1888,
+   "C": 1888
+  }
+ },
+ "tech_008": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 8828,
+   "B": 8828,
+   "C": 8828
+  }
+ },
+ "tech_009": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2193,
+   "B": 2193,
+   "C": 2193
+  }
+ },
+ "tech_010": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 16195,
+   "B": 9182,
+   "C": 16195
+  }
+ },
+ "tech_011": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6100,
+   "B": 6100,
+   "C": 1604
+  }
+ },
+ "tech_012": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2894,
+   "B": 2894,
+   "C": 2894
+  }
+ },
+ "tech_013": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7929,
+   "B": 7929,
+   "C": 6806
+  }
+ },
+ "tech_014": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11469,
+   "B": 11469,
+   "C": 2301
+  }
+ },
+ "tech_015": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 13113,
+   "B": 11061,
+   "C": 3236
+  }
+ },
+ "tech_016": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 17926,
+   "B": 17926,
+   "C": 4087
+  }
+ },
+ "tech_017": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3167,
+   "B": 3167,
+   "C": 3167
+  }
+ },
+ "tech_018": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7479,
+   "B": 7479,
+   "C": 7479
+  }
+ },
+ "tech_019": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 14161,
+   "B": 5530,
+   "C": 3573
+  }
+ },
+ "tech_020": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11163,
+   "B": 11163,
+   "C": 1963
+  }
+ },
+ "tech_021": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 4
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11720,
+   "B": 11720,
+   "C": 3029
+  }
+ },
+ "tech_022": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6005,
+   "B": 6005,
+   "C": 1419
+  }
+ },
+ "tech_023": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 7162,
+   "B": 6141,
+   "C": 6141
+  }
+ },
+ "tech_024": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7303,
+   "B": 7303,
+   "C": 7303
+  }
+ },
+ "tech_025": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 10147,
+   "B": 8491,
+   "C": 2364
+  }
+ },
+ "tech_026": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 12395,
+   "B": 12395,
+   "C": 12395
+  }
+ },
+ "tech_027": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 11412,
+   "B": 7798,
+   "C": 2960
+  }
+ },
+ "tech_028": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "loop",
+  "tokens": {
+   "A": 2287,
+   "B": 2287,
+   "C": 1999
+  }
+ },
+ "tech_029": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 2234,
+   "B": 2234,
+   "C": 1404
+  }
+ },
+ "tech_030": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 14690,
+   "B": 12140,
+   "C": 3341
+  }
+ },
+ "tech_031": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1382,
+   "B": 1382,
+   "C": 1382
+  }
+ },
+ "tech_032": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 3382,
+   "B": 3382,
+   "C": 3382
+  }
+ },
+ "tech_033": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2726,
+   "B": 2726,
+   "C": 2726
+  }
+ },
+ "tech_034": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3673,
+   "B": 3673,
+   "C": 3101
+  }
+ },
+ "tech_035": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 8872,
+   "B": 5076,
+   "C": 6339
+  }
+ },
+ "tech_036": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4937,
+   "B": 4937,
+   "C": 4937
+  }
+ },
+ "tech_037": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 12705,
+   "B": 6682,
+   "C": 3140
+  }
+ },
+ "tech_038": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5292,
+   "B": 5292,
+   "C": 4471
+  }
+ },
+ "tech_039": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 1792,
+   "B": 1339,
+   "C": 1568
+  }
+ },
+ "tech_040": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 11530,
+   "B": 9578,
+   "C": 11530
+  }
+ },
+ "tech_041": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 9921,
+   "B": 9921,
+   "C": 6919
+  }
+ },
+ "tech_042": {
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 5458,
+   "B": 3124,
+   "C": 3870
+  }
+ },
+ "tech_043": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 6887,
+   "B": 5890,
+   "C": 1974
+  }
+ },
+ "tech_044": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 2997,
+   "B": 2997,
+   "C": 907
+  }
+ },
+ "tech_045": {
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 13973,
+   "B": 5679,
+   "C": 7562
+  }
+ },
+ "tech_046": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 16081,
+   "B": 16081,
+   "C": 3945
+  }
+ },
+ "tech_047": {
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 1854,
+   "B": 1333,
+   "C": 1854
+  }
+ },
+ "tech_048": {
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3314,
+   "B": 3314,
+   "C": 2451
+  }
+ },
+ "tech_049": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 6108,
+   "B": 5193,
+   "C": 6108
+  }
+ },
+ "tech_050": {
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 6
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4564,
+   "B": 3937,
+   "C": 3309
+  }
+ }
+}

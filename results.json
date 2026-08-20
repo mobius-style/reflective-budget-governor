@@ -1,0 +1,986 @@
+[
+ {
+  "task": "t01_product",
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4836,
+   "B": 4161,
+   "C": 4836
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.099,
+    "d_r": 0.922,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.545,
+    "d_r": 0.476,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.792,
+    "d_r": 0.215,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.901,
+    "d_r": 0.1,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.934,
+    "d_r": 0.061,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.941,
+    "d_r": 0.054,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.985,
+    "d_r": 0.009,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.931,
+    "d_r": 0.073,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "loss",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t02_apology",
+  "stops": {
+   "A": 8,
+   "B": 4,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 8084,
+   "B": 3593,
+   "C": 4699
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.098,
+    "d_r": 0.925,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.684,
+    "d_r": 0.352,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.856,
+    "d_r": 0.151,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.996,
+    "d_r": 0.005,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "no_change"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.979,
+    "d_r": 0.021,
+    "loop": true,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.958,
+    "d_r": 0.043,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.894,
+    "d_r": 0.105,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.993,
+    "d_r": 0.004,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "loss"
+ },
+ {
+  "task": "t03_blog",
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 4513,
+   "B": 4513,
+   "C": 1314
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.104,
+    "d_r": 0.915,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.408,
+    "d_r": 0.617,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.574,
+    "d_r": 0.433,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "expand"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.977,
+    "d_r": 0.025,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.731,
+    "d_r": 0.254,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.929,
+    "d_r": 0.063,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.913,
+    "d_r": 0.078,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.961,
+    "d_r": 0.03,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "loss"
+ },
+ {
+  "task": "t04_abstract",
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4090,
+   "B": 4090,
+   "C": 4090
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.141,
+    "d_r": 0.886,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.636,
+    "d_r": 0.394,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.821,
+    "d_r": 0.164,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.711,
+    "d_r": 0.243,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.843,
+    "d_r": 0.137,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.913,
+    "d_r": 0.092,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.832,
+    "d_r": 0.175,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.836,
+    "d_r": 0.142,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t05_minutes",
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 7
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 3061,
+   "B": 2218,
+   "C": 2641
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.043,
+    "d_r": 0.96,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.558,
+    "d_r": 0.458,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.853,
+    "d_r": 0.146,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.908,
+    "d_r": 0.101,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.892,
+    "d_r": 0.132,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.984,
+    "d_r": 0.009,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.952,
+    "d_r": 0.037,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.944,
+    "d_r": 0.062,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t06_job",
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 3
+  },
+  "C_reason": "saturation",
+  "tokens": {
+   "A": 15835,
+   "B": 8315,
+   "C": 3875
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.084,
+    "d_r": 0.94,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.588,
+    "d_r": 0.445,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.627,
+    "d_r": 0.394,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "expand"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.928,
+    "d_r": 0.091,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 1.0,
+    "d_r": 0.0,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "no_change"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.991,
+    "d_r": 0.009,
+    "loop": true,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.909,
+    "d_r": 0.118,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "expand"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 1.0,
+    "d_r": 0.0,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   }
+  ],
+  "B_vs_A": "loss",
+  "C_vs_A": "loss"
+ },
+ {
+  "task": "t07_press",
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 2460,
+   "B": 2460,
+   "C": 2460
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.191,
+    "d_r": 0.834,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.503,
+    "d_r": 0.488,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.849,
+    "d_r": 0.127,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.883,
+    "d_r": 0.09,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.81,
+    "d_r": 0.138,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.887,
+    "d_r": 0.1,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.966,
+    "d_r": 0.02,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.869,
+    "d_r": 0.095,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t08_api",
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7331,
+   "B": 7331,
+   "C": 7331
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.115,
+    "d_r": 0.909,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.435,
+    "d_r": 0.601,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.906,
+    "d_r": 0.109,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.895,
+    "d_r": 0.116,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.643,
+    "d_r": 0.373,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "expand"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.835,
+    "d_r": 0.187,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "expand"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.851,
+    "d_r": 0.15,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.994,
+    "d_r": 0.006,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "no_change"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t09_speech",
+  "stops": {
+   "A": 8,
+   "B": 6,
+   "C": 5
+  },
+  "C_reason": "equilibrium_d_r",
+  "tokens": {
+   "A": 4781,
+   "B": 3462,
+   "C": 2803
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.152,
+    "d_r": 0.879,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.603,
+    "d_r": 0.416,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.839,
+    "d_r": 0.169,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.966,
+    "d_r": 0.038,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.971,
+    "d_r": 0.038,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.992,
+    "d_r": 0.009,
+    "loop": true,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 1.0,
+    "d_r": 0.0,
+    "loop": true,
+    "saturation": 1.0,
+    "type": "no_change"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.96,
+    "d_r": 0.035,
+    "loop": true,
+    "saturation": 0.082,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t10_review",
+  "stops": {
+   "A": 8,
+   "B": 7,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 4189,
+   "B": 3577,
+   "C": 4189
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.209,
+    "d_r": 0.833,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.65,
+    "d_r": 0.367,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.701,
+    "d_r": 0.294,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.8,
+    "d_r": 0.19,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.885,
+    "d_r": 0.115,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.828,
+    "d_r": 0.155,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.984,
+    "d_r": 0.012,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "no_change"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.852,
+    "d_r": 0.145,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   }
+  ],
+  "B_vs_A": "loss",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t11_notice",
+  "stops": {
+   "A": 8,
+   "B": 5,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 7883,
+   "B": 4439,
+   "C": 7883
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.115,
+    "d_r": 0.914,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.565,
+    "d_r": 0.455,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.884,
+    "d_r": 0.116,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.878,
+    "d_r": 0.142,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "expand"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 1.0,
+    "d_r": 0.0,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "no_change"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.914,
+    "d_r": 0.081,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.925,
+    "d_r": 0.082,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.927,
+    "d_r": 0.072,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "loss",
+  "C_vs_A": "tie"
+ },
+ {
+  "task": "t12_grant",
+  "stops": {
+   "A": 8,
+   "B": 8,
+   "C": 8
+  },
+  "C_reason": "hard_cap",
+  "tokens": {
+   "A": 6248,
+   "B": 6248,
+   "C": 6248
+  },
+  "trace": [
+   {
+    "iter": 1,
+    "sim_prev": 0.065,
+    "d_r": 0.95,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 2,
+    "sim_prev": 0.581,
+    "d_r": 0.441,
+    "loop": false,
+    "saturation": 0.0,
+    "type": "expand"
+   },
+   {
+    "iter": 3,
+    "sim_prev": 0.714,
+    "d_r": 0.266,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 4,
+    "sim_prev": 0.867,
+    "d_r": 0.121,
+    "loop": false,
+    "saturation": 0.082,
+    "type": "rewrite"
+   },
+   {
+    "iter": 5,
+    "sim_prev": 0.8,
+    "d_r": 0.196,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 6,
+    "sim_prev": 0.687,
+    "d_r": 0.307,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 7,
+    "sim_prev": 0.847,
+    "d_r": 0.135,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   },
+   {
+    "iter": 8,
+    "sim_prev": 0.819,
+    "d_r": 0.175,
+    "loop": false,
+    "saturation": 1.0,
+    "type": "rewrite"
+   }
+  ],
+  "B_vs_A": "tie",
+  "C_vs_A": "tie"
+ }
+]

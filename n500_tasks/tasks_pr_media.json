@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pr_001",
+    "domain": "pr_media",
+    "instruction": "As the opening of a food company's product launch press release, improve the unclear news value and missing 5W1H details.",
+    "seed": "Our company is pleased to announce that we are launching a brand new product. This has been the result of years of dedicated research and development, and we believe our customers will find it truly delicious. We have worked hard to ensure the highest quality standards throughout the process. We hope that many customers around the world will enjoy this product and continue to support our brand. We are proud of what our team has accomplished and look forward to sharing more updates soon as availability expands across additional retail partners and online channels in the coming months ahead of the holiday season."
+  },
+  {
+    "id": "pr_002",
+    "domain": "pr_media",
+    "instruction": "As a SaaS company's new feature launch announcement, improve the lack of concrete specifics and unclear reader benefit.",
+    "seed": "We are excited to share that a new feature has been added to our platform. This update improves usability and helps our customers work more efficiently every day. We are always listening to feedback and constantly striving to make our product even better for everyone who relies on it. Our team has poured tremendous effort into this release, and we believe it reflects our ongoing commitment to innovation and excellence. We look forward to continuing this journey together with our valued users and appreciate their trust in our vision for the future."
+  },
+  {
+    "id": "pr_003",
+    "domain": "pr_media",
+    "instruction": "As a media pitch email from an auto parts manufacturer, improve the lack of information a journalist needs to decide and remove self-praise.",
+    "seed": "Our company plays an important role in the automotive industry, and we would like to request the opportunity for an interview. We believe this would be a valuable opportunity for your readers and for our brand alike. Please let us know your availability so we can arrange a suitable time. We are confident that our story will resonate strongly with your audience given our long history of excellence and dedication to quality craftsmanship across every stage of our manufacturing process worldwide."
+  },
+  {
+    "id": "pr_004",
+    "domain": "pr_media",
+    "instruction": "As an apparel brand's event announcement, fill in the missing date, location, and other essential logistics.",
+    "seed": "This autumn, we are thrilled to host a special event that our customers have been eagerly awaiting. It will be a rare opportunity to see our newest collection before anyone else. We hope many of you will join us and enjoy a memorable experience together with our team. We truly cannot wait to welcome everyone and share this exciting moment celebrating creativity, craftsmanship, and the passion behind every piece in our latest lineup this season."
+  },
+  {
+    "id": "pr_005",
+    "domain": "pr_media",
+    "instruction": "As a pharmaceutical company's award announcement press release, clarify exactly what was evaluated and how.",
+    "seed": "We are honored to announce that our efforts have recently been recognized with an award. This is truly a testament to the hard work of our entire team, and we could not be prouder of this achievement. We remain committed to further growth and to contributing meaningfully to society through our ongoing initiatives. This recognition motivates us to keep pushing boundaries and to continue striving for excellence in everything we do moving forward."
+  },
+  {
+    "id": "pr_006",
+    "domain": "pr_media",
+    "instruction": "As a bank and local government partnership announcement, make the substance of the partnership and its news value concrete.",
+    "seed": "We are pleased to announce that we have entered into a cooperative agreement aimed at supporting regional development. By combining our respective strengths, we hope to build a better future together for the community we serve. We are excited about what lies ahead and look forward to sharing more details about this partnership soon. Both organizations remain fully committed to working closely together toward shared goals in the months and years to come."
+  },
+  {
+    "id": "pr_007",
+    "domain": "pr_media",
+    "instruction": "As a utility company's CSR activity report, improve the vague quantification of results and remove self-congratulatory tone.",
+    "seed": "Our company is deeply committed to environmental conservation and continues to contribute meaningfully to the local community. Thanks to the united efforts of our employees, we have achieved wonderful results through our various initiatives. We take great pride in these accomplishments and will continue this important work going forward. Our team remains dedicated to making a positive difference and building a more sustainable future for generations to come across the regions we serve."
+  },
+  {
+    "id": "pr_008",
+    "domain": "pr_media",
+    "instruction": "As a food factory's crisis response statement about a contamination incident, clarify the facts and the concrete response measures.",
+    "seed": "We sincerely apologize for any concern this matter regarding our products may have caused our valued customers. Although we have always maintained strict quality control standards, we will work even harder to strengthen our processes going forward. We are committed to ensuring that our customers can continue to trust and enjoy our products with complete confidence. We deeply appreciate everyone's patience and understanding as we address this situation thoroughly and responsibly."
+  },
+  {
+    "id": "pr_009",
+    "domain": "pr_media",
+    "instruction": "As a tech company CEO's message, replace vague generalities with concrete business specifics.",
+    "seed": "We have always continued to embrace challenges throughout our journey as a company. Moving forward, we will keep pursuing change fearlessly and creating new value for everyone we serve. Our entire team is committed to doing everything possible to meet the expectations of our customers every single day. We are grateful for the continued support of our partners and look forward to writing the next chapter of our story together with passion and determination."
+  },
+  {
+    "id": "pr_010",
+    "domain": "pr_media",
+    "instruction": "As an anniversary message from a long-established confectionery shop, add concrete historical anecdotes and reader value.",
+    "seed": "We are grateful to have reached this important milestone in our company's history. This would not have been possible without the loyal support of our customers over so many years, and we are truly thankful from the bottom of our hearts. We will continue to preserve our traditional flavors while striving to remain a shop that is loved by the community for generations to come, cherishing every moment shared with our customers."
+  },
+  {
+    "id": "pr_011",
+    "domain": "pr_media",
+    "instruction": "As a travel company's media kit description, fill in the concrete information journalists can actually use.",
+    "seed": "Our media kit includes a variety of materials such as company overview and product information. Please feel free to make use of these resources when preparing your articles or coverage. Should you have any questions, do not hesitate to reach out to our communications team, who will be happy to assist you promptly with any additional information you may need for your reporting purposes."
+  },
+  {
+    "id": "pr_012",
+    "domain": "pr_media",
+    "instruction": "As a cosmetics brand's product launch press release opening, fill in the missing target audience and points of differentiation.",
+    "seed": "We are pleased to announce the launch of our new skincare line. Formulated with carefully selected ingredients, it has been designed to deliver satisfying results for a wide range of customers. We invite everyone to discover this collection at our stores or through our online shop, and we hope it becomes a beloved part of many people's daily skincare routines for years to come across all markets."
+  },
+  {
+    "id": "pr_013",
+    "domain": "pr_media",
+    "instruction": "As a semiconductor manufacturer's media pitch, fill in the missing technical specificity and social significance.",
+    "seed": "We would like to request an interview regarding our latest technology. This initiative has attracted considerable attention within our industry, and we believe it would be of great interest to your readers as well. Please let us know if this would be something you would like to explore further, and we would be glad to arrange a convenient time for a conversation with our technical team at your earliest convenience."
+  },
+  {
+    "id": "pr_014",
+    "domain": "pr_media",
+    "instruction": "As a museum's special exhibition event announcement, fill in the concrete details of the exhibition overview.",
+    "seed": "This autumn, our museum will be hosting a special exhibition featuring an extraordinary collection of works. It promises to be a wonderful opportunity to experience art up close. We hope you will bring your family and friends to enjoy this memorable occasion with us. Our curatorial team has worked tirelessly to bring together this remarkable collection, and we look forward to welcoming visitors from near and far this season."
+  },
+  {
+    "id": "pr_015",
+    "domain": "pr_media",
+    "instruction": "As a startup's funding announcement, fill in the missing amount raised and use of funds.",
+    "seed": "We are excited to announce that our company has successfully completed a funding round. We are incredibly grateful for the support of our investors as we continue to pursue ambitious growth for our business. This milestone reflects the hard work of our entire team, and we remain fully committed to improving our services for every customer who relies on our platform each and every day."
+  },
+  {
+    "id": "pr_016",
+    "domain": "pr_media",
+    "instruction": "As an agricultural company's award announcement, fill in the reason for the award and its ripple effect on the region.",
+    "seed": "We are delighted to share that our agricultural products have recently received recognition. This achievement reflects the dedication we bring to our daily cultivation practices, and we could not be happier about this honor. We will continue working hard to produce even better crops and to deliver quality products that our customers can enjoy and trust for many seasons to come across our growing operations."
+  },
+  {
+    "id": "pr_017",
+    "domain": "pr_media",
+    "instruction": "As an insurance company and university partnership announcement, fill in the concrete purpose of the partnership and who benefits.",
+    "seed": "We are pleased to announce that we have formed a new collaborative relationship with an academic institution. By combining our respective expertise, we hope to advance initiatives that benefit society as a whole. We will continue to share updates about this collaboration as it develops, and we are excited about the meaningful possibilities this partnership may unlock for students and communities in the years ahead."
+  },
+  {
+    "id": "pr_018",
+    "domain": "pr_media",
+    "instruction": "As an apparel company's CSR activity report, fill in the scale of the activity and quantified results.",
+    "seed": "Our company continues to promote environmental initiatives through our clothing collection program. Thanks to the wonderful cooperation of many of our customers, this activity has been steadily expanding over time. We will continue this program going forward and remain committed to fulfilling our broader responsibility to society through meaningful and lasting environmental action across all of our store locations nationwide."
+  },
+  {
+    "id": "pr_019",
+    "domain": "pr_media",
+    "instruction": "As a logistics company's crisis response statement about an accident, fill in the explanation of the incident and concrete prevention measures.",
+    "seed": "We deeply apologize for the significant inconvenience caused to everyone affected by the recent incident. We are currently working to determine the cause and remain fully committed to preventing any recurrence in the future. We sincerely appreciate everyone's understanding as we work through this matter with the utmost seriousness and diligence, and we will provide further updates as our investigation continues in the coming days."
+  },
+  {
+    "id": "pr_020",
+    "domain": "pr_media",
+    "instruction": "As a construction company CEO's message, fill in the missing concrete outlook informed by industry trends.",
+    "seed": "Since our founding, our company has approached every project with sincerity and dedication. Moving forward, we will continue to prioritize safety and quality as we strive to contribute meaningfully to the development of society. We deeply appreciate the continued guidance and support of everyone who has walked this journey with us, and we look forward to building an even brighter future together in the years ahead."
+  },
+  {
+    "id": "pr_021",
+    "domain": "pr_media",
+    "instruction": "As an anniversary message from a regional newspaper, fill in the concrete connection to the local community.",
+    "seed": "Our newspaper has been supported by the local community as we have continued publishing over many years. This would not have been possible without the loyalty of our readers, and we are deeply grateful for their continued support. We remain committed to delivering reporting that is rooted in our community, and we look forward to continuing this important mission together for many years to come."
+  },
+  {
+    "id": "pr_022",
+    "domain": "pr_media",
+    "instruction": "As a game company's media kit description, fill in the content of the assets and the usage terms.",
+    "seed": "Our press kit is packed with the latest information about our upcoming releases. We have prepared materials designed to convey the appeal of our games, and we hope you will find them useful when writing your articles. Please feel free to reach out to our team if you have any questions or need additional assets for your coverage of our upcoming projects and announcements."
+  },
+  {
+    "id": "pr_023",
+    "domain": "pr_media",
+    "instruction": "As a furniture manufacturer's product launch press release opening, fill in the missing materials and price range needed for reader judgment.",
+    "seed": "We are pleased to announce a new furniture collection. Designed with a focus on timeless style, each piece was crafted with great care to be cherished for years to come. We believe this collection will add a wonderful touch to any living space, and we invite everyone to take a closer look and discover the thoughtful details woven into every single piece we have created."
+  },
+  {
+    "id": "pr_024",
+    "domain": "pr_media",
+    "instruction": "As an airline's media pitch about a new route launch, fill in the significance of the launch and the missing figures.",
+    "seed": "We are pleased to announce that a new route will soon be launched. We expect this to be well received by many travelers looking for convenient options. We would like to request an interview regarding this launch and would be happy to provide further details at your convenience. Please let us know if this would be of interest to your publication for upcoming coverage."
+  },
+  {
+    "id": "pr_025",
+    "domain": "pr_media",
+    "instruction": "As a regional sports team's championship celebration event announcement, fill in the missing event logistics.",
+    "seed": "To celebrate our recent championship victory, we will be hosting a special event as a token of our gratitude to our loyal fans. It promises to be a memorable occasion featuring our players and the community that has supported us all season long. We hope many of you will join us to celebrate this incredible achievement together and share in the excitement of this remarkable season."
+  },
+  {
+    "id": "pr_026",
+    "domain": "pr_media",
+    "instruction": "As a biotech venture's technology partnership announcement, fill in the details of the technology and the concrete scope of the partnership.",
+    "seed": "We are pleased to announce a new technology partnership with another company. By combining our respective strengths, we are confident that exciting new possibilities will emerge from this collaboration. We will continue to share updates on our progress as this partnership develops, and we encourage everyone to stay tuned for further announcements about the innovative work we plan to pursue together in the near future."
+  },
+  {
+    "id": "pr_027",
+    "domain": "pr_media",
+    "instruction": "As a zoo's new facility opening announcement, fill in the missing date and highlights.",
+    "seed": "We are excited to announce the opening of a brand new facility. We have put great thought and effort into creating an experience that visitors of all ages will enjoy. We invite everyone to come and discover this exciting new addition for themselves, and we look forward to welcoming guests as they explore everything this wonderful new space has to offer throughout the upcoming season ahead."
+  },
+  {
+    "id": "pr_028",
+    "domain": "pr_media",
+    "instruction": "As a coffee chain's CSR activity report, fill in the missing beneficiaries and quantified results.",
+    "seed": "Our company continues to support coffee-growing communities through various ongoing programs. We remain committed to building a more sustainable future through these efforts and take our responsibility to these communities very seriously. We will continue to pursue initiatives like these as part of our broader commitment to being a company that contributes positively to society across every region where we operate our business."
+  },
+  {
+    "id": "pr_029",
+    "domain": "pr_media",
+    "instruction": "As a theme park's crisis response statement about a data breach, fill in the scope of the impact and concrete response actions.",
+    "seed": "We would like to inform our customers of an incident recently identified involving our systems. We deeply apologize for any concern this may have caused and take this matter with the utmost seriousness. We are currently investigating the cause and remain fully committed to preventing any recurrence going forward, and we will provide further updates to affected guests as our investigation continues over the coming days."
+  },
+  {
+    "id": "pr_030",
+    "domain": "pr_media",
+    "instruction": "As a pharmaceutical company CEO's message, fill in the missing concrete direction of research and development.",
+    "seed": "Our mission has always been to contribute to the health and wellbeing of people everywhere, and our research continues every single day toward that goal. We remain committed to being a company that society can continue to rely on, and our entire team works tirelessly toward that purpose. We deeply appreciate the continued support of our partners and stakeholders as we pursue this important mission together."
+  },
+  {
+    "id": "pr_031",
+    "domain": "pr_media",
+    "instruction": "As an anniversary message from a traditional sake brewery, fill in the concrete anecdotes about tradition and innovation.",
+    "seed": "Our brewery has walked a long journey through history, and we are deeply grateful for the support of our local community and business partners throughout the years. This milestone would not have been possible without their unwavering trust in us. We will continue to pursue the same quality that has defined our brewing traditions, while carrying this legacy forward for many more generations of sake lovers to come."
+  },
+  {
+    "id": "pr_032",
+    "domain": "pr_media",
+    "instruction": "As a real estate company's media kit description, fill in the missing concrete property data.",
+    "seed": "Our media kit introduces our company overview along with a summary of our business achievements. We believe this content will be useful when preparing your coverage, and we encourage you to make full use of these materials. Please do not hesitate to contact us if you have any questions or require any additional information for your reporting needs regarding our current projects and portfolio."
+  },
+  {
+    "id": "pr_033",
+    "domain": "pr_media",
+    "instruction": "As a toy manufacturer's product launch press release opening, fill in the missing age range and product features.",
+    "seed": "We are excited to announce the launch of a brand new toy. We have incorporated many thoughtful details designed to bring joy to children everywhere. It also makes a wonderful gift, and we hope that families around the world will enjoy playing with it together for years to come, creating cherished memories that last well beyond the excitement of its very first day out of the box."
+  },
+  {
+    "id": "pr_034",
+    "domain": "pr_media",
+    "instruction": "As an energy company's media pitch, fill in the missing timely social relevance of the interview topic.",
+    "seed": "We would like to request an interview regarding a new initiative at our company. This is considered a forward-looking effort within our industry, and we believe it would be of considerable interest to many readers. Please let us know your availability so that we can arrange a convenient time to discuss this further with your editorial team at whatever time works best for your schedule."
+  },
+  {
+    "id": "pr_035",
+    "domain": "pr_media",
+    "instruction": "As a university's open campus event announcement, fill in the missing target audience and basic date information.",
+    "seed": "Our university is pleased to announce an upcoming open campus event. We have prepared a wide range of content designed to give visitors a genuine sense of what it means to study with us. Whether you are considering applying or simply curious about our programs, we warmly welcome everyone to come and experience our campus for themselves during this special occasion this coming season."
+  },
+  {
+    "id": "pr_036",
+    "domain": "pr_media",
+    "instruction": "As a semiconductor trading company's award announcement, fill in the missing award name and selection criteria.",
+    "seed": "We are pleased to announce that our business has been recognized by an industry association. We are truly honored that our ongoing efforts have been acknowledged in this way. This recognition serves as great encouragement, and we remain committed to pursuing further growth and excellence as we continue building on this momentum for the years ahead across every part of our organization and operations."
+  },
+  {
+    "id": "pr_037",
+    "domain": "pr_media",
+    "instruction": "As a logistics company and e-commerce marketplace partnership announcement, fill in the missing partnership structure and user benefits.",
+    "seed": "We are pleased to announce a new business partnership with a major company in our industry. By combining our respective strengths, we believe we can create meaningful new value together. We will share further details about this partnership as they become available, and we look forward to keeping everyone updated on the exciting developments that lie ahead as this collaboration continues to take shape."
+  },
+  {
+    "id": "pr_038",
+    "domain": "pr_media",
+    "instruction": "As an electronics manufacturer's crisis response statement about a product recall, fill in the affected products and concrete response steps.",
+    "seed": "We sincerely apologize for the inconvenience this matter regarding our products may cause our valued customers. We are currently reviewing the situation thoroughly and will respond appropriately as we learn more. We remain committed to ensuring that our customers can continue to use our products with complete peace of mind, and we appreciate everyone's patience as we work diligently through this process."
+  },
+  {
+    "id": "pr_039",
+    "domain": "pr_media",
+    "instruction": "As an NPO director's message, fill in the missing concrete figures behind the organization's track record.",
+    "seed": "Since our founding, we have continued working toward solving important social issues in our community. We have been able to continue this journey thanks to the generous support of so many people along the way. We remain committed to carrying forward this same spirit of dedication as we continue our activities, and we are deeply thankful for everyone who has believed in our mission from the very beginning."
+  },
+  {
+    "id": "pr_040",
+    "domain": "pr_media",
+    "instruction": "As an anniversary message from a regional railway company, fill in the missing concrete ties to the communities along its lines.",
+    "seed": "Our railway has served as an essential part of daily life for the local community for many years. This would not have been possible without the continued patronage of everyone along our lines, and we are deeply grateful for their trust. We will continue to prioritize safe operations above all else as we move forward together with the communities we are proud to serve every single day."
+  },
+  {
+    "id": "pr_041",
+    "domain": "pr_media",
+    "instruction": "As a pet supplies manufacturer's media kit description, fill in the missing product categories and intended audience.",
+    "seed": "Our media kit brings together product information along with an overview of our company. We have prepared materials that we hope will be useful for your coverage and reporting needs, and we encourage you to make full use of them. Please feel free to reach out to our communications team with any questions you may have regarding our current product lineup and offerings."
+  },
+  {
+    "id": "pr_042",
+    "domain": "pr_media",
+    "instruction": "As a music label's press release announcing a new artist's debut, fill in the missing background and distinguishing traits.",
+    "seed": "We are excited to announce the debut of a new artist. This is a uniquely talented individual whose charm we are confident will capture the attention of many listeners. We invite everyone to look forward to what comes next, as we believe this is only the beginning of an exciting journey that we cannot wait to share with fans around the world in the months ahead."
+  },
+  {
+    "id": "pr_043",
+    "domain": "pr_media",
+    "instruction": "As a film distributor's media pitch, fill in the missing highlights of the film and the available interview format.",
+    "seed": "We would like to request coverage of our upcoming film release. We believe it is a work that many people will thoroughly enjoy, and we think it would be of great interest to your readers as well. Please let us know if you would be interested in exploring this further, and we would be happy to provide any additional materials needed for your consideration ahead of release."
+  },
+  {
+    "id": "pr_044",
+    "domain": "pr_media",
+    "instruction": "As a frozen food manufacturer's event announcement, fill in the missing overview of the tasting event.",
+    "seed": "We are excited to host an event designed to share the appeal of our new product with everyone. It will be a valuable opportunity to experience the product firsthand in a fun and engaging setting. We hope many of you will join us and enjoy this special occasion, and we look forward to welcoming guests eager to discover what makes this new offering truly special this season."
+  },
+  {
+    "id": "pr_045",
+    "domain": "pr_media",
+    "instruction": "As a solar power company's award announcement, fill in the missing specifics of the recognized initiative.",
+    "seed": "We are pleased to announce that our efforts have recently been recognized with an award. We feel truly honored that our contribution to environmental sustainability has been acknowledged in this way. We will continue to expand our work in this field, striving to be a company that contributes meaningfully to society through every project we undertake across the communities and regions we proudly serve."
+  },
+  {
+    "id": "pr_046",
+    "domain": "pr_media",
+    "instruction": "As a security company and local government partnership announcement, fill in the missing purpose of the collaboration and target area.",
+    "seed": "We are pleased to announce a new cooperative agreement with a local government. We believe this partnership will meaningfully contribute to community safety, and we consider it a truly significant step forward. We will share further updates about this initiative as they become available, and we look forward to strengthening this important relationship in the months and years ahead across the areas we serve."
+  },
+  {
+    "id": "pr_047",
+    "domain": "pr_media",
+    "instruction": "As an apparel company's crisis response statement about a factory fire, fill in the extent of the damage and concrete impact on production.",
+    "seed": "We apologize for the concern caused by a recent incident at one of our factories. We are currently confirming the details of the situation and are working to respond appropriately as more information becomes available. We will provide a further update in due course, and we sincerely appreciate everyone's patience and understanding as our team addresses this matter with the seriousness it deserves."
+  },
+  {
+    "id": "pr_048",
+    "domain": "pr_media",
+    "instruction": "As a regional bank CEO's message, fill in the missing concrete initiatives to support the local economy.",
+    "seed": "Our bank has continued to operate as an institution that grows alongside our local community. With deep gratitude toward everyone in our region, we remain committed to approaching our customers with sincerity and care in everything we do. We look forward to continuing this relationship for many years to come, and we deeply value the trust that our customers and partners place in us every single day."
+  },
+  {
+    "id": "pr_049",
+    "domain": "pr_media",
+    "instruction": "As an anniversary message from a long-established ryokan, fill in the missing concrete anecdotes about hospitality.",
+    "seed": "Our ryokan has been supported by many wonderful guests throughout the years as we have continued this long journey together. This milestone would not have been possible without the loyalty of our guests, and we are deeply thankful for their trust in us. We will continue to welcome everyone with the same spirit of hospitality that has defined our tradition since the very beginning of our history."
+  },
+  {
+    "id": "pr_050",
+    "domain": "pr_media",
+    "instruction": "As a sporting goods manufacturer's media kit description, fill in the missing asset formats and press contact information.",
+    "seed": "Our media kit brings together company information along with our full product lineup. We believe this content will be useful for your articles and coverage, and we encourage you to make full use of it however needed. Please feel free to get in touch with our team if you require anything further for your reporting on our upcoming product releases and initiatives."
+  }
+]

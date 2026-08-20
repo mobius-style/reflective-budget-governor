@@ -1,0 +1,302 @@
+[
+  {
+    "id": "gov_001",
+    "domain": "public",
+    "instruction": "As a resident-facing trash collection notice, improve the ordering of key information and overall clarity for readers.",
+    "seed": "Pursuant to municipal solid waste management policy, the Department of Public Works hereby announces a modification to the residential refuse collection schedule effective the first Monday of next month. The rationale for this modification pertains to route optimization and operational efficiency considerations. Affected households are advised to consult the attached route map for further particulars. Failure to place receptacles at the curb in accordance with the revised schedule may result in delayed collection. Inquiries regarding this matter may be directed to the Department of Public Works during regular business hours."
+  },
+  {
+    "id": "gov_002",
+    "domain": "public",
+    "instruction": "As a building permit application guide, improve the bureaucratic rigidity of the language and the clarity of the required steps.",
+    "seed": "Applicants seeking to obtain a building permit shall submit a completed application form together with supporting documentation as prescribed by the Building Code enforcement division. Said documentation shall include, without limitation, site plans, structural drawings, and proof of property ownership. Applications shall be reviewed in the order received, and the review period shall not be less than fifteen business days. Applicants are advised that incomplete submissions shall be returned without further processing. Fees are non-refundable regardless of application outcome."
+  },
+  {
+    "id": "gov_003",
+    "domain": "public",
+    "instruction": "As a hurricane evacuation notice, improve how urgency is conveyed and the priority order of actionable information for residents.",
+    "seed": "In connection with the approach of Tropical Storm Delia, the Office of Emergency Management wishes to inform residents that certain low-lying zones have been designated for evacuation consideration. Shelter locations, when activated, will be listed on the county website. Residents are reminded that evacuation orders may be issued or rescinded depending on the storm's trajectory as determined by the National Weather Service. Personal preparedness items are the responsibility of each household. Further updates will be issued as circumstances warrant."
+  },
+  {
+    "id": "gov_004",
+    "domain": "public",
+    "instruction": "As a property tax payment notice, improve the sequencing of information so residents see what matters to them first.",
+    "seed": "The Office of the Tax Collector hereby notifies all property owners of record that annual property tax assessments have been finalized in accordance with the applicable statutory schedule. Payment methods include mail, in-person, and online portal, each subject to processing timeframes described in the enclosed schedule. Failure to remit payment by the applicable due date shall result in the accrual of interest and penalties as set forth in the municipal code. Owners disputing their assessment may file an appeal within the prescribed period."
+  },
+  {
+    "id": "gov_005",
+    "domain": "public",
+    "instruction": "As a community center rental guide, improve the explanation from the perspective of a first-time resident renter.",
+    "seed": "Individuals or organizations wishing to reserve space at the Riverside Community Center shall submit a Facility Use Application no fewer than thirty days prior to the requested date. Rental fees are established per the fee schedule maintained by the Parks and Recreation Department and are subject to change without notice. A refundable security deposit shall accompany the application. Cancellations made fewer than fourteen days prior to the event date shall forfeit the deposit in full. Insurance documentation may be required depending on event type."
+  },
+  {
+    "id": "gov_006",
+    "domain": "public",
+    "instruction": "As a public comment period announcement for a zoning plan, improve accessibility and motivation for residents to participate.",
+    "seed": "Notice is hereby given that the Planning Commission will accept written comments regarding the proposed Downtown Rezoning Initiative for a period of thirty days commencing on the date of publication. Comments must be submitted in writing via mail or the designated online portal and must reference the applicable case number. The draft rezoning document is available for inspection at the Planning Department during normal business hours. Comments received after the closing date will not be considered part of the official record."
+  },
+  {
+    "id": "gov_007",
+    "domain": "public",
+    "instruction": "As a small business grant program notice, improve the ordering of eligibility information and reduce perceived application difficulty.",
+    "seed": "The Economic Development Office administers the Small Business Facade Improvement Grant, funded subject to annual appropriations. Eligible applicants must operate a for-profit business within the designated commercial corridor and must be current on all municipal obligations. Grant awards shall not exceed fifty percent of eligible project costs up to a maximum of five thousand dollars. Applications require submission of contractor estimates, proof of business license, and a signed matching funds agreement. Awards are subject to available funding and are not guaranteed."
+  },
+  {
+    "id": "gov_008",
+    "domain": "public",
+    "instruction": "As a water utility bill notice, improve the reassurance offered to residents concerned about late payment and reorganize the information flow.",
+    "seed": "The Water and Sewer Utility hereby advises customers of available payment options including autopay, mailed payment, and the online customer portal. Accounts not paid within the billing cycle shall be subject to a late fee as established by ordinance. Continued non-payment may result in service interruption following issuance of a final notice. Customers experiencing financial hardship may be eligible for a payment arrangement upon request to the Billing Division. Additional information is available upon inquiry during business hours."
+  },
+  {
+    "id": "gov_009",
+    "domain": "public",
+    "instruction": "As a library hours change notice, restructure the content so the information affecting patrons' schedules appears first.",
+    "seed": "In consideration of facility maintenance requirements and staffing considerations, the Public Library Board has approved a revision to operating hours effective the beginning of next month. The library's previous hours of operation were 9:00 a.m. to 8:00 p.m. on weekdays. Under the revised schedule, the library will operate from 10:00 a.m. to 6:00 p.m. on weekdays. Weekend hours remain unaffected by this change. Patrons with questions may direct inquiries to the reference desk."
+  },
+  {
+    "id": "gov_010",
+    "domain": "public",
+    "instruction": "As a city council meeting summary, improve plain-language accessibility and the presentation of key debate points for residents.",
+    "seed": "At its regular session, the City Council considered a total of twelve agenda items, of which eleven were approved as presented following brief discussion. Under public comment, several residents addressed concerns regarding proposed changes to parking enforcement policy. The Council also received a presentation from the Finance Department regarding quarterly budget performance. For further detail, residents are referred to the official meeting minutes, which will be posted following approval at the subsequent session."
+  },
+  {
+    "id": "gov_011",
+    "domain": "public",
+    "instruction": "As a newsletter article about a flu shot clinic, improve the resident-facing appeal and encourage attendance.",
+    "seed": "The Department of Public Health will conduct its annual seasonal influenza vaccination clinic pursuant to established public health protocol. Eligible participants include residents aged six months and older who are not otherwise contraindicated per CDC guidance. The clinic will be held at the Health Department Annex during designated hours over a two-week period. Participants are advised to bring insurance documentation, though vaccination will be provided regardless of insurance status. Walk-ins are accepted subject to vaccine supply availability."
+  },
+  {
+    "id": "gov_012",
+    "domain": "public",
+    "instruction": "As a scam and fraud alert, improve the sense of urgency and the clarity of concrete protective actions for residents.",
+    "seed": "It has come to the attention of this department that fraudulent activity purporting to originate from municipal offices has been reported within the jurisdiction. The modus operandi generally involves telephonic communication alleging outstanding utility balances requiring immediate payment via gift card or wire transfer. Residents are reminded that municipal offices do not solicit payment through such means. Individuals who believe they have been targeted are encouraged to report the incident to the appropriate authorities in due course."
+  },
+  {
+    "id": "gov_013",
+    "domain": "public",
+    "instruction": "As an earthquake drill announcement, improve the ordering of information so residents considering participation see what they need first.",
+    "seed": "The Office of Emergency Management, in coordination with regional partner agencies, will conduct the annual Great Shakeout earthquake preparedness exercise as part of its ongoing emergency preparedness mandate. The exercise is designed to evaluate coordination protocols among first responders and municipal departments. The drill will take place on a designated weekday morning at multiple municipal facilities simultaneously. Neighborhood associations wishing to organize a participating group are asked to notify the Office of Emergency Management in advance."
+  },
+  {
+    "id": "gov_014",
+    "domain": "public",
+    "instruction": "As a vital records fee increase notice, improve the tone of consideration toward residents and the ordering of information.",
+    "seed": "Pursuant to an amendment of the municipal fee schedule ordinance, the fee for issuance of a certified copy of a vital record shall be adjusted accordingly. Under the revised schedule, the fee for a certified birth or death certificate shall be twenty-five dollars per copy. The effective date of this adjustment shall be the first day of the next fiscal quarter. The stated rationale for the adjustment is the recovery of increased administrative processing costs. Electronic requests remain subject to the same fee structure."
+  },
+  {
+    "id": "gov_015",
+    "domain": "public",
+    "instruction": "As a senior services program guide, improve the explanation from the perspective of an older adult or family member navigating it for the first time.",
+    "seed": "Individuals seeking to access services offered through the Senior Services Division must first complete an intake assessment conducted by division staff or an authorized designee. Eligibility for specific services, including transportation assistance and home-delivered meals, shall be determined based on criteria established in accordance with state and federal funding requirements. The intake process typically requires submission of income documentation. Applicants should anticipate a processing period of approximately three to four weeks before services commence."
+  },
+  {
+    "id": "gov_016",
+    "domain": "public",
+    "instruction": "As a childcare subsidy application guide, improve the priority ordering of information most relevant to working families.",
+    "seed": "Applications for the Childcare Assistance Subsidy Program shall be submitted together with proof of household income, employment verification, and documentation establishing the need for childcare services. The program operates on a rolling basis subject to available funding allocated pursuant to the annual budget appropriation. Applicants determined eligible shall be placed on a waitlist pending availability of subsidized slots at a participating provider. Processing of applications may require up to six weeks depending on caseload volume."
+  },
+  {
+    "id": "gov_017",
+    "domain": "public",
+    "instruction": "As a park renovation notice, improve the consideration shown toward nearby residents' daily lives in the structure of the notice.",
+    "seed": "The Parks and Recreation Department will commence renovation of playground equipment at Central Park pursuant to the capital improvement plan adopted for the current fiscal year. The project is anticipated to span a period of approximately ten weeks. During construction, access to portions of the park shall be restricted for public safety purposes. Construction activity may generate noise during standard working hours. Further inquiries regarding the project scope may be directed to the Parks and Recreation Department."
+  },
+  {
+    "id": "gov_018",
+    "domain": "public",
+    "instruction": "As a sewer rate increase notice, restructure the content so the impact on household bills is presented before the procedural background.",
+    "seed": "In light of the current financial condition of the Water and Sewer Enterprise Fund, the governing body has determined that a revision of the rate structure is warranted. The revised structure shall maintain a tiered consumption-based model while adjusting the base charge applicable to all accounts. The effective date of this revision shall be the first day of the next fiscal year. Additional information regarding the revised rate structure is available in the informational brochure published by the Utility Division."
+  },
+  {
+    "id": "gov_019",
+    "domain": "public",
+    "instruction": "As a vacant property grant notice, improve the ordering of information so eligible owners can quickly judge whether they qualify.",
+    "seed": "Consistent with the objectives of the Vacant Property Reduction Ordinance, the municipality is offering a demolition assistance grant program. Eligible properties consist of vacant, structurally unsound residential structures located within municipal boundaries as determined by code enforcement inspection. The grant shall cover fifty percent of demolition costs up to a maximum of five thousand dollars. Applicants should note that work commenced prior to grant approval shall not be eligible for reimbursement under any circumstances."
+  },
+  {
+    "id": "gov_020",
+    "domain": "public",
+    "instruction": "As a bike parking permit guide, arrange the information to follow the natural order of a commuter's daily routine.",
+    "seed": "Use of the transit station bicycle parking facility shall be subject to registration procedures administered by the Transit Authority. Individuals seeking permanent registration shall complete a registration form and remit the applicable annual fee. Temporary users may utilize the coin-operated access terminal located at the facility entrance. The location and capacity of each bicycle parking facility are set forth in the attached schedule. Registered users are advised that unregistered bicycles may be subject to removal after a specified period."
+  },
+  {
+    "id": "gov_021",
+    "domain": "public",
+    "instruction": "As a polling place notice, prioritize the information voters need to avoid confusion on election day.",
+    "seed": "The general municipal election shall be held on the date specified by the county election calendar. Polls shall be open from 7:00 a.m. to 8:00 p.m. Voter notification cards shall be mailed to all registrants listed on the voter registration roll. In the event a registrant does not receive a notification card, or in the event such card is lost, voting may nonetheless proceed upon presentation of acceptable identification at the assigned polling location."
+  },
+  {
+    "id": "gov_022",
+    "domain": "public",
+    "instruction": "As a flu vaccination clinic notice, improve the plain language and structure so it reads clearly to older adults.",
+    "seed": "In furtherance of efforts to mitigate the incidence and severity of seasonal influenza, notice is hereby provided regarding the availability of vaccination services for senior residents. Eligible individuals shall be sixty-five years of age or older, or between sixty and sixty-four years of age with a qualifying condition as defined by health department guidance. A co-payment of fifteen dollars shall apply. The vaccination period shall extend from mid-October through the end of January of the following year."
+  },
+  {
+    "id": "gov_023",
+    "domain": "public",
+    "instruction": "As a heat advisory notice, improve how urgency is conveyed and make the concrete preventive actions clearer.",
+    "seed": "The National Weather Service has issued an excessive heat warning effective for the current jurisdiction. Residents are advised to limit non-essential outdoor activity and to maintain adequate hydration throughout the affected period. Additionally, temporary cooling center locations designated by the municipality remain available for public use during posted hours as a means of temporary relief. Elderly individuals and children are noted to be at particular risk. Further information may be obtained through the Health and Human Services Department."
+  },
+  {
+    "id": "gov_024",
+    "domain": "public",
+    "instruction": "As a bulk waste pickup change notice, improve the ordering of information to minimize confusion for residents.",
+    "seed": "The Solid Waste Division wishes to inform residents that, effective the beginning of next month, the process for scheduling bulk item collection shall be revised to include an online scheduling option in addition to the existing telephone-based system. The online system shall be accessible on a twenty-four hour basis. Scheduling requires input of item description, quantity, and placement location. A prepaid collection tag, obtained through participating retail vendors, shall be affixed to each item prior to the scheduled collection date."
+  },
+  {
+    "id": "gov_025",
+    "domain": "public",
+    "instruction": "As a change of address filing guide, improve clarity for a resident going through this process for the first time.",
+    "seed": "Pursuant to applicable municipal registration requirements, residents who relocate within or outside the jurisdiction are obligated to file notice within the prescribed statutory period. In the case of relocation out of the jurisdiction, notice may be filed as early as fourteen days prior to the anticipated departure date, at which time a certificate of departure shall be issued. In the case of relocation into the jurisdiction, notice shall be filed within fourteen days of arrival, accompanied by the aforementioned certificate."
+  },
+  {
+    "id": "gov_026",
+    "domain": "public",
+    "instruction": "As a public comment announcement for an environmental plan, improve the explanation order so it encourages resident participation.",
+    "seed": "Notice is provided that the draft Environmental Sustainability Plan update is available for public review and comment. The comment period shall commence on the fifteenth of this month and conclude thirty days thereafter. The draft plan may be reviewed at the Environmental Services office or via the municipal website. Comments shall be submitted using the designated comment form; submissions not conforming to the prescribed format may not be accepted for consideration as part of the official record."
+  },
+  {
+    "id": "gov_027",
+    "domain": "public",
+    "instruction": "As a downtown business district grant notice, improve the structure so business owners intuitively grasp the purpose and process.",
+    "seed": "In furtherance of downtown revitalization objectives, the municipality shall provide grant funding to the Downtown Business Association for events organized to promote commercial activity within the designated district. Eligible expenditures include venue setup and advertising costs, subject to a reimbursement rate of up to two-thirds of eligible costs, not to exceed three thousand dollars. Applications must be submitted no later than thirty days prior to the proposed event date. A final expenditure report shall also be required following the event."
+  },
+  {
+    "id": "gov_028",
+    "domain": "public",
+    "instruction": "As a neighborhood watch camera grant notice, restructure the content so residents can quickly determine the eligibility requirements.",
+    "seed": "In the interest of enhancing community safety, the municipality shall administer a reimbursement program for security cameras installed by registered neighborhood associations. Eligible costs shall include the camera unit and associated installation labor, subject to a reimbursement rate of fifty percent up to a maximum of one thousand dollars. Applications shall be accompanied by an installation plan and itemized cost estimate. Reimbursement shall not be issued for equipment installed prior to formal application approval."
+  },
+  {
+    "id": "gov_029",
+    "domain": "public",
+    "instruction": "As a road closure notice, restructure the content so information important to drivers appears at the beginning.",
+    "seed": "In connection with scheduled roadway maintenance operations, the Department of Public Works shall implement a full closure of a segment of Main Street to vehicular traffic. The closure period is anticipated to extend from the twentieth of this month through the tenth of next month. Motorists are advised to utilize posted detour routes during this period. Work may occur during both daytime and nighttime hours as necessary. Further details regarding the scope of work may be obtained from the Department of Public Works."
+  },
+  {
+    "id": "gov_030",
+    "domain": "public",
+    "instruction": "As a tax filing assistance clinic notice, restructure the content so readers can quickly determine whether it applies to them.",
+    "seed": "The Finance Department, in partnership with a volunteer tax preparation organization, will offer free tax filing assistance for the upcoming filing season. The clinic shall be held in the main conference room of the municipal building on weekdays throughout the period from early February through mid-March. Participants are requested to bring wage statements, applicable deduction documentation, and prior-year returns if available. Wait times may occur depending on volume of attendees present at a given session."
+  },
+  {
+    "id": "gov_031",
+    "domain": "public",
+    "instruction": "As a family resource center opening announcement, improve the ordering and tone to appeal to families with young children.",
+    "seed": "In furtherance of its commitment to strengthening supports for families with young children, the municipality shall establish a new Family Resource Center. The facility shall be located on the second floor of the East Annex building. The opening date shall be the first day of next month. Eligible participants shall be infants, toddlers, and their accompanying caregivers. Hours of operation shall be from 9:00 a.m. to 4:00 p.m. Services shall be provided free of charge, and no advance appointment shall be required."
+  },
+  {
+    "id": "gov_032",
+    "domain": "public",
+    "instruction": "As a volunteer firefighter recruitment notice, improve the ordering of information so it addresses concerns a prospective applicant would have first.",
+    "seed": "In order to strengthen the municipality's emergency response capacity, the Fire Department shall conduct a recruitment drive for volunteer firefighter positions. Applicants shall be at least eighteen years of age and shall be either residents or employed within the jurisdiction. Volunteer members shall receive a stipend as well as per-call compensation in accordance with the applicable schedule. Interested individuals are encouraged to contact Fire Department headquarters or the nearest station to express interest."
+  },
+  {
+    "id": "gov_033",
+    "domain": "public",
+    "instruction": "As a flood warning response guide, prioritize the information a resident reading it during an emergency would need most.",
+    "seed": "In the event that the National Weather Service issues a flood warning, the municipality may, as circumstances warrant, issue evacuation guidance corresponding to the severity of the anticipated flooding. Categories of guidance include voluntary evacuation recommendations and mandatory evacuation orders, which shall be issued in a graduated manner depending on conditions. Residents are advised to monitor emergency alert systems and text notification services for updates. Ultimately, the decision regarding personal evacuation rests with each individual resident."
+  },
+  {
+    "id": "gov_034",
+    "domain": "public",
+    "instruction": "As a community bus route change notice, restructure the content so the impact on riders' daily commutes is presented first.",
+    "seed": "Following an analysis of ridership data, the Transit Authority has determined that a revision to the Community Connector route and schedule is warranted. The revised schedule shall take effect at the beginning of next month. Certain stops along the route shall be discontinued, while certain new stops shall be added. A revised timetable shall be made available on the municipal website as well as at designated transit information kiosks throughout the service area."
+  },
+  {
+    "id": "gov_035",
+    "domain": "public",
+    "instruction": "As a city hall window closure notice for HVAC repair, improve the consideration shown to residents planning to visit.",
+    "seed": "In connection with the ongoing replacement of the heating, ventilation, and air conditioning system at the municipal building, certain public service counters shall be temporarily closed. The closure period shall span three consecutive business days beginning the fifth of this month. The counters affected shall include the Records Division and the Finance Division. Time-sensitive matters may be addressed at the general information desk on a limited basis. The municipality appreciates the public's understanding regarding any noise associated with the project."
+  },
+  {
+    "id": "gov_036",
+    "domain": "public",
+    "instruction": "As a property tax exemption guide for low-income residents, improve the tone with sensitivity toward the reader's financial circumstances and reorder accordingly.",
+    "seed": "Property owners experiencing financial hardship due to limited income may be eligible for a property tax exemption pursuant to applicable state statute. Eligibility shall be determined based on household income falling below a threshold established annually and updated periodically. Approved exemptions shall reduce the assessed value applied for tax calculation purposes for the applicable period. Applications shall be filed with the Assessor's Office, and eligible applicants shall be required to reapply on an annual basis."
+  },
+  {
+    "id": "gov_037",
+    "domain": "public",
+    "instruction": "As a home seismic retrofit grant guide, restructure the content so property owners can quickly grasp the key program facts.",
+    "seed": "In order to mitigate the risk of structural failure resulting from seismic events, the municipality offers a subsidy program for seismic retrofit assessments of wood-frame residential structures. Eligible structures shall be those constructed prior to a specified cutoff date established in accordance with applicable building code history. The subsidy shall cover the full cost of the assessment, subject to a maximum of six hundred dollars. Property owners wishing to proceed shall first consult with the Building Division."
+  },
+  {
+    "id": "gov_038",
+    "domain": "public",
+    "instruction": "As an emergency relief payment application guide, restructure so a reader can immediately determine eligibility before reading the procedural details.",
+    "seed": "In consideration of the impact of recent inflationary pressures on household budgets, the municipality has established a Temporary Living Assistance payment program. Eligible households shall be those registered as residents as of the qualifying date established by ordinance. The payment amount shall be three hundred dollars per eligible household. Applicants shall provide banking information for direct deposit along with all required supporting documentation. The application deadline shall be the twenty-eighth of December of the current year."
+  },
+  {
+    "id": "gov_039",
+    "domain": "public",
+    "instruction": "As a lost ID card replacement guide, restructure so an anxious reader knows immediately what steps to take.",
+    "seed": "The following procedure applies in the event a resident identification card is lost or stolen. Upon discovery of the loss, it is advisable to promptly initiate a temporary suspension of the card through the dedicated toll-free hotline, which operates on a continuous basis. Thereafter, the resident shall visit the Records Division in person to submit a replacement application. A replacement fee shall generally apply, subject to certain limited exceptions established by policy."
+  },
+  {
+    "id": "gov_040",
+    "domain": "public",
+    "instruction": "As a cancer screening program notice, improve the structure and tone to encourage residents who might otherwise hesitate to be screened.",
+    "seed": "The municipality operates a program aimed at facilitating early detection and treatment of cancer through subsidized screening services. Screening categories offered include gastric, lung, colorectal, cervical, and breast cancer screening. Eligible age ranges and applicable co-payment amounts vary depending on the specific screening category, as set forth in the attached schedule. Residents wishing to participate may either register directly with a designated provider or attend a group screening session, as applicable."
+  },
+  {
+    "id": "gov_041",
+    "domain": "public",
+    "instruction": "As a council budget session summary, improve accessibility so residents can follow the key financial issues without prior background.",
+    "seed": "During its review of the proposed budget for the upcoming fiscal year, the Council examined a total revenue and expenditure figure reflecting a 3.2 percent increase relative to the prior fiscal year. Principal points of discussion included increased allocations for childcare-related programs as well as rising facility maintenance expenditures. The proposed budget was ultimately approved by majority vote. Further detail is available in the report issued by the Budget Committee following the session."
+  },
+  {
+    "id": "gov_042",
+    "domain": "public",
+    "instruction": "As a facility reservation system upgrade notice, restructure so existing users are not confused about what changes for them.",
+    "seed": "In light of the aging condition of the current facility reservation platform, the municipality has determined that a system upgrade is necessary. The upgraded system is scheduled to become operational at the beginning of next month. Prior to the transition, existing user account information shall generally be carried over, although certain accounts may require re-registration. A temporary suspension of reservation services shall occur immediately before and after the transition date."
+  },
+  {
+    "id": "gov_043",
+    "domain": "public",
+    "instruction": "As a solar panel rebate program notice, restructure so residents can intuitively grasp the financial benefit.",
+    "seed": "In furtherance of climate action objectives, the municipality offers a rebate program applicable to residential solar photovoltaic system installations. Eligible installations shall consist of new systems installed at residences located within municipal boundaries. The rebate amount shall be twenty dollars per kilowatt of installed capacity, subject to a maximum rebate of eighty dollars. Rebate applications shall be processed on a first-come, first-served basis and shall close upon exhaustion of allocated program funding."
+  },
+  {
+    "id": "gov_044",
+    "domain": "public",
+    "instruction": "As a responsible pet ownership advisory, restructure it so concrete owner actions are clearer from a pet owner's perspective.",
+    "seed": "Consistent with the principles underlying applicable animal welfare statutes, pet owners bear a responsibility to provide lifelong care for their animals. The municipality additionally offers a partial subsidy for spay and neuter procedures performed by participating veterinary providers. Furthermore, licensing of dogs and administration of rabies vaccination are mandatory obligations under applicable law. Further procedural information may be obtained by contacting the Environmental Services Division."
+  },
+  {
+    "id": "gov_045",
+    "domain": "public",
+    "instruction": "As a high school graduation ceremony notice, improve the tone to feel more welcoming to the graduating students it addresses.",
+    "seed": "The Commencement Ceremony for the current graduating class shall be conducted as set forth below. The ceremony shall commence at 10:00 a.m. and shall conclude at approximately 11:30 a.m. The venue shall be the Civic Auditorium. Eligible participants shall be individuals born between the second of April of one specified year and the first of April of the following year. Invitations shall be mailed during the middle of the preceding month. No response regarding attendance shall be required."
+  },
+  {
+    "id": "gov_046",
+    "domain": "public",
+    "instruction": "As a school lunch payment system change notice, restructure so parents can easily understand what changes about how they pay.",
+    "seed": "Whereas the collection and administration of school lunch fees has historically been handled independently by each individual school, the district has determined, in the interest of administrative standardization, to transition to a centralized payment processing arrangement to be administered by the district finance office. The transition shall take effect at the start of the next academic year. In connection with this transition, re-registration of automatic payment authorizations may be required for certain accounts."
+  },
+  {
+    "id": "gov_047",
+    "domain": "public",
+    "instruction": "As a snow removal policy notice, restructure with consideration for residents anxious about winter mobility.",
+    "seed": "With respect to snow removal on municipal roadways, priority shall be given to arterial roads in accordance with the established snow removal protocol. Removal on residential streets shall occur as conditions and resource availability permit. Deployment of snow removal equipment shall be determined once accumulated snowfall reaches a threshold established by the Department of Public Works. Clearing of individual driveways and walkways remains the responsibility of each household. Complaints and requests may be directed to the Department of Public Works."
+  },
+  {
+    "id": "gov_048",
+    "domain": "public",
+    "instruction": "As a power outage safety notice, restructure so essential safety information appears before procedural details, given residents' anxiety.",
+    "seed": "As a result of the recent storm event, power outages have been reported affecting portions of the jurisdiction. Restoration efforts are being conducted on a progressive basis by the utility provider; however, the estimated timeframe for full restoration remains subject to change. Certain areas may additionally experience water service interruption as a consequence of the outage. At intersections where traffic signals are non-functional, motorists are advised to exercise appropriate caution."
+  },
+  {
+    "id": "gov_049",
+    "domain": "public",
+    "instruction": "As a public building seismic retrofit completion notice, restructure so residents feel reassured the facility is ready to use again.",
+    "seed": "With respect to the Municipal Recreation Center, seismic retrofit renovation work had been underway, and notice is hereby given that such work has been completed. The construction period extended from April of the prior fiscal year through August of the current fiscal year. In connection with the completion of construction, normal operations shall resume beginning the first of next month. Reservation procedures shall continue to follow the previously established method."
+  },
+  {
+    "id": "gov_050",
+    "domain": "public",
+    "instruction": "As an online permit application promotional notice, restructure so the benefits to residents considering a visit are clear.",
+    "seed": "In order to reduce congestion at municipal service counters, the municipality has been promoting the use of online applications for various certificate requests. The scope of procedures available through online application shall be expanded on an ongoing basis. Use of the online system shall require a compatible digital identification credential as well as a supported device. Further detail regarding operating procedures may be obtained by consulting the municipal website."
+  }
+]

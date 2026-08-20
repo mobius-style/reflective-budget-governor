@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tech_001",
+    "domain": "technical",
+    "instruction": "As a REST API endpoint specification, improve the clarity of parameter types/required fields and the description of error behavior.",
+    "seed": "This API lets you get user information. You need to send some parameters with your request, and if you do it correctly you will get a result back. Sometimes things don't work and you get an error instead, which can happen for a few different reasons depending on your setup. If that happens to you, please reach out to support and they will help you figure out what went wrong. Overall the API is designed to be pretty easy to use once you get the hang of it, and most people don't have too much trouble with it after their first couple of calls."
+  },
+  {
+    "id": "tech_002",
+    "domain": "technical",
+    "instruction": "As the introduction section of an open-source tool's README, improve the clarity of the target audience and provide an at-a-glance installation path.",
+    "seed": "This tool has a lot of useful features and was built to help make developers' lives easier in various ways. Once you install it you can pretty much start using it right away without much trouble. There is more documentation available if you want to learn about all the different things it can do. If you run into any issues along the way, feel free to open an issue on the repository and someone will take a look when they get a chance. Thanks for checking it out and we hope you find it useful for whatever you're building."
+  },
+  {
+    "id": "tech_003",
+    "domain": "technical",
+    "instruction": "As a database connection outage incident report, improve the specificity of the timeline, affected scope, and root cause.",
+    "seed": "A while back we had an issue where the database couldn't be reached. It seems like some users were affected, though we're not totally sure how many. We are still looking into what caused it, and honestly we don't have a full picture yet. As far as we can tell things are back to normal now, but we want to keep an eye on it just in case. Going forward we'd like to avoid this kind of thing happening again, and we'll try to figure out some better safeguards once we understand the situation more."
+  },
+  {
+    "id": "tech_004",
+    "domain": "technical",
+    "instruction": "As release notes for v2.3.0, improve the categorization of changes and make clear which users are affected.",
+    "seed": "This update includes a bunch of improvements across the board. There are some bug fixes as well as a few new features that were added. Performance should also feel a bit better than before, though your mileage may vary depending on your setup. If you want the full list of changes, you can check the repository for more detail. As always, please let us know if you run into any problems after upgrading and we'll do our best to look into it."
+  },
+  {
+    "id": "tech_005",
+    "domain": "technical",
+    "instruction": "As an architecture decision record (ADR) for caching layer selection, improve the comparison of alternatives and the logical justification for the choice.",
+    "seed": "We decided to go with Redis for caching. The main reason is that it's fast. There were other options on the table too, but we ended up going with this one mostly because a lot of people on the team are already familiar with it. We might revisit this decision later if problems come up once it's in production, but for now we don't see any major concerns and think it should be fine for our needs going forward."
+  },
+  {
+    "id": "tech_006",
+    "domain": "technical",
+    "instruction": "As an operations runbook for scheduled maintenance, improve the clarity of execution order and add a rollback procedure for failures.",
+    "seed": "Once a month we do maintenance on the server. Before starting, please go through the checklist to make sure everything is in order. After the work is done, please verify that things are still working properly. If something goes wrong during the process, please handle it as needed based on the situation. Note that the exact steps involved might change a bit depending on circumstances, so use your judgment when following along."
+  },
+  {
+    "id": "tech_007",
+    "domain": "technical",
+    "instruction": "As an improved error message for a failed file upload, clarify the likely cause and specify the exact next action the user should take.",
+    "seed": "Upload failed. Please try again. If the problem continues to happen even after trying multiple times, you might want to wait a while before attempting it again, or you could also consider trying some other approach that might work better for your situation. We apologize for any inconvenience this may have caused and appreciate your patience while we look into ways to make this experience smoother in the future."
+  },
+  {
+    "id": "tech_008",
+    "domain": "technical",
+    "instruction": "As a technology selection rationale document for a message queue, improve the mapping between requirements and the tradeoff analysis.",
+    "seed": "We decided to go with Kafka for our message queue. It has high throughput and is widely used across the industry, so it seemed like a safe choice. We looked at some other options too, but in the end we felt this was probably the better call overall. We plan to keep adjusting things as we go once it's actually running in production and we learn more about how it behaves under our specific workload."
+  },
+  {
+    "id": "tech_009",
+    "domain": "technical",
+    "instruction": "As a code review comment on an N+1 query problem, pinpoint the exact location of the issue and propose a concrete fix.",
+    "seed": "This code seems to be firing off a query inside a loop, which doesn't look great from a performance standpoint. Might be worth taking another look at it when you have some time. I'm not 100% sure how big of a deal it is in practice, but it seemed worth flagging just in case. Let me know if you see anything else that looks off while you're in there, happy to discuss further if needed."
+  },
+  {
+    "id": "tech_010",
+    "domain": "technical",
+    "instruction": "As a Python 2 to Python 3 migration guide, list the specific incompatibilities and add verification steps.",
+    "seed": "Python 2 is no longer supported, so we need to move to Python 3. There are a few things to keep in mind during the migration. You'll need to update the code and then make sure everything still works correctly after the change. If you're not sure about something, feel free to ask around. Let's try to plan this out properly and take it step by step so nothing important gets missed along the way."
+  },
+  {
+    "id": "tech_011",
+    "domain": "technical",
+    "instruction": "As a CHANGELOG entry for a breaking change, specify the concrete migration steps required and the scope of impact.",
+    "seed": "We changed the format of the config file. If you were using the old format, things might stop working correctly for you. You'll need to update your setup to match the new format. Check the documentation for more details on what exactly changed and how to adjust. Sorry for any inconvenience this causes, and thanks in advance for bearing with us while you make the necessary updates on your end."
+  },
+  {
+    "id": "tech_012",
+    "domain": "technical",
+    "instruction": "As an improved commit message, make the intent of the change explicit and attach the related ticket number.",
+    "seed": "Fixed stuff. There was a bug so I fixed it. Also cleaned up some other things along the way while I was in there. Tested it and it seems to work fine now. Nothing major changed as far as I can tell. Please review when you get a chance and let me know if anything looks off, otherwise should be good to merge."
+  },
+  {
+    "id": "tech_013",
+    "domain": "technical",
+    "instruction": "As a pull request description, clarify the background of the change, the testing approach, and the points reviewers should focus on.",
+    "seed": "Added a feature. I tested it and it seems to be working fine on my end. Please take a look when you have a chance. I don't think there are any major issues, but please double check just to be safe before approving. Would appreciate it if this could get merged soon since it's kind of blocking some other work downstream that depends on it."
+  },
+  {
+    "id": "tech_014",
+    "domain": "technical",
+    "instruction": "As a security advisory for a vulnerability disclosure, specify the affected scope, severity, and remediation steps.",
+    "seed": "A vulnerability was found in a library we use. It's possible that this could affect our systems, though we're still figuring out the exact extent of it. Just to be safe, we'd recommend upgrading to a newer version when you get a chance. You can check the official announcement for more information about what exactly is going on. Please try to take care of this relatively soon since it involves security."
+  },
+  {
+    "id": "tech_015",
+    "domain": "technical",
+    "instruction": "As a performance tuning report, add the measurement conditions, before/after figures, and root cause analysis.",
+    "seed": "Server response times have gotten better. This is the result of various adjustments we made over the past few weeks. Users also seem to feel like things are faster based on some informal feedback we've gotten. We plan to keep working on improvements going forward as time allows. We'll share more detailed numbers at some point later once we've had a chance to compile everything properly."
+  },
+  {
+    "id": "tech_016",
+    "domain": "technical",
+    "instruction": "As a test plan for a new feature, improve the coverage of test perspectives and clarify the pass/fail criteria.",
+    "seed": "We're going to test the new feature. We'll check both the normal cases and some error cases too. If there are no problems, we plan to release it. The exact details of the testing will be decided by whoever ends up owning that part of the work. We'd like to leave some buffer in the schedule so we're not too rushed when it comes time to actually run everything."
+  },
+  {
+    "id": "tech_017",
+    "domain": "technical",
+    "instruction": "As a system architecture overview, clarify the responsibilities of each component and describe the data flow between them.",
+    "seed": "This system is made up of several services that work together. They all talk to each other to get things done. Overall it's a fairly standard setup that follows common patterns you'd see elsewhere. We're planning to put together a proper diagram at some point to make this easier to follow. Feel free to ask if you have any questions about how any particular piece fits into the bigger picture."
+  },
+  {
+    "id": "tech_018",
+    "domain": "technical",
+    "instruction": "As an onboarding guide for new engineers, specify the concrete steps to take on day one and where to find each reference.",
+    "seed": "When you join, first set up your environment. Install the tools you need and clone the repository. If you're not sure about something, just ask the people around you and they'll be happy to help point you in the right direction. Take your time getting comfortable with everything, there's no need to rush through it all at once during your first week or two here."
+  },
+  {
+    "id": "tech_019",
+    "domain": "technical",
+    "instruction": "As a troubleshooting FAQ, add a symptom-based cause breakdown and concrete verification steps for each case.",
+    "seed": "If something seems off, first try restarting. If that doesn't fix it, check your settings to make sure everything looks right. If it's still not working after that, reach out to support for further help. We've put together some answers to commonly asked questions here that might also be useful to look through before reaching out, since your issue might already be covered."
+  },
+  {
+    "id": "tech_020",
+    "domain": "technical",
+    "instruction": "As a production deployment runbook, add a pre-execution checklist and clarify the criteria for rolling back.",
+    "seed": "Before deploying, please do some checks first. If everything looks fine, go ahead and proceed with the deployment. If something comes up during the process, handle it based on the situation as it unfolds. After deployment, don't forget to verify that everything is working as expected. The exact steps might need to be adjusted depending on what's going on that day."
+  },
+  {
+    "id": "tech_021",
+    "domain": "technical",
+    "instruction": "As a database schema change proposal, specify the impact on existing data and detail the migration steps.",
+    "seed": "We'd like to add a column to the table. This probably won't have much of an impact on the existing data, though we haven't fully confirmed that yet. The migration should be doable using the existing tooling we already have in place. We plan to check in with the relevant stakeholders before moving forward with the actual change, just to make sure everyone's aligned."
+  },
+  {
+    "id": "tech_022",
+    "domain": "technical",
+    "instruction": "As a team coding standard, remove vague phrasing and add concrete examples.",
+    "seed": "Please write code that is easy to read. Variable names should be clear and understandable. Add comments where appropriate throughout the codebase. Formatting should follow whatever the tooling enforces automatically. Let's all try to keep this in mind as a team and make an effort to follow these guidelines consistently across all of our projects going forward, since it will help everyone in the long run."
+  },
+  {
+    "id": "tech_023",
+    "domain": "technical",
+    "instruction": "As a deprecation notice for a legacy API, specify the concrete retirement schedule and the migration path to the replacement API.",
+    "seed": "This API is planned to be retired at some point in the future. If you're currently using it, we'd recommend considering a move to the newer API when convenient. We'll share more details about how to migrate over at a later time. If you have any questions in the meantime, feel free to reach out to us and we'll try to help however we can."
+  },
+  {
+    "id": "tech_024",
+    "domain": "technical",
+    "instruction": "As a postmortem for a major incident, specify a concrete timeline and ensure the remediation actions are actually actionable.",
+    "seed": "The service became temporarily unavailable for a while. After looking into it, it seems like a combination of a few different factors contributed to the problem. Things are back up and running normally now as far as we can tell. Going forward, we plan to look at ways to prevent this kind of thing from happening again, though we haven't finalized exactly what those measures will look like yet."
+  },
+  {
+    "id": "tech_025",
+    "domain": "technical",
+    "instruction": "As a monitoring alert description, justify the threshold values and specify the exact action the on-call responder should take.",
+    "seed": "This alert fires when the system detects something abnormal. When it triggers, please check on the current situation. If things look serious, some kind of response may be needed. You can check the documentation for more detail on how to handle it, though the docs are a bit sparse right now so use your best judgment based on past experience if needed."
+  },
+  {
+    "id": "tech_026",
+    "domain": "technical",
+    "instruction": "As a backup and restore procedure, specify the exact commands to run and add a post-restore verification step.",
+    "seed": "We take backups on a regular basis. If a restore is ever needed, we can recover from one of these backups. The exact procedure is mostly known by whoever usually handles this kind of thing on the team. Please be careful when doing this kind of work since mistakes can be costly. Reach out if you have any questions or concerns before attempting it yourself."
+  },
+  {
+    "id": "tech_027",
+    "domain": "technical",
+    "instruction": "As a development environment setup guide, state the prerequisites explicitly and add notes on common pitfalls.",
+    "seed": "Clone the repository and install the required packages. Set up the configuration file and it should work after that. If it doesn't work for some reason, try double checking your environment setup to see if anything looks off. Feel free to ask if you get stuck at any point, someone should be able to help you figure out what's going wrong pretty quickly most of the time."
+  },
+  {
+    "id": "tech_028",
+    "domain": "technical",
+    "instruction": "As an impact analysis for a major version upgrade of a core library, list the breaking changes and estimate the effort required to address them.",
+    "seed": "There's a new version of one of the libraries we use. Updating to it seems to change a number of things, though we don't yet have a clear picture of how big of a deal that actually is for us. We'll try to look into the impact more closely and figure out a plan for addressing it whenever there's some time available on the team's schedule to dig into it properly."
+  },
+  {
+    "id": "tech_029",
+    "domain": "technical",
+    "instruction": "As a load testing results report, specify the reproducibility of the test conditions and identify the bottleneck.",
+    "seed": "We ran a load test. Things seemed to work fine up to a certain level of traffic. Beyond that point, we noticed things started slowing down noticeably. We think more investigation is needed to figure out exactly what's causing that slowdown, but we haven't gotten to the bottom of it yet. We'll share the full results in more detail once we've had a chance to look further into it."
+  },
+  {
+    "id": "tech_030",
+    "domain": "technical",
+    "instruction": "As a feature spec for a new feature, define the target user and clarify the acceptance criteria.",
+    "seed": "We're adding a new feature that should be convenient for users. We're focusing on making it easy to use as we design it. The finer details of the spec will probably get figured out as we go during implementation. Once it's built, we'll run some tests, and if everything looks good we'll go ahead and release it to everyone."
+  },
+  {
+    "id": "tech_031",
+    "domain": "technical",
+    "instruction": "As improved inline code comments, explain the intent behind the logic and remove comments that merely restate the obvious.",
+    "seed": "// calculate the value here\n// do the processing\n// return the result\nThese are the comments currently in the code, but some people mentioned it's hard to tell what's actually going on just from reading them. I think it would be good to keep some form of comments in place, but maybe make them a bit clearer and more useful for someone reading the code for the first time without much context."
+  },
+  {
+    "id": "tech_032",
+    "domain": "technical",
+    "instruction": "As a Slack outage notification message, clarify the current status and specify the concrete impact on users.",
+    "seed": "It looks like there's currently some kind of issue with the system. We're checking into what's going on right now. There's a chance this could be affecting things for some of you depending on what you're doing. We'll post another update here once we know more or once things are back to normal. Sorry for any trouble this might be causing in the meantime."
+  },
+  {
+    "id": "tech_033",
+    "domain": "technical",
+    "instruction": "As a support ticket response, give a concrete answer to the reported issue and specify the next action for the customer.",
+    "seed": "Thanks for reaching out. We looked into this and it seems like there could be a few different things going on that might explain what you're seeing. Would you mind trying a couple of things on your end when you get a chance? If it's still not resolved after that, please let us know and we'll take another look at it from there."
+  },
+  {
+    "id": "tech_034",
+    "domain": "technical",
+    "instruction": "As an internal wiki glossary entry, ensure the definition is unambiguous and add references to related terms.",
+    "seed": "This term is commonly used within the system. It generally refers to something along these lines, though the exact meaning can shift a little depending on the context it's used in. For more detail, you can check some of the related documentation elsewhere on the wiki that touches on similar concepts and might help clarify things further."
+  },
+  {
+    "id": "tech_035",
+    "domain": "technical",
+    "instruction": "As a refactoring proposal for legacy code, specify the concrete problems with the current state and lay out a phased implementation plan.",
+    "seed": "This part of the codebase is pretty old and kind of hard to read at this point. It would probably be good to clean it up gradually over time rather than all at once. Doing it all in one shot seems like too much, so we're planning to spread the work out over a longer period. We haven't decided on the priority order yet, that's still to be figured out."
+  },
+  {
+    "id": "tech_036",
+    "domain": "technical",
+    "instruction": "As a CI/CD pipeline description, clarify the purpose of each stage and describe how to triage a failure.",
+    "seed": "When you push code, the pipeline kicks off automatically. It runs tests and does a build as part of the process. If everything passes, it gets deployed as the final step. You can check the configuration file for more detail on how it's all set up if you want to understand the specifics of what each part is doing under the hood."
+  },
+  {
+    "id": "tech_037",
+    "domain": "technical",
+    "instruction": "As an access control policy document, define each role's permission scope and specify the request process.",
+    "seed": "Access to the system is granted based on your job function. If you need additional access, you can request it and it will generally be granted. Permissions that are no longer needed should be reviewed and removed periodically as appropriate. For more details on the specifics of how this works, please check with the administrator handling access requests for your team."
+  },
+  {
+    "id": "tech_038",
+    "domain": "technical",
+    "instruction": "As a log format specification, define the meaning of each field and the conditions under which it is emitted.",
+    "seed": "Logs include things like a timestamp, a level, and a message. The format is generally consistent across the system, though there can be some minor variation here and there depending on the component. For the most part things follow this general structure though. Please keep this in mind when you're writing any tooling that needs to parse or analyze the logs."
+  },
+  {
+    "id": "tech_039",
+    "domain": "technical",
+    "instruction": "As a version compatibility matrix description, clarify the support status for each combination of versions.",
+    "seed": "Some combinations of versions have been verified to work together. Older versions may be missing support for certain features that were added more recently. We plan to keep updating the details of which combinations are supported as things change over time, so please check back periodically before relying on any particular pairing for your own setup."
+  },
+  {
+    "id": "tech_040",
+    "domain": "technical",
+    "instruction": "As a third-party integration guide, specify the concrete authentication setup steps and add troubleshooting checkpoints for a failed connection.",
+    "seed": "To connect with the external service, you'll need to configure a few things first. Enter the required information from the admin panel and you should be good to go. Once that's set up, the integration should start working pretty quickly without much extra effort. If it's not working as expected, try double checking the settings you entered to see if anything looks off."
+  },
+  {
+    "id": "tech_041",
+    "domain": "technical",
+    "instruction": "As a webhook specification, clarify exactly when events are sent and specify the concrete structure of the payload.",
+    "seed": "A webhook is sent whenever an event happens on our end. The receiving side is expected to process the data that comes through. There's some existing handling in place for cases where delivery fails, though the details of that aren't fully documented yet. For the exact format of what gets sent, please check the documentation for more information on the specifics."
+  },
+  {
+    "id": "tech_042",
+    "domain": "technical",
+    "instruction": "As the introduction section of a CLI tool's README, provide concrete examples of the main commands and describe the intended use cases.",
+    "seed": "This is a tool you can use from the command line. It makes a lot of different operations pretty easy to do once you get set up. After installing it, you should be able to start using it right away without too much extra setup work needed on your part. For more detail on the available options, you can check the help command built into the tool itself."
+  },
+  {
+    "id": "tech_043",
+    "domain": "technical",
+    "instruction": "As an incident report for increased API latency, identify the specific affected endpoints and explain the process used to narrow down the root cause.",
+    "seed": "We had an issue where API responses were slower than usual for a while. It seemed to be more noticeable for certain kinds of requests, though we're not entirely sure which ones exactly. We're looking into a few possible causes right now. We've gotten reports that things have improved since then, but we're continuing to keep an eye on the situation just to be safe."
+  },
+  {
+    "id": "tech_044",
+    "domain": "technical",
+    "instruction": "As release notes for a patch release, specify the fixes in concrete terms and indicate how strongly the update is recommended.",
+    "seed": "This is a release with some small fixes. A number of bugs have been addressed as part of this update. It's probably not super urgent, but we'd still recommend updating when you get the chance if it's convenient for you. For a full list of exactly what changed, you can check the diff between this version and the previous one."
+  },
+  {
+    "id": "tech_045",
+    "domain": "technical",
+    "instruction": "As an architecture decision record (ADR) for authentication method selection, map the choice to security requirements and explain why the rejected alternatives were not chosen.",
+    "seed": "We decided to go with OAuth2 for authentication. It's a fairly standard approach and has a solid track record in the industry. We looked at some other approaches too, but ultimately felt this one would be easier to work with for our situation. We plan to work out the finer implementation details as we go along during the actual build."
+  },
+  {
+    "id": "tech_046",
+    "domain": "technical",
+    "instruction": "As an incident escalation runbook, define concrete decision criteria and specify exact contact information.",
+    "seed": "If an incident occurs, please notify the relevant people based on the situation. If it seems particularly serious, please also loop in someone more senior so they're aware of what's happening. You can find contact information in the internal directory if you need to reach someone quickly. Try to stay calm and handle things methodically as you work through the response."
+  },
+  {
+    "id": "tech_047",
+    "domain": "technical",
+    "instruction": "As an improved error message for failed authentication, distinguish between possible causes while adjusting the amount of information disclosed for security reasons.",
+    "seed": "Login failed. Please check your input and try again. If it keeps failing after several attempts, you might want to wait a bit before trying again, or consider looking into some other way of getting access that might work better for your situation. We're sorry for any inconvenience this causes and appreciate your patience while we look into improving this further."
+  },
+  {
+    "id": "tech_048",
+    "domain": "technical",
+    "instruction": "As a technology selection rationale document for a frontend framework, clarify how well it fits the team's existing skill set.",
+    "seed": "We decided to go with React for the frontend. It's popular and there's a lot of information available about it online. We considered some other frameworks too, but after weighing things overall we felt this was probably the better choice for our team. We'll revisit this decision later on if it turns out to be necessary based on how things go."
+  },
+  {
+    "id": "tech_049",
+    "domain": "technical",
+    "instruction": "As a code review comment about missing error handling, enumerate the exception cases that should be considered and propose a concrete fix.",
+    "seed": "This part of the code doesn't seem to account much for what happens when things go wrong. I'm a little concerned about what would happen if an exception gets thrown somewhere in here. It's probably worth handling this just in case, though I'm not totally sure how likely it is to actually come up in practice. Let me know what you think when you get a chance to look."
+  },
+  {
+    "id": "tech_050",
+    "domain": "technical",
+    "instruction": "As a migration guide from on-premises to cloud infrastructure, specify the concrete phases of the migration and the acceptable downtime window.",
+    "seed": "We have a plan to move our current system to the cloud. We're planning to do this gradually in stages rather than all at once. There's a chance some services could be affected during the migration process at various points along the way. We'll share more detail on the exact schedule at a later time once things are firmed up a bit more on our end."
+  }
+]

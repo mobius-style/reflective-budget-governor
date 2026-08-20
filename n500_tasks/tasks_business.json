@@ -1,0 +1,302 @@
+[
+  {
+    "id": "biz_001",
+    "domain": "business",
+    "instruction": "As a proposal executive summary for a new prospective client, improve the specificity of the value proposition, the presence of numerical evidence, and the placement of the conclusion.",
+    "seed": "We believe our service can help improve business efficiency in many ways. Many customers have used it and seem satisfied overall, and there are various benefits that could be expected depending on the situation. We would really appreciate it if you could consider working with us at some point. There are more details we can go over later, and we hope to have the chance to explain things further in a follow up conversation. Please let us know if this sounds interesting so we can move things along whenever it works for you."
+  },
+  {
+    "id": "biz_002",
+    "domain": "business",
+    "instruction": "As a cover letter accompanying a price quote to a business partner, improve the clarity of the pricing rationale, the appropriateness of the professional tone, and the explicit next steps.",
+    "seed": "Thank you for reaching out to us recently. Regarding the request you sent over, we have put together a quote and attached it to this message for your review. The numbers should cover most of what was discussed, though some things might still need to be worked out later on. Please take a look whenever you have time and let us know if anything comes up or if you have questions about it. We look forward to hearing back from you soon."
+  },
+  {
+    "id": "biz_003",
+    "domain": "business",
+    "instruction": "As a contract renewal notice for an existing client, improve the clarity of the renewal deadline, the explanation of changes, and the contact information provided.",
+    "seed": "Thank you for being a valued customer of ours for such a long time. We wanted to let you know that the service you currently use is coming up for renewal fairly soon. If everything looks fine on your end, it will just continue automatically without you needing to do anything, but if there is something you would like to change or discuss, feel free to reach out whenever works for you. We appreciate your continued business and hope to keep working together."
+  },
+  {
+    "id": "biz_004",
+    "domain": "business",
+    "instruction": "As a cold outreach sales email to a new prospect, improve the compellingness of the subject framing, the brevity of the self-introduction, and the concreteness of the proposed offer.",
+    "seed": "Hello, my name is from a company and I came across your website recently. We help all kinds of businesses with various things and thought you might be a good fit for what we offer. If you are open to it, it would be great to set up a quick call sometime to talk more about it. Let me know what works for your schedule and I can get something on the calendar whenever is convenient. Looking forward to possibly connecting soon."
+  },
+  {
+    "id": "biz_005",
+    "domain": "business",
+    "instruction": "As an agenda for a weekly team meeting, improve the ordering of topics, the allocation of time per item, and the explicit statement of purpose.",
+    "seed": "For next week's meeting there are a few things we should probably go over. We'll talk about how the project is going, some plans for what comes next, and maybe touch on the budget too if there's time. No specific times are set for each part, but let's try to keep things moving so it doesn't run too long. Please come prepared with any updates. Looking forward to seeing everyone there and getting through everything."
+  },
+  {
+    "id": "biz_006",
+    "domain": "business",
+    "instruction": "As a quarterly performance report summary, improve the front-loading of the conclusion, the comparison of key figures, and the clarity of causal analysis.",
+    "seed": "Regarding performance this quarter, things went fairly well overall it seems. A few departments had some challenges here and there, but on the whole we managed to get somewhat closer to our targets than before. There were various factors that probably played into this, though it's hard to say exactly which ones mattered most. Please refer to the attached document for the detailed numbers and additional breakdowns if you want more information."
+  },
+  {
+    "id": "biz_007",
+    "domain": "business",
+    "instruction": "As an internal approval request memo for capital equipment spending, improve the clarity of the investment purpose, the justification of cost-benefit, and the explicit request for approval.",
+    "seed": "The equipment we currently use has gotten pretty old and could probably use replacing soon. Getting newer equipment would likely make things run more smoothly for everyone involved in the process. We would appreciate your consideration on this matter when you have a chance to review it. The amount listed is just a rough estimate for now and could change once we get more concrete quotes from vendors later."
+  },
+  {
+    "id": "biz_008",
+    "domain": "business",
+    "instruction": "As a new business venture plan overview, improve the market evidence, the clarity of the revenue model, and the concreteness of the execution timeline.",
+    "seed": "We are thinking about launching a new business venture soon. There still seems to be demand out there in the market for something like this, so if things go well it could end up contributing nicely to overall revenue down the line. The details are still being worked out at this stage, but for now we wanted to share a general overview of the idea before going deeper into planning."
+  },
+  {
+    "id": "biz_009",
+    "domain": "business",
+    "instruction": "As a task request sent to another department, improve the specificity of the request, the explicit deadline, and the background explanation.",
+    "seed": "Sorry to bother you when you're busy, but there's something we were hoping you could help with. It's about that document from before, and it would be great if you could take care of it sooner rather than later if possible. We'll send over more details separately at some point soon. Thanks in advance for your help with this, and let us know if anything is unclear."
+  },
+  {
+    "id": "biz_010",
+    "domain": "business",
+    "instruction": "As a letter declining a partner's request to change trade terms, improve the explanation of reasoning, the consideration shown toward the recipient, and the offering of an alternative.",
+    "seed": "Thank you so much for the various suggestions you sent over recently. After discussing it internally, however, we came to the conclusion that we are not able to meet your request this time around unfortunately. We hope you understand our position on this matter. We would still like to continue working together going forward as usual, and we appreciate your understanding on this particular point."
+  },
+  {
+    "id": "biz_011",
+    "domain": "business",
+    "instruction": "As an apology letter for a delivery delay, improve the specificity of the cause explanation, the clarity of preventive measures, and the sincerity of the tone.",
+    "seed": "We are very sorry that the delivery ended up being delayed this time. A number of things happened around the same time and it made it difficult to keep to the original schedule as planned. We will try to be more careful going forward so that this kind of thing doesn't happen again in the future. We hope you can understand the situation and we appreciate your patience with us."
+  },
+  {
+    "id": "biz_012",
+    "domain": "business",
+    "instruction": "As an invitation letter for a seminar aimed at business partners, improve the completeness of event details, the clarity of attendee benefits, and the ease of the registration process.",
+    "seed": "We are pleased to announce that our company will be holding a seminar soon. The content will cover some recent developments in the industry and related topics that might be useful. Anyone interested is welcome to attend if they would like. We will share the date and location later once everything is finalized, so please wait a bit longer for that information to come through."
+  },
+  {
+    "id": "biz_013",
+    "domain": "business",
+    "instruction": "As a project progress report sent to a client, improve the specificity of the completion percentage, the clarity of issues raised, and the presentation of the next milestone.",
+    "seed": "Here is an update on how the project is going so far. Things seem to be moving along mostly as planned at this point in time. There are a few areas that need some adjustment, but nothing that seems like a major problem overall from what we can tell. We will keep you posted as things continue to develop and appreciate your continued patience with the process."
+  },
+  {
+    "id": "biz_014",
+    "domain": "business",
+    "instruction": "As an introductory greeting letter for a new role assignment, improve the specificity of the self-introduction, the acknowledgment of the predecessor, and the clarity of future intentions.",
+    "seed": "I recently took on a new role after a transfer and will be handling things going forward. There is still a lot for me to learn and get used to, but I plan to do my best in this new position. I look forward to working with everyone and hope we can build a good relationship together. Please feel free to reach out anytime if there is anything I can help with."
+  },
+  {
+    "id": "biz_015",
+    "domain": "business",
+    "instruction": "As a payment reminder letter regarding an unpaid invoice, improve the clarity of the factual details, the explicit deadline, and the balance between politeness and firmness.",
+    "seed": "This is regarding the invoice we sent over a while back. It looks like the payment hasn't come through on our end yet as far as we can tell. It's possible something went wrong along the way, but we wanted to check with you just in case there was some kind of mix-up. Could you take a look when you get a chance? We appreciate your attention to this matter soon."
+  },
+  {
+    "id": "biz_016",
+    "domain": "business",
+    "instruction": "As a referral letter introducing a partner company to a client, improve the evidence of the referred company's track record, the credibility of the endorsement, and the clarity of the reason for referring them.",
+    "seed": "Regarding the company we mentioned before, we have worked with them on a project in the past and it left a pretty good impression overall. If you get the chance, it might be worth reaching out to them and seeing what they have to offer for your situation. Let us know if you are interested and we can help make an introduction whenever it is convenient for everyone involved."
+  },
+  {
+    "id": "biz_017",
+    "domain": "business",
+    "instruction": "As meeting minutes for an executive leadership meeting, improve the distinction between decisions made and items still under discussion, the attribution of speakers, and the conciseness of the summary.",
+    "seed": "Today's meeting covered a number of different topics related to the business. There was discussion about sales figures and future direction, and various opinions were shared by everyone involved during the conversation. Some points are still not fully settled at this stage though, and it was not always clear who was in favor of which idea. We plan to continue the discussion again at the next meeting and hope to reach clearer conclusions by then, once everyone has had time to think things over a bit more."
+  },
+  {
+    "id": "biz_018",
+    "domain": "business",
+    "instruction": "As a handover document from a departing employee, improve the completeness of the tasks listed, the clarity of priority ordering, and the inclusion of contact information.",
+    "seed": "Here is a summary of the tasks I have been handling that need to be passed along. There is a lot involved, from routine daily work to ongoing communication with various external contacts. It might take some time to get fully comfortable with everything, so please feel free to ask if anything is unclear along the way. Thanks in advance for taking this over."
+  },
+  {
+    "id": "biz_019",
+    "domain": "business",
+    "instruction": "As a job posting for a mid-career hire, improve the specificity of the job responsibilities, the clarity of the ideal candidate profile, and the transparency of compensation.",
+    "seed": "We are currently looking to bring on a new team member. The job involves a variety of tasks that will be assigned depending on what comes up, and we welcome anyone who is motivated and willing to learn. Compensation will be discussed and determined based on the individual, so it's somewhat open at this stage. If you are interested, please reach out and we can talk more about the details."
+  },
+  {
+    "id": "biz_020",
+    "domain": "business",
+    "instruction": "As a press release overview announcing a new product, improve the newsworthiness of the framing, the specificity of the described features, and the persuasiveness of the quoted comment.",
+    "seed": "We are excited to announce that our company will be releasing a new product soon. It has a number of features that we believe set it apart from what is currently available, and we think many customers will be satisfied with it once it launches. More details about the release date and other specifics will be shared at a later time as things get finalized."
+  },
+  {
+    "id": "biz_021",
+    "domain": "business",
+    "instruction": "As a response to a customer complaint, improve the balance between apology and explanation of cause, the specificity of the corrective action, and the tone of rebuilding trust.",
+    "seed": "We are very sorry for the inconvenience this has caused you. The feedback you shared has been passed along internally and we intend to use it to improve how we handle things going forward. We really appreciate you taking the time to let us know about this, and we hope to continue serving you well in the future as we work on making improvements."
+  },
+  {
+    "id": "biz_022",
+    "domain": "business",
+    "instruction": "As a company-wide internal announcement, improve the clarity of who is affected, the explicit effective date, and the conciseness of the key points.",
+    "seed": "There will be some changes to internal policy that we wanted to let everyone know about ahead of time. More detailed materials will be distributed separately at some point in the near future, but generally speaking things will be a bit different from how they have been before across a few areas. We appreciate everyone's cooperation and understanding as we work through this transition together in the coming period, and will follow up with more specifics soon."
+  },
+  {
+    "id": "biz_023",
+    "domain": "business",
+    "instruction": "As a letter of appreciation to a long-standing business partner, improve the mention of specific shared experiences, the specificity of the gratitude expressed, and the reference to continuing the relationship.",
+    "seed": "Thank you for the long relationship we have had together over the years. We have really been helped in many ways thanks to your support during this time. We hope to continue working together in the same way going forward, and we truly value everything you have done for us. Looking forward to more good years ahead together as partners."
+  },
+  {
+    "id": "biz_024",
+    "domain": "business",
+    "instruction": "As a request for quotation sent to a supplier, improve the specificity of the requested conditions, the explicit desired delivery date, and the clarity of the comparison purpose.",
+    "seed": "Thank you as always for your continued support. We have a new item that we need this time and were hoping to get a quote from you for it. We will share the quantity and specifications in more detail later on, but for now we wanted to check if you would be able to look into this for us. Please let us know your thoughts whenever convenient."
+  },
+  {
+    "id": "biz_025",
+    "domain": "business",
+    "instruction": "As a purchase order confirmation cover letter, improve the accuracy of the order details listed, the explicit request for confirmation, and the clarity of delivery terms.",
+    "seed": "Following up on what we discussed the other day, we are sending over the purchase order now. We have already checked the details on our end, but it would still be good if you could double check everything as well just to be safe. Please let us know if anything looks off or if there are any questions about the order."
+  },
+  {
+    "id": "biz_026",
+    "domain": "business",
+    "instruction": "As a service continuation proposal summary for an existing customer, improve the framing of current pain points, the specificity of the proposed improvements, and the explanation of cost-effectiveness.",
+    "seed": "Regarding the service you are currently using, we have a few suggestions we wanted to share with you. We think these changes could make things work even better for you overall going forward. Please take a look at the attached materials for more information whenever you have a moment, and let us know what you think about the ideas we've put together."
+  },
+  {
+    "id": "biz_027",
+    "domain": "business",
+    "instruction": "As a revised quote cover letter after additional costs arise, improve the explanation for the extra charges, the explicit comparison with the original quote, and the clarity of the approval request.",
+    "seed": "Regarding the quote we sent over earlier, it turns out some parts need to be revised a bit after taking another look at everything involved. The total amount will change somewhat as a result of these adjustments, but please refer to the attached document for the full details on what has been updated compared to before. We would appreciate your approval on this so we can move forward with things as planned without further delay."
+  },
+  {
+    "id": "biz_028",
+    "domain": "business",
+    "instruction": "As a maintenance contract renewal notice, improve the clarity of the changed terms, the transparency of the pricing structure, and the explicit response deadline.",
+    "seed": "Regarding the maintenance service you are currently under contract for, the current term is set to end next month. If you would like to continue, no action is needed on your part, but there may be some changes to the terms this time around. Please see the attached document for more information about what has changed and let us know if you have questions."
+  },
+  {
+    "id": "biz_029",
+    "domain": "business",
+    "instruction": "As a re-engagement sales email to a dormant customer, improve the sensitivity toward the reason they left, the specificity of the renewed offer, and the clarity of the call to action.",
+    "seed": "It has been a while since we last heard from you. We noticed you haven't used our service in some time, so we wanted to check in just in case. If there is ever anything you need in the future, please don't hesitate to reach out to us and we would be happy to help however we can. Hope to hear from you again soon."
+  },
+  {
+    "id": "biz_030",
+    "domain": "business",
+    "instruction": "As an agenda for a meeting about remote work adoption, improve the specificity of discussion items, the clarity of decisions to be made, and the assignment of roles among participants.",
+    "seed": "We are planning to have a meeting about remote work sometime soon. There are a few things to discuss, like whether to go ahead with it and what kind of rules might need to be in place. Anyone who is able to make it should come, and we can all share our thoughts together and see where things land by the end of the discussion."
+  },
+  {
+    "id": "biz_031",
+    "domain": "business",
+    "instruction": "As a monthly sales report summary, improve the clarity of the month-over-month comparison, the breakdown of contributing factors, and the inclusion of a forward-looking outlook.",
+    "seed": "Here is an update on last month's sales figures for everyone to review. Compared to the previous month there were some fluctuations here and there across a few product lines, but nothing that seemed like a major issue overall as far as we could tell from a first look. Please see the attached document for a more detailed breakdown of the numbers if you would like to dig deeper. That covers the main update for this month, thank you very much."
+  },
+  {
+    "id": "biz_032",
+    "domain": "business",
+    "instruction": "As an internal approval request for adding new headcount, improve the justification for the increase, the presentation of current pain points, and the explanation of cost-benefit.",
+    "seed": "Workload has been increasing lately and it feels like we are somewhat short-staffed at the moment. If this continues it might start causing various issues down the line, so we wanted to raise the possibility of adding another person to the team. We would appreciate it if you could consider this request when you have a chance to review things."
+  },
+  {
+    "id": "biz_033",
+    "domain": "business",
+    "instruction": "As an overview of an international expansion business plan, improve the justification for market selection, the inclusion of risk analysis, and the clarity of the investment recovery timeline.",
+    "seed": "We are considering expanding into overseas markets at some point in the near future. A few countries are being looked at as possible candidates for this, though nothing has been finalized yet at this stage of the planning process. We plan to keep researching the options and gradually put together a more concrete plan as things move forward over the coming months, and will share updates internally as more information becomes available to us."
+  },
+  {
+    "id": "biz_034",
+    "domain": "business",
+    "instruction": "As an email requesting cooperation from another company, improve the background explanation for the request, the specificity of the proposed collaboration, and the presentation of mutual benefit.",
+    "seed": "Sorry for reaching out out of the blue like this. There is actually something we wanted to discuss with you, and we were hoping you might be willing to help out if possible. We can go over the details more later on a call or in person whenever works for you. Thank you in advance for considering this, we look forward to hearing back."
+  },
+  {
+    "id": "biz_035",
+    "domain": "business",
+    "instruction": "As a letter declining a joint marketing proposal, improve the politeness of the explanation, the consideration for the ongoing relationship, and the mention of future possibilities.",
+    "seed": "Thank you for the proposal you shared with us regarding the joint project the other day. After considering it internally, we have decided to pass on it for the time being unfortunately. We know this was a great idea on your part and we appreciate you thinking of us for it. We hope to have the opportunity to work together on something else down the road."
+  },
+  {
+    "id": "biz_036",
+    "domain": "business",
+    "instruction": "As an apology letter following a system outage, improve the clarity of the affected scope, the estimated recovery timeline, and the specificity of preventive measures.",
+    "seed": "We would like to apologize for the trouble caused by the recent issue with our system. We are currently working on addressing it and will share more information once things become clearer on our end. We understand this may have caused some inconvenience and appreciate your patience as we work to get everything back to normal as soon as we can."
+  },
+  {
+    "id": "biz_037",
+    "domain": "business",
+    "instruction": "As an invitation letter for an anniversary event, improve the clarity of the event's purpose, the specificity of why the recipient was invited, and the ease of the RSVP process.",
+    "seed": "Our company is reaching an important milestone soon and we are planning an event to mark the occasion. We wanted to invite everyone who has supported us over the years to come celebrate with us if possible. More details about the event will be shared later once things are finalized, so please keep an eye out for that information in the coming weeks."
+  },
+  {
+    "id": "biz_038",
+    "domain": "business",
+    "instruction": "As an internal progress update on a new system rollout, improve the clarity of the scope affected, the quantification of progress, and the explicit action items requested from users.",
+    "seed": "Regarding the new system mentioned before, work on getting it set up seems to be going fairly well at this point. It should hopefully be ready for use before too much longer, and we will share more details once we get closer to that point. Thanks for your patience with this as it continues to move forward over the next while."
+  },
+  {
+    "id": "biz_039",
+    "domain": "business",
+    "instruction": "As a greeting letter for a newly appointed branch manager, improve the explanation of how the appointment came about, the mention of the local community and customers, and the specificity of future plans.",
+    "seed": "I have recently been appointed as the new branch manager here. I received a thorough handover from my predecessor and intend to continue providing the same level of service that customers have come to expect. I hope to continue receiving everyone's support as we move forward together, and look forward to getting to know everyone better in the coming months."
+  },
+  {
+    "id": "biz_040",
+    "domain": "business",
+    "instruction": "As a payment reminder letter for a long-overdue account, improve the summary of the timeline of events, the appropriateness of referencing legal action, and the clarity of payment options offered.",
+    "seed": "We are reaching out again regarding the outstanding balance on your account. As of now, we still have not been able to confirm that payment has gone through on our end. If this situation continues without resolution, we may need to consider further steps to address it going forward. We would appreciate it if you could confirm the status as soon as possible."
+  },
+  {
+    "id": "biz_041",
+    "domain": "business",
+    "instruction": "As an outreach email offering freelance work, improve the specificity of the project description, the clarity of compensation terms, and the explicit engagement duration.",
+    "seed": "Hi there, I came across your portfolio online and wanted to reach out. We actually have a project in mind that we think could be a good fit for your skills, and were wondering if you might be interested in hearing more about it. If so, it would be great to set up a time to chat further about the details soon."
+  },
+  {
+    "id": "biz_042",
+    "domain": "business",
+    "instruction": "As an audit findings report summary, improve the prioritization of the findings, the explicit remediation deadlines, and the conciseness of the conclusion.",
+    "seed": "This is a summary of the recent audit that was conducted across the relevant areas. A few things came up during the review that seemed worth mentioning to the team, but overall there did not appear to be any major issues to report at this point in time. Please refer to the attached document for more detailed information on the specific findings that were noted during the process this time around, along with some brief notes."
+  },
+  {
+    "id": "biz_043",
+    "domain": "business",
+    "instruction": "As an internal approval request for opening a new office location, improve the clarity of the purpose, the specificity of the financial plan, and the acknowledgment of associated risks.",
+    "seed": "We are currently considering opening a new office location in another area. It seems like a region with decent demand, and if things go well it could end up contributing to the company's overall growth over time. We plan to work out a more detailed plan for this in the coming weeks and will share updates once things are further along."
+  },
+  {
+    "id": "biz_044",
+    "domain": "business",
+    "instruction": "As a business plan overview for a new subscription service, improve the specificity of the customer acquisition strategy, the mention of churn rate, and the justification of revenue projections.",
+    "seed": "We are thinking about launching a new subscription-based service. Having customers pay on a recurring basis could help create a more stable source of revenue for the company over time if things work out well. The specific pricing details are still being worked out at this stage, and we plan to finalize things once the overall approach is more settled."
+  },
+  {
+    "id": "biz_045",
+    "domain": "business",
+    "instruction": "As a request to the accounting department for monthly data submission, improve the specificity of the required data, the explicit submission deadline, and the clarity of the requested format.",
+    "seed": "Sorry to bother you when things are busy over there this time of month. Regarding the usual monthly data, would it be possible to send that over sometime soon when you get a chance to put it together? The format should be about the same as last time, so hopefully that part is fairly straightforward and won't take too long. Thanks in advance for taking care of this whenever it works best for you."
+  },
+  {
+    "id": "biz_046",
+    "domain": "business",
+    "instruction": "As a letter declining a sponsorship opportunity, improve the mention of the internal deliberation process, the politeness of the explanation, and the implication of future possibilities.",
+    "seed": "Thank you for sharing this opportunity with us recently, we really enjoyed learning more about it. We discussed it thoroughly on our end with the relevant people involved, but ultimately decided to pass on it for now unfortunately given a few internal considerations. We really appreciated being thought of for this and hope there might be another chance to work together in some capacity down the road. Thank you again for reaching out to us about this."
+  },
+  {
+    "id": "biz_047",
+    "domain": "business",
+    "instruction": "As an apology letter for a data privacy incident, improve the accuracy of the factual disclosure, the specificity of the response measures taken, and the clarity of the contact point provided.",
+    "seed": "We sincerely apologize for the issue that occurred regarding the handling of information on our end, which may have caused concern for those affected. We are currently looking into what happened and will provide a more detailed report once the investigation has progressed further. We understand the seriousness of this matter and appreciate your patience while we work through it."
+  },
+  {
+    "id": "biz_048",
+    "domain": "business",
+    "instruction": "As an invitation letter for an industry association seminar, improve the clarity of the target audience, the explicit participation fee, and the clarity of the registration deadline.",
+    "seed": "We are pleased to share that a seminar for the industry will be taking place soon. Anyone with an interest in the topic is welcome to attend if they would like to join. Details about the cost and venue will be announced later once everything has been finalized on our end, so please check back for that information in the near future."
+  },
+  {
+    "id": "biz_049",
+    "domain": "business",
+    "instruction": "As meeting minutes for a partnership collaboration discussion, improve the clarity of agreed items, the separation of unresolved points, and the explicit assignment of tasks before the next meeting.",
+    "seed": "Today we had a discussion about the potential collaboration between our two companies going forward. We were able to share our respective thoughts on a number of points and it seems like there is some general alignment on the direction going forward, at least broadly speaking for now. We plan to continue working out the finer details at the next meeting, which should hopefully be scheduled sometime soon once everyone confirms their availability."
+  },
+  {
+    "id": "biz_050",
+    "domain": "business",
+    "instruction": "As a handover document for an employee transferring to another department, improve the completeness of the scope of duties, the specificity of important cautions, and the inclusion of contacts for related stakeholders.",
+    "seed": "The work I have been handling will now be passed along to you going forward starting next week. This includes regular day-to-day tasks as well as ongoing communication with various outside contacts we deal with on a fairly regular basis. It might take a bit of time to get fully comfortable with everything involved, so please don't hesitate to ask if anything comes up along the way as you settle in."
+  }
+]

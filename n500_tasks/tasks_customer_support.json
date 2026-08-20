@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cs_001",
+    "domain": "customer_support",
+    "instruction": "As a customer support agent for an apparel retailer, improve this reply by adding genuine empathy and a concrete compensation offer.",
+    "seed": "Thank you for contacting us about the damaged item. We are not able to confirm what happened during shipping, so it's hard for us to take responsibility at this stage. Damage can occur at several points along the way and it is often outside of our control. If you send us photos we will look into it when we get a chance. Please understand that processing may take a while depending on our workload. We handle a large volume of shipments every day and cannot guarantee a quick resolution. In the meantime, please keep the packaging in case we need further verification from you later."
+  },
+  {
+    "id": "cs_002",
+    "domain": "customer_support",
+    "instruction": "As a review-response specialist for an electronics retailer, improve this reply by acknowledging the customer's frustration and outlining a specific investigation plan.",
+    "seed": "Thanks for the one-star review about your vacuum breaking down so quickly. In many cases this kind of issue is related to how the product was used rather than a manufacturing problem. We generally find that the units themselves are fine when tested. Please check the manual again to make sure you followed the instructions correctly. If after reviewing the manual you still believe something is wrong, you are welcome to reach out again, though we cannot promise a different outcome. Products can behave differently depending on household conditions such as dust levels and surface types."
+  },
+  {
+    "id": "cs_003",
+    "domain": "customer_support",
+    "instruction": "As a telecom support representative, improve this reply by clearly explaining the billing mechanics and offering practical steps to avoid future overage.",
+    "seed": "Regarding your question about the data overage charge, this is simply the normal result of using more data than your plan includes. The charge reflects standard usage rules. You can review the general pricing page on our website for more information, though it may not cover every scenario. If you still have questions after reading it, feel free to contact us again. We are unable to provide a breakdown of exactly when the overage occurred since our systems only log aggregate totals for billing purposes."
+  },
+  {
+    "id": "cs_004",
+    "domain": "customer_support",
+    "instruction": "As a refund-handling agent for an online language school, improve this reply by explaining the policy warmly and offering an alternative resolution.",
+    "seed": "About the refund request for your trial lesson, our policy states that trial lesson fees are non-refundable. This is something customers agree to before booking, so we are not able to make an exception in this case regardless of the circumstances. The terms are available on our signup page for future reference. We understand you may be disappointed but the policy applies uniformly to everyone. If you have other concerns unrelated to the refund, you can raise them through the general contact form."
+  },
+  {
+    "id": "cs_005",
+    "domain": "customer_support",
+    "instruction": "As a delivery-delay communications specialist for a furniture retailer, improve this notice by giving a specific reason for the delay and a sincere apology.",
+    "seed": "This is regarding the delivery of the sofa you ordered. The item has not arrived at our warehouse yet, so the delivery is delayed. We do not currently have a new delivery date to share with you. Once we know more we will send another update, but we cannot say when that will be. We appreciate your patience during this time. If you would like to cancel the order instead, that option remains available through the standard cancellation process on our website."
+  },
+  {
+    "id": "cs_006",
+    "domain": "customer_support",
+    "instruction": "As a product-communications lead for a cloud accounting service, improve this announcement by explaining the reason for the change, its impact, and migration support.",
+    "seed": "We are reducing some features available on the free plan. Starting next month, several tools you currently use will only be available on paid plans. Further details will be shared at a later date. We know this may cause inconvenience, but the change is going ahead as planned. Users who wish to continue accessing the affected features should consider upgrading. We recommend checking your account periodically for updates on the exact rollout schedule and pricing."
+  },
+  {
+    "id": "cs_007",
+    "domain": "customer_support",
+    "instruction": "As a support-transition writer for a photo printing app, improve this end-of-support notice by stating a clear end date and concrete migration steps.",
+    "seed": "We are ending support for the old version of the app. After this happens, you may no longer be able to use it as expected. We recommend considering a move to the new app when convenient. Exact details about the transition have not been finalized yet, so we cannot say precisely what will happen to your saved projects. Please keep checking our announcements page for more information as it becomes available in the coming months."
+  },
+  {
+    "id": "cs_008",
+    "domain": "customer_support",
+    "instruction": "As an FAQ content writer for a meal-kit delivery service, improve this answer by giving specific allergen-handling steps and a clear liability disclaimer.",
+    "seed": "Regarding allergies, please check the ingredient labels and make your own decision about whether a meal is safe for you. We are not able to guarantee that our kitchen is free from cross-contamination with any particular allergen. Customers with severe allergies should use their own judgment before ordering. We do not provide individualized allergen consultations at this time. If you have further concerns, the ingredient list is available on each product page for review before purchase."
+  },
+  {
+    "id": "cs_009",
+    "domain": "customer_support",
+    "instruction": "As an incident-communications agent for a banking app, improve this apology by expressing empathy and giving a specific estimated recovery time.",
+    "seed": "The app maintenance is taking longer than expected. We apologize for the inconvenience this may cause. We do not have a confirmed time for when service will be restored. Please continue to check back periodically for updates. In the meantime, you may want to consider using another channel to access your account information, although we cannot guarantee those channels will have full functionality either. Thank you for your patience while we work on this."
+  },
+  {
+    "id": "cs_010",
+    "domain": "customer_support",
+    "instruction": "As a retention specialist for a video streaming service, improve this email by empathizing with the cancellation reason and proposing a specific alternative plan.",
+    "seed": "We have received your cancellation request. Please follow the link below to complete the process. Once your subscription is cancelled, all associated data including your watch history and saved lists will be permanently deleted and cannot be recovered later. If you change your mind, you will need to start over with a new account. That concludes the information for this cancellation request."
+  },
+  {
+    "id": "cs_011",
+    "domain": "customer_support",
+    "instruction": "As a claims-response agent for a hotel booking site, improve this reply by apologizing sincerely, explaining the cause, and offering a concrete alternative.",
+    "seed": "We looked into the booking that was not honored at the property. This appears to be a system issue and may not be something our platform is directly responsible for. We recommend contacting the hotel directly to sort out what happened on their end. Unfortunately, we are limited in what we can do from our side in situations like this. Please let us know if the hotel is able to provide any further clarification about the mix-up."
+  },
+  {
+    "id": "cs_012",
+    "domain": "customer_support",
+    "instruction": "As a review-response specialist for a gym chain, improve this reply by outlining specific cleaning improvements and hygiene protocol details.",
+    "seed": "Thanks for your feedback about the cleanliness of the equipment. We do have a regular cleaning schedule in place at all our locations. Perceptions of cleanliness can vary quite a bit from person to person, so what feels unclean to one member may seem fine to another. If something specific bothers you, feel free to mention it to a staff member during your visit and they will do what they can in the moment."
+  },
+  {
+    "id": "cs_013",
+    "domain": "customer_support",
+    "instruction": "As an insurance claims support agent, improve this reply by listing the exact steps and required documents needed to process the claim.",
+    "seed": "Regarding your question about filing a claim, please refer to the policy document for the general procedure. If any required documents are missing, the review process may take significantly longer than usual. We recommend gathering everything you think might be relevant before submitting. Processing times vary and we are unable to give a specific estimate for your particular case. Please prepare your paperwork carefully to avoid delays on your end."
+  },
+  {
+    "id": "cs_014",
+    "domain": "customer_support",
+    "instruction": "As a refund-handling agent for a used car dealership, improve this reply by explaining the contract terms clearly and acknowledging the customer's concerns.",
+    "seed": "Regarding the cancellation request after signing the contract, refunds are generally not provided once the paperwork has been signed. This transaction is likely not eligible for a cooling-off period given the circumstances involved. We are still reviewing internally what options, if any, might be available going forward. No decision has been made yet on how we will proceed. We will follow up again once there is more information to share."
+  },
+  {
+    "id": "cs_015",
+    "domain": "customer_support",
+    "instruction": "As a delivery-delay communications specialist for a moving company, improve this notice by giving a specific reason for the change and proposing alternate dates.",
+    "seed": "We are writing to inform you that the move-in date needs to be changed. This is due to staffing availability on our end. A new schedule has not been finalized yet, so we cannot confirm exactly when the move will now take place. We appreciate your cooperation and flexibility during this process. Further updates will be sent once our team has more clarity on availability for the coming weeks."
+  },
+  {
+    "id": "cs_016",
+    "domain": "customer_support",
+    "instruction": "As a communications lead for a language school, improve this announcement by explaining the reason for the tuition increase and offering support for existing students.",
+    "seed": "Tuition fees will be revised starting next month. Further details will be announced separately at a later date. Students who are already enrolled may also be subject to the new pricing depending on their course. We understand this is a significant change but it is necessary for the school to continue operating. Please watch for further communications regarding exact amounts and any applicable timelines for the new fee structure."
+  },
+  {
+    "id": "cs_017",
+    "domain": "customer_support",
+    "instruction": "As a support-transition writer for a printer manufacturer, improve this end-of-support notice by giving an exact end date and the scope of the impact.",
+    "seed": "We will be ending driver support for the older printer model. Going forward, no new drivers will be released for this device. Customers will need to consider purchasing a newer model at some point. Exact details about how this will affect compatibility with future operating systems have not been determined yet. We recommend keeping an eye on our support page for whatever information becomes available in the future."
+  },
+  {
+    "id": "cs_018",
+    "domain": "customer_support",
+    "instruction": "As an FAQ content writer for a pet supply retailer, improve this answer by stating the exact return conditions and step-by-step procedure.",
+    "seed": "Regarding returns, whether an item can be returned depends on its condition when it comes back to us. In general, customers should use their own judgment about whether something qualifies. We do not review each case individually before a return is initiated. Please check the general return page for basic guidance, though it may not answer every situation. If your item does not qualify, it will be sent back to you at your expense."
+  },
+  {
+    "id": "cs_019",
+    "domain": "customer_support",
+    "instruction": "As an incident-communications agent for an e-commerce site, improve this apology by explaining the cause of the outage and offering specific compensation.",
+    "seed": "There was an issue with the checkout system earlier today. It has since been resolved and payments are working normally again. We apologize for any inconvenience this may have caused during the outage. The cause of the issue is still under investigation and we do not yet have further details to share. If you experienced a failed transaction, you may want to check your bank statement to confirm whether you were charged."
+  },
+  {
+    "id": "cs_020",
+    "domain": "customer_support",
+    "instruction": "As a retention specialist for a music streaming service, improve this email by empathizing with the loss of the student discount and proposing a specific alternative plan.",
+    "seed": "We have received your cancellation request following the end of your student discount eligibility. Please complete the cancellation process using the settings menu. If you decide to sign up again in the future, standard pricing will apply at that time since the discount cannot be reinstated. That concludes the information for this cancellation. Please let us know if you have any other requests unrelated to this matter."
+  },
+  {
+    "id": "cs_021",
+    "domain": "customer_support",
+    "instruction": "As a claims-response agent for a cosmetics retailer, improve this reply by showing genuine concern for the customer's skin reaction and outlining specific next steps.",
+    "seed": "Regarding the skin reaction you reported, individual sensitivity varies a great deal from person to person, so it is difficult to establish a clear connection between the reaction and our product. We would recommend discontinuing use just to be safe. Many customers use this product without any issues, which suggests the cause may be related to your personal skin type rather than the formula itself. Please consult a dermatologist if symptoms continue."
+  },
+  {
+    "id": "cs_022",
+    "domain": "customer_support",
+    "instruction": "As a review-response specialist for a food delivery platform, improve this reply by apologizing for the late, cold meal and describing a concrete prevention plan.",
+    "seed": "Regarding the late delivery and cold food, traffic conditions were heavy on that particular day, which was outside the control of the driver assigned to your order. Weather can also play a role in delivery times on certain days. We understand this was not the experience you were hoping for. Unfortunately these external factors are difficult to predict in advance, and similar delays could happen again during busy periods or bad weather."
+  },
+  {
+    "id": "cs_023",
+    "domain": "customer_support",
+    "instruction": "As a leasing support agent for a real estate agency, improve this reply by giving a specific line-item breakdown of the deposit settlement.",
+    "seed": "Regarding the deposit settlement, the final amount depends on the condition of the unit at move-out, which can vary case by case. For detailed calculations, please contact the property management company directly, as we do not handle the specific figures on our end. We are only able to provide general guidance about the process itself. If the management company is unresponsive, we suggest following up with them again after a few business days."
+  },
+  {
+    "id": "cs_024",
+    "domain": "customer_support",
+    "instruction": "As a refund-handling agent for an airline, improve this reply by empathizing with the cancellation and giving a specific processing timeline.",
+    "seed": "Regarding the refund for your cancelled flight, processing can take some time depending on current volumes. We are not able to tell you exactly when it will be completed at this stage. Please continue to monitor your account for updates. We understand that cancellations can be frustrating, but the refund process follows a standard queue that we cannot expedite for individual requests, regardless of how the cancellation occurred."
+  },
+  {
+    "id": "cs_025",
+    "domain": "customer_support",
+    "instruction": "As a delivery-delay communications specialist for an appliance repair service, improve this notice by giving a specific reason for the parts delay and a sincere apology.",
+    "seed": "Regarding the expected completion date for your repair, we are experiencing delays in obtaining the necessary parts. We do not currently know when the parts will arrive. We apologize for the inconvenience but ask for your continued patience while we wait on the supplier. Further updates will be provided once we receive new information, though we cannot commit to a specific timeframe for that update either."
+  },
+  {
+    "id": "cs_026",
+    "domain": "customer_support",
+    "instruction": "As a product-communications lead for a credit card company, improve this announcement by explaining the reason for the change and the specific benefit to cardholders.",
+    "seed": "We will be changing the point reward rate. Some cardholders may see a reduction in the rate they currently earn. Further details will be announced at a later date. We understand this may not be welcome news for everyone, but the change is proceeding as planned across the affected card tiers. Please keep an eye on future communications for the exact new rates once they are finalized."
+  },
+  {
+    "id": "cs_027",
+    "domain": "customer_support",
+    "instruction": "As a support-transition writer for a webmail service, improve this end-of-support notice by stating an exact end date and concrete data-migration steps.",
+    "seed": "We plan to discontinue the older version of the webmail service. What will happen after that point is still under discussion internally. There is a possibility that some data could be lost, so users are encouraged to handle their own backups in the meantime. We do not yet have a firm timeline to share. Please check back for updates as the situation develops over the coming weeks."
+  },
+  {
+    "id": "cs_028",
+    "domain": "customer_support",
+    "instruction": "As an FAQ content writer for a coworking space, improve this answer by giving a specific booking procedure and cancellation policy.",
+    "seed": "Regarding meeting room bookings, members are expected to coordinate scheduling conflicts among themselves. We generally do not mediate disputes over room usage once they arise. If a conflict occurs, we recommend simply speaking with the other party involved. Our staff have limited availability to step in for this kind of issue, so please try to resolve it directly whenever possible before contacting the front desk."
+  },
+  {
+    "id": "cs_029",
+    "domain": "customer_support",
+    "instruction": "As an incident-communications agent for a logistics center, improve this apology by expressing empathy and giving a specific restoration estimate.",
+    "seed": "Due to circumstances at our distribution center, shipments are currently delayed. We do not have a timeline for when normal operations will resume. We may not be able to respond to individual inquiries about specific order status during this period given the volume we are handling. We appreciate your understanding as we work through the backlog affecting all outgoing shipments this week."
+  },
+  {
+    "id": "cs_030",
+    "domain": "customer_support",
+    "instruction": "As a retention specialist for a fitness app, improve this email by empathizing with the cancellation reason and proposing a specific pause or downgrade option.",
+    "seed": "We have received your request to cancel the paid plan. Please use the link below to complete the process. Once cancelled, all of your workout history and progress data will be deleted and cannot be recovered afterward. If you decide to rejoin later, you will need to start tracking from scratch. That concludes the information regarding your cancellation request. No further options are listed here since the cancellation form covers the standard process for all members regardless of reason."
+  },
+  {
+    "id": "cs_031",
+    "domain": "customer_support",
+    "instruction": "As a claims-response agent for a wedding venue, improve this reply by sincerely apologizing for the production mistake and detailing a specific prevention plan.",
+    "seed": "Regarding the issue with the ceremony production on your event day, there were multiple weddings scheduled at the venue that day, which made things more complicated to manage. This was more a matter of overall scheduling than any particular staff member's fault. We understand these kinds of overlaps can be frustrating for couples, though this is a fairly common occurrence during our peak season."
+  },
+  {
+    "id": "cs_032",
+    "domain": "customer_support",
+    "instruction": "As a review-response specialist for a bike-sharing service, improve this reply by apologizing for the app bug and giving a specific fix timeline.",
+    "seed": "Thanks for reporting the issue with the app. We have received similar reports from other users as well. We do not have a timeline for when a fix will be released. In the meantime, we suggest using an alternative method to unlock the bike if the app continues to malfunction. We appreciate your patience while our engineering team looks into reports like this one."
+  },
+  {
+    "id": "cs_033",
+    "domain": "customer_support",
+    "instruction": "As a support agent for a contracted water utility service, improve this reply by giving a specific breakdown of how the bill was calculated.",
+    "seed": "Regarding your question about the water bill, charges are calculated based on usage. For a detailed explanation of the calculation, please visit our office in person, as this is difficult to explain fully over the phone. We are unable to provide a line-by-line breakdown through this channel. If the amount still seems incorrect after your visit, you may file a formal inquiry at that time."
+  },
+  {
+    "id": "cs_034",
+    "domain": "customer_support",
+    "instruction": "As a refund-handling agent for a ticketing platform, improve this reply by empathizing with the cancelled show and giving a specific refund timeline.",
+    "seed": "Regarding the refund for the cancelled performance, this is currently pending a decision from the event organizer. We do not know at this time when the refund will be issued. Please continue checking your account for updates as they become available. We are unable to expedite this process on our end since the final decision rests with the organizer rather than our platform."
+  },
+  {
+    "id": "cs_035",
+    "domain": "customer_support",
+    "instruction": "As a delivery-delay communications specialist for an appliance manufacturer, improve this notice by giving the specific semiconductor-shortage reason and a sincere apology.",
+    "seed": "Shipment of your order has been delayed. This is related to the availability of certain components used in production. We do not currently have a revised outlook to share. We ask for your understanding as we wait for the supply situation to improve. Further communication will be sent once there is more clarity, although we cannot say when that update will come."
+  },
+  {
+    "id": "cs_036",
+    "domain": "customer_support",
+    "instruction": "As a product-communications lead for a cloud storage service, improve this announcement by explaining the reason for the capacity reduction and its specific impact on users.",
+    "seed": "We are reducing the storage capacity offered on the free plan. Users who exceed the new limit may need to take separate action to manage their files. Further details will be announced at a later date. We understand this may be disruptive for some users, but the change will proceed as scheduled. Please monitor your account for updates on the exact new limit and rollout date."
+  },
+  {
+    "id": "cs_037",
+    "domain": "customer_support",
+    "instruction": "As a support-transition writer for a gaming platform, improve this end-of-support notice by giving an exact server shutdown date and specific alternative titles.",
+    "seed": "We plan to shut down the servers for the older title. The exact schedule has not been finalized yet. What will happen to save data and progress after the shutdown is also undecided at this time. We recommend keeping an eye on future announcements for more information as it becomes available in the coming months, though we cannot promise a specific date yet."
+  },
+  {
+    "id": "cs_038",
+    "domain": "customer_support",
+    "instruction": "As an FAQ content writer for a taxi-hailing app, improve this answer by stating the exact cancellation fee conditions and amounts.",
+    "seed": "Regarding cancellation fees, the amount can vary depending on the situation. Please review the in-app terms for general guidance on this topic. We do not provide individualized explanations of specific charges through this channel. If you believe a fee was applied incorrectly, you are welcome to submit a dispute, though outcomes may vary depending on the circumstances of your particular trip."
+  },
+  {
+    "id": "cs_039",
+    "domain": "customer_support",
+    "instruction": "As an incident-communications agent for an online tutoring service, improve this apology by expressing empathy and proposing a specific makeup-class plan.",
+    "seed": "There was a technical problem with today's class streaming system. We apologize for the disruption this caused. Whether a makeup session will be offered is still under discussion. We will let you know once a decision has been made, though we cannot say when that will be. We appreciate your understanding as our technical team investigates what happened during the outage."
+  },
+  {
+    "id": "cs_040",
+    "domain": "customer_support",
+    "instruction": "As a retention specialist for a digital newspaper subscription, improve this email by empathizing with the cancellation reason and proposing a specific discounted plan.",
+    "seed": "We have received your request to cancel your subscription. Please follow the steps below to complete the process. Once cancelled, you will also lose access to the archive of back issues, so please save anything you need beforehand. That concludes the information for this cancellation request. Let us know if there is anything else unrelated to this matter. We are not able to offer any alternatives here since this message only covers the standard cancellation workflow."
+  },
+  {
+    "id": "cs_041",
+    "domain": "customer_support",
+    "instruction": "As a claims-response agent for an eyewear retailer, improve this reply by sincerely apologizing for the incorrect prescription and giving a specific remake procedure.",
+    "seed": "Regarding the incorrect lens prescription, our glasses are made according to the information submitted at the time of your order. We cannot confirm at this stage whether the error originated on our end. Please double-check the details you originally submitted first. If everything on your side appears correct, you are welcome to contact us again, though the next steps have not yet been determined."
+  },
+  {
+    "id": "cs_042",
+    "domain": "customer_support",
+    "instruction": "As a review-response specialist for a laundromat chain, improve this reply by apologizing for the broken machine and giving a specific repair schedule.",
+    "seed": "Thanks for flagging the issue with the washing machine. This is likely related to normal wear and age of the equipment. We do not have a repair date scheduled at this time. In the meantime, we suggest using one of our other locations if this one is unavailable. We appreciate you bringing this to our attention and will look into it when we get the chance."
+  },
+  {
+    "id": "cs_043",
+    "domain": "customer_support",
+    "instruction": "As a support coordinator for a private tutoring agency, improve this reply by giving a specific tutor-replacement process and timeline.",
+    "seed": "Regarding your request to change tutors, this requires coordination between multiple staff members, so it may not happen right away. We are not able to guarantee a quick turnaround for requests like this. Please wait for the time being while arrangements are made. We will reach out once a new tutor has been identified, though we cannot commit to a specific date for that."
+  },
+  {
+    "id": "cs_044",
+    "domain": "customer_support",
+    "instruction": "As a refund-handling agent for a travel agency, improve this reply by explaining the cancellation fee schedule clearly and acknowledging the customer's circumstances.",
+    "seed": "Regarding the cancellation fee for your tour, refunds are not available under our policy once cancellation fees have been applied. This is something that was confirmed at the time of your original booking. We understand personal circumstances can change unexpectedly, but the terms apply the same way to all customers regardless of the reason for cancellation. Please review the original booking confirmation for reference."
+  },
+  {
+    "id": "cs_045",
+    "domain": "customer_support",
+    "instruction": "As a delivery-delay communications specialist for a furniture repair service, improve this notice by giving the specific craftsman-scheduling reason and a sincere apology.",
+    "seed": "We are writing to let you know that the visit date for your repair needs to change. This is due to a scheduling conflict with the assigned craftsman. A new date has not been set yet. We appreciate your patience while we sort out the new schedule. Further communication will follow once arrangements have been finalized, although we cannot say exactly when that will happen."
+  },
+  {
+    "id": "cs_046",
+    "domain": "customer_support",
+    "instruction": "As a product-communications lead for a utility company, improve this announcement by explaining the reason for the plan consolidation and its specific impact on customers.",
+    "seed": "We will be consolidating several rate plans into one. Some customers may see their rates change as a result of this consolidation. Further details will be announced at a later date. We understand this may raise questions, but the consolidation is proceeding as scheduled across all affected regions. Please watch for future communications regarding your specific new rate once it has been determined."
+  },
+  {
+    "id": "cs_047",
+    "domain": "customer_support",
+    "instruction": "As a support-transition writer for a software vendor, improve this end-of-support notice by giving a specific end date and a clear security-risk explanation.",
+    "seed": "We will be ending support for the older operating system. Future updates will no longer be provided for it. The exact timing of when to switch is left up to each individual user to decide. Further details about this transition have not been finalized. Please keep checking our announcements page for information as it becomes available over the coming months."
+  },
+  {
+    "id": "cs_048",
+    "domain": "customer_support",
+    "instruction": "As an FAQ content writer for a laundry pickup service, improve this answer by stating the exact stain-removal guarantee conditions and its limits.",
+    "seed": "Regarding the stain removal guarantee, not all stains can be removed. Certain fabrics may not respond well to our treatment process. Please check our website for more general information about this topic. We do not provide individualized assessments of specific stains before pickup. If a stain remains after treatment, it may not be eligible for further action depending on the fabric type."
+  },
+  {
+    "id": "cs_049",
+    "domain": "customer_support",
+    "instruction": "As an incident-communications agent for a home security company, improve this apology by expressing empathy and describing a specific interim monitoring plan.",
+    "seed": "The monitoring center system was temporarily down earlier today. It has since been restored. Information about how coverage was handled during that period will be shared separately at a later time. We apologize for any inconvenience this may have caused. We understand this is a serious matter for a security service, but further details are still being compiled internally at this stage."
+  },
+  {
+    "id": "cs_050",
+    "domain": "customer_support",
+    "instruction": "As a retention specialist for a video editing software subscription, improve this email by empathizing with the cancellation reason and proposing a specific downgrade plan.",
+    "seed": "We have received your request to cancel your subscription. Please follow the steps below to complete the cancellation process. After cancellation, saved project files may become inaccessible depending on the format used. That concludes the information for this cancellation request. Please let us know if you have any other questions unrelated to this matter. This message only covers the standard cancellation flow, so no alternative options are included below."
+  }
+]

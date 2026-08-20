@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mkt_001",
+    "domain": "marketing",
+    "instruction": "As a landing page headline and lead paragraph for an online English conversation service, fix the lack of persuasive appeal and the lack of specificity.",
+    "seed": "Improve your English skills with our online conversation service. Even busy people can continue comfortably with our lessons. Our high-quality lessons will surely change your future for the better. We offer flexible scheduling and friendly teachers who care about your progress. Many students have found our program helpful and enjoyable over the years. Whatever your goals are, we are here to support you every step of the way. Start today and see the difference for yourself. Sign up now for a free trial lesson and experience our teaching style firsthand, no obligation required, and discover how enjoyable learning a new language can truly be."
+  },
+  {
+    "id": "mkt_002",
+    "domain": "marketing",
+    "instruction": "As a landing page headline and lead paragraph for a sleep-improvement mattress, fix the reliance on generic clichés and the lack of specificity.",
+    "seed": "Give yourself the gift of quality sleep. Our carefully crafted mattress gently soothes away the fatigue of everyday life. With comfortable sleep, you will wake up ready to take on tomorrow with renewed energy. We believe that everyone deserves a good night's rest, and our team has worked hard to create a product that supports that belief. Countless customers have told us how much better they feel after switching to our mattress. It combines comfort and support in a way that few other products can match. Try it today and discover the difference quality sleep can make in your daily life and overall wellbeing."
+  },
+  {
+    "id": "mkt_003",
+    "domain": "marketing",
+    "instruction": "As a product description for a craft beer, fix the lack of specificity and the lack of persuasive appeal.",
+    "seed": "This is our proud craft beer, made with dedication by skilled brewers. You can enjoy its rich flavor and aroma with every sip. It is smooth, well balanced, and perfect for a special occasion with friends or family. Our brewing team has put a lot of passion into this product, and we think you will notice the difference compared to ordinary beers on the market. Whether you are relaxing at home or celebrating something special, this beer fits the moment nicely. We hope you enjoy trying it as much as we enjoyed making it, and we look forward to hearing what you think about the taste and overall experience."
+  },
+  {
+    "id": "mkt_004",
+    "domain": "marketing",
+    "instruction": "As a product description for wireless earbuds, fix the lack of specificity and the missing competitive differentiation.",
+    "seed": "These wireless earbuds offer high sound quality and a comfortable fit. They stay comfortable even during long listening sessions, making them great for everyday use. The battery lasts a long time, so they are useful in many different situations throughout your day. Whether you are working, exercising, or simply relaxing, these earbuds are designed to keep up with your lifestyle. Many customers appreciate the convenient design and the reliable connection they provide. We believe you will find them a great addition to your daily routine, offering both style and function in a compact and portable package that fits easily into any bag or pocket."
+  },
+  {
+    "id": "mkt_005",
+    "domain": "marketing",
+    "instruction": "As a campaign announcement for a summer appliance sale, fix the lack of urgency and the lack of specificity.",
+    "seed": "We are currently running a sale on summer appliances. Popular products are available at discounted prices during this period. This is a great opportunity, so please consider taking advantage of it while it lasts. Our stores and website both offer a wide selection of items to choose from, and our staff are happy to help you find what you need. We update our offerings regularly, so there is always something new to discover. Please check our website or visit a nearby store for more details about the current lineup and pricing. We hope you enjoy shopping with us this season and find something that suits your needs."
+  },
+  {
+    "id": "mkt_006",
+    "domain": "marketing",
+    "instruction": "As a campaign announcement for an autumn travel promotion, fix the reliance on generic clichés and the lack of specificity.",
+    "seed": "We have prepared travel plans perfect for creating autumn memories. With beautiful scenery and delicious food, you can refresh both your mind and body. Please enjoy a special time with your family or friends on this wonderful trip. Our team has carefully selected destinations that showcase the best of the season, and we believe you will find something that suits your interests. Whether you prefer relaxing scenery or lively local culture, there is an option for everyone. We hope this trip becomes a cherished memory for years to come. Contact us today to learn more about the available packages and pricing options."
+  },
+  {
+    "id": "mkt_007",
+    "domain": "marketing",
+    "instruction": "As newsletter copy announcing a new cosmetics collection, fix the lack of persuasive appeal and the weak call to action.",
+    "seed": "We are pleased to announce that a new cosmetics collection has arrived. The formula provides moisture and is gentle on the skin. It has received favorable feedback from many customers who have already tried it. Our development team worked hard to create products that feel comfortable throughout the day while still delivering visible results. We believe this collection reflects our ongoing commitment to quality and care for our customers. Please take this opportunity to try it for yourself and see how it feels on your own skin. We think you will notice the difference right away, and we look forward to your feedback on the experience."
+  },
+  {
+    "id": "mkt_008",
+    "domain": "marketing",
+    "instruction": "As newsletter copy announcing an accounting software update, fix the lack of specificity and the weak benefit statement.",
+    "seed": "Our accounting software has been updated with new features. It is now more convenient and easier to use than before. Your daily operations should become smoother as a result of these changes, so please make use of the update. We have listened carefully to customer feedback over the past several months and tried to incorporate as many suggestions as possible into this release. The update is available to all current users at no additional cost. We hope these improvements make your work easier and more efficient going forward, and we welcome any further feedback you may have about your experience using the new version."
+  },
+  {
+    "id": "mkt_009",
+    "domain": "marketing",
+    "instruction": "As a social media post announcing a cafe's new menu item, fix the reliance on generic clichés and the lack of atmosphere.",
+    "seed": "Our new menu item has arrived! It is very delicious, so please give it a try. This is a dish we are especially proud of here at our cafe. Our staff worked hard to develop something that would delight our regular customers as well as anyone visiting for the first time. We think it pairs nicely with several of our existing drinks and desserts. Whether you are stopping by for a quick bite or settling in for a longer visit, we hope you will consider trying it. All of us on the team look forward to welcoming you and hearing what you think about this new addition."
+  },
+  {
+    "id": "mkt_010",
+    "domain": "marketing",
+    "instruction": "As a social media post promoting a fitness gym, fix the lack of specificity and the weak call to action.",
+    "seed": "We are a gym dedicated to supporting healthy bodies. Beginners can join with confidence, since our trainers provide careful guidance. We aim to create an environment where everyone feels comfortable working toward their goals. Our facility includes a variety of equipment suited to different fitness levels and interests. Many of our current members started out with little experience and have since made great progress. We believe that consistency and support are the keys to lasting results. Please come by for a tour and see what our gym has to offer, and feel free to ask our staff any questions you may have."
+  },
+  {
+    "id": "mkt_011",
+    "domain": "marketing",
+    "instruction": "As in-store point-of-purchase copy for a bakery's new bread item, fix the weak purchase motivation and the lack of specificity.",
+    "seed": "A new bread item has just arrived in our shop. It is delicious and made with carefully chosen ingredients. Please enjoy it fresh from the oven while supplies last today. Our bakers begin preparing early each morning to make sure everything is baked with care and attention to detail. We think this new item complements our existing lineup nicely and offers something a little different for our regular customers to enjoy. Quantities are limited, so we recommend coming in soon if you would like to try it. We hope you enjoy the taste and texture as much as we enjoyed creating this new recipe."
+  },
+  {
+    "id": "mkt_012",
+    "domain": "marketing",
+    "instruction": "As in-store point-of-purchase copy for a stationery shop's limited-edition pen colors, fix the lack of urgency and the lack of specificity.",
+    "seed": "Our limited-edition colored pens have just arrived in the shop. They write smoothly and are part of a very popular series among our regular customers. They also make a nice gift for someone special in your life. We selected these particular colors because they tend to be favorites among collectors and everyday writers alike. The ink flows evenly and the grip is comfortable for extended use. Please feel free to pick one up and try it out at our sample station near the register. We hope you find a color that suits your style, and we look forward to seeing which one becomes your favorite."
+  },
+  {
+    "id": "mkt_013",
+    "domain": "marketing",
+    "instruction": "As service copy for a housekeeping service, fix the lack of specificity and the weak demonstration of trustworthiness.",
+    "seed": "This housekeeping service supports your busy daily life. Our experienced staff handle every task with great care. You can trust us with your home, so please consider using our service today. We understand that inviting someone into your home requires a certain level of confidence, and we take that responsibility seriously. Our team members go through a thorough process before joining us, and we do our best to match clients with staff who fit their needs well. Many of our clients have used our service for years and have come to rely on the consistency we provide. We would be glad to help you as well."
+  },
+  {
+    "id": "mkt_014",
+    "domain": "marketing",
+    "instruction": "As service copy for an online home tutoring service, fix the lack of persuasive appeal and the unclear target audience.",
+    "seed": "This online tutoring service supports your child's studies. Clear instruction aims to help improve grades over time. Our experienced team of tutors is available, so you can feel confident using our service for your family. We offer sessions across a range of subjects and grade levels, and we try to match each student with a tutor who fits their learning style. Progress reports are shared regularly so parents can stay informed about how their child is doing. We believe that personalized attention makes a real difference in a student's confidence and performance. Please reach out if you would like to learn more."
+  },
+  {
+    "id": "mkt_015",
+    "domain": "marketing",
+    "instruction": "As a brand story for a handmade leather goods brand, fix the lack of specificity and the weak emotional appeal.",
+    "seed": "We have been dedicated to handmade craftsmanship in leather goods for many years. We value careful, attentive production, and many customers have come to love what we make. We will continue to deliver products that focus on quality going forward. Every piece passes through the hands of a skilled craftsperson before it reaches a customer, and we take pride in the details that go into each item. Our workshop has grown slowly over time, but our commitment to careful, traditional methods has never changed. We hope that when you hold one of our products, you can feel the care that went into making it."
+  },
+  {
+    "id": "mkt_016",
+    "domain": "marketing",
+    "instruction": "As a brand story for a farm delivering organic vegetables directly to consumers, fix the reliance on generic clichés and the lack of specificity.",
+    "seed": "We value the gifts of nature and work hard to grow safe, reliable vegetables. We raise our vegetables with care and deliver them fresh to our customers. We hope you will enjoy trying them for yourself very soon. Our small team tends the fields by hand throughout the growing season, paying close attention to the soil and the weather each day. We believe that good food starts with good practices, and we try to farm in a way that respects the land for future seasons. Many families have told us how much they enjoy the flavor and freshness of what we grow and deliver."
+  },
+  {
+    "id": "mkt_017",
+    "domain": "marketing",
+    "instruction": "As comparative copy for a discount mobile SIM provider, fix the lack of specificity and the unconvincing comparison to competitors.",
+    "seed": "Our discount SIM plans offer good value compared to other providers. The rates are reasonable, and the connection works well for everyday needs. If you are considering switching providers, please take a look at our plans. We know that choosing a mobile plan can feel confusing with so many options available, and we have tried to make our pricing straightforward and easy to understand. Customer support is available if you run into any issues during setup or afterward. Many customers who switch to us mention that the process was easier than expected. We would be happy to answer any questions you might have about switching."
+  },
+  {
+    "id": "mkt_018",
+    "domain": "marketing",
+    "instruction": "As comparative copy for an electric vehicle charging service, fix the lack of specificity and the weak differentiation from competitors.",
+    "seed": "Our charging service is convenient and well regarded by users. It is more comfortable to use than other services on the market today. If you own an electric vehicle, please consider trying our service for yourself. We have worked to make the process of finding and using a charging station as simple as possible, with clear instructions at every step. Our network continues to expand into new areas, which we hope will make things more convenient for drivers over time. Many current users mention that they appreciate the reliability of our stations compared to what they experienced elsewhere. We welcome you to give it a try."
+  },
+  {
+    "id": "mkt_019",
+    "domain": "marketing",
+    "instruction": "As limited-offer copy for members-only early access to a product launch, fix the lack of urgency and the weak sense of exclusivity.",
+    "seed": "This is an announcement of early access for our valued members. You can purchase popular products a little earlier than the general public. Please take this opportunity to use this benefit while it is available to you. We created this program as a way of thanking members for their continued support over the years, and we hope it adds a bit of extra value to your membership. Access will open through your member page, where you can browse the available items ahead of the general release date. We appreciate your loyalty and hope you enjoy this small token of our appreciation for being part of our community."
+  },
+  {
+    "id": "mkt_020",
+    "domain": "marketing",
+    "instruction": "As limited-offer copy for a quantity-limited collaboration dessert, fix the underused scarcity appeal and the lack of specificity.",
+    "seed": "We are selling a collaboration dessert with a popular brand, available in limited quantity. It is a delicious product that has received great reviews so far. It will end once stock runs out, so please purchase it early if you are interested. This collaboration came together after months of planning between our teams, and we think the result reflects the best of both brands working together. Only a certain number will be made available at each of our locations, and we do not currently plan to restock once they are gone. We hope you get a chance to try this special item before it disappears from our shelves."
+  },
+  {
+    "id": "mkt_021",
+    "domain": "marketing",
+    "instruction": "As job posting copy recruiting engineers for an IT company, fix the lack of specificity and the weak appeal to candidates.",
+    "seed": "We are looking for engineers to join our team. It is a rewarding job in an environment where you can grow professionally. Benefits are comprehensive, so if you are interested, please consider applying to our open position. Our team works on a variety of projects that span different industries, which keeps the work interesting and lets people build a broad range of skills over time. We value collaboration and try to create a workplace where people feel comfortable sharing ideas and asking questions. We would love to hear from candidates who are curious, motivated, and ready to take on new challenges with us."
+  },
+  {
+    "id": "mkt_022",
+    "domain": "marketing",
+    "instruction": "As the opening of a press release announcing a new product from a startup, fix the lack of specificity and the weak news hook.",
+    "seed": "We are pleased to announce that our company will be releasing a new product. We have refined its development so that many people can make use of it. We hope you will look forward to future developments from our company as well. The idea for this product grew out of feedback we received from early users of our previous offerings, and our team spent a significant amount of time addressing the issues that were raised. We believe this release represents an important step forward for our company, and we are excited to share more details with the public as the launch date approaches in the coming weeks."
+  },
+  {
+    "id": "mkt_023",
+    "domain": "marketing",
+    "instruction": "As crowdfunding campaign copy for a folding bicycle, fix the lack of specificity and the weak emotional appeal.",
+    "seed": "We have launched a project for a new folding bicycle. It has a convenient and easy-to-use design suited for daily commuting. We hope to bring this product to life with the support of our backers on this platform. Our small team has spent the past year refining the folding mechanism and testing different materials to find the right balance of strength and portability. We believe this bike could make a real difference for people who commute in crowded cities or have limited storage space at home. We are grateful for any support you can offer, whether through funding or simply sharing our project with others."
+  },
+  {
+    "id": "mkt_024",
+    "domain": "marketing",
+    "instruction": "As members-only announcement copy for a department store loyalty club, fix the lack of specificity and the weak benefit statement.",
+    "seed": "This is a special announcement for members of our loyalty club. We have prepared valuable benefits for you to enjoy. Please take advantage of this opportunity, and further details are available at our service counter in the store. Membership benefits change from season to season, and we try to include a mix of discounts, early access, and small gifts throughout the year. Many long-time members tell us that these benefits add meaningful value to their regular shopping trips with us. We appreciate your continued loyalty and hope you find something worthwhile among this season's offerings when you next visit our store."
+  },
+  {
+    "id": "mkt_025",
+    "domain": "marketing",
+    "instruction": "As return-guarantee copy for an online apparel retailer, fix the weak reassurance and the lack of specificity.",
+    "seed": "Our store offers a return guarantee for customers. If the size does not fit, you can feel at ease knowing this option is available. This is a system designed to be easy to use, so please consider taking advantage of it when you shop with us. We know that ordering clothing online without trying it on first can feel uncertain, and we designed this policy specifically to reduce that worry for our customers. Returns can be started directly from your account, and our support team is available if you run into any trouble along the way. We hope this makes shopping with us a little easier."
+  },
+  {
+    "id": "mkt_026",
+    "domain": "marketing",
+    "instruction": "As the introductory copy for an FAQ page on a streaming subscription service, fix the lack of a friendly tone and the lack of specificity.",
+    "seed": "Below is a summary of frequently asked questions. This content is intended to help resolve doubts about our service. Please check here if you are having trouble, and contact us if your issue is not resolved. We update this page regularly based on the questions our support team hears most often from customers, so it should reflect common concerns fairly well. Topics covered include billing, account access, and streaming quality, among other things. If you cannot find what you are looking for, our support team is available through chat or email and will be glad to help you sort things out quickly."
+  },
+  {
+    "id": "mkt_027",
+    "domain": "marketing",
+    "instruction": "As a video ad script for a robot vacuum cleaner, fix the lack of atmosphere and the weak benefit statement.",
+    "seed": "This robot vacuum automatically cleans your room for you. It supports busy daily life by handling household chores and helps you enjoy a more comfortable home. Please try out its performance for yourself and see the results. The device navigates around furniture and other obstacles on its own, adjusting its path as needed throughout each cleaning session. Many owners mention that they no longer think about vacuuming as a separate task on their to-do list. We designed it to work quietly in the background while you focus on other things during your day, whether at home or away."
+  },
+  {
+    "id": "mkt_028",
+    "domain": "marketing",
+    "instruction": "As outdoor billboard copy for a real estate rental agency, fix the lack of conciseness and the weak overall impression.",
+    "seed": "Leave your apartment search to us. We will propose the perfect home for you from our wide selection of available properties. Our experienced staff will support you with genuine care throughout the entire process, from your first inquiry until the day you move in. We work with property owners across the city and try to keep our listings updated frequently so that you have access to the latest available options whenever you visit our office or website. Whether you are searching for your first apartment or looking to relocate, we hope to make the process as smooth as possible for you."
+  },
+  {
+    "id": "mkt_029",
+    "domain": "marketing",
+    "instruction": "As a seasonal campaign announcement for Mother's Day gifts, fix the weak emotional appeal and the lack of specificity.",
+    "seed": "We have prepared gifts perfect for Mother's Day. They are popular as a way to express daily gratitude. Why not give one to your beloved mother this year as a small way of saying thank you for everything she does. Our selection includes a range of items chosen with different tastes and budgets in mind, and each one comes with the option of a handwritten card if you would like to add a personal touch. Many customers tell us that finding the right gift becomes easier once they see the full range of options we offer during this particular time of year."
+  },
+  {
+    "id": "mkt_030",
+    "domain": "marketing",
+    "instruction": "As a new-feature announcement for a task management app, fix the lack of specificity and the weak benefit statement.",
+    "seed": "A new feature has been added to our app. You can now use it more conveniently than before. Your daily work efficiency should improve, so please update the app and give it a try as soon as possible. We built this feature based on requests we received from long-time users who wanted a simpler way to organize recurring tasks across different projects. The update is available now for both mobile and desktop versions of the app, and existing settings will carry over automatically. We hope this change makes your daily planning smoother, and we welcome feedback as always through our support channels."
+  },
+  {
+    "id": "mkt_031",
+    "domain": "marketing",
+    "instruction": "As review-driven promotional copy for a baby carrier, fix the weak demonstration of credibility and the lack of specificity.",
+    "seed": "This baby carrier has received favorable reviews from many parents. It is easy to use, and babies are said to stay comfortable while wearing it. We would especially recommend this product to anyone currently raising a young child at home. Parents often mention how quickly they got used to putting it on and adjusting the straps for a secure fit. The design distributes weight evenly, which several reviewers say makes a noticeable difference during longer outings. We hope new and experienced parents alike find it as useful as the many families who have already shared their positive experiences with us online."
+  },
+  {
+    "id": "mkt_032",
+    "domain": "marketing",
+    "instruction": "As loyalty program copy for an airline mileage program, fix the lack of specificity and the weak benefit statement.",
+    "seed": "We would like to introduce our program for earning valuable miles. Points accumulate with every flight and can be exchanged for a variety of rewards. This is a great program for anyone who flies frequently and wants to make the most of every trip. Miles can be redeemed for flight upgrades, hotel stays, or partner rewards, depending on what suits your travel habits best. Elite status members also receive additional perks such as priority boarding and lounge access on qualifying routes. We hope this program adds extra value to your travels and rewards the loyalty you have shown us over the years."
+  },
+  {
+    "id": "mkt_033",
+    "domain": "marketing",
+    "instruction": "As trade show booth copy for an industrial robotics company, fix the weak demonstration of expertise and the lack of specificity.",
+    "seed": "We will be exhibiting our latest industrial robots. These are products that contribute to improved productivity for manufacturers. You can see the actual operation of the machines at our booth, so please feel free to stop by during the event. Our engineering team will be on hand throughout the show to answer technical questions and walk visitors through the capabilities of each unit on display. We have worked with manufacturers across several industries to develop solutions tailored to different production environments. We look forward to discussing how our robots might fit into your specific operations during the show."
+  },
+  {
+    "id": "mkt_034",
+    "domain": "marketing",
+    "instruction": "As company introduction copy on the careers page of a small manufacturing firm, fix the lack of specificity and the weak appeal to candidates.",
+    "seed": "Our company is a manufacturing business rooted in the local community. We have a culture that values each and every employee as an individual. With a stable business foundation, we offer an environment where people can work here for a long time. Many of our current employees have been with us for over a decade, and we take pride in the low turnover that reflects a genuinely supportive workplace. We invest in training and try to give people opportunities to grow into new roles over time. We would welcome candidates who are looking for a place where their contributions are noticed and valued."
+  },
+  {
+    "id": "mkt_035",
+    "domain": "marketing",
+    "instruction": "As webinar announcement copy for a marketing course, fix the lack of specificity and the weak benefit statement.",
+    "seed": "We are hosting a webinar where you can learn about marketing. We plan to cover practical content, and many people have already registered to attend. If you are interested, please sign up for the session as soon as possible before spots fill up. The session will be led by instructors with hands-on experience across a range of industries, and there will be time set aside for questions at the end. Attendees will receive a recording afterward in case they are unable to join live on the scheduled date. We hope this session offers useful takeaways you can apply right away in your own work."
+  },
+  {
+    "id": "mkt_036",
+    "domain": "marketing",
+    "instruction": "As a subscription-cancellation retention message for a music streaming service, fix the weak persuasiveness and the lack of specificity.",
+    "seed": "We are sorry to hear that you are considering canceling your subscription. Our service has many appealing features, and a large number of members have expressed satisfaction with it. We would appreciate it if you would reconsider continuing your subscription with us. Over the past year we have added new playlists, improved audio quality options, and expanded our catalog significantly based on member feedback. If cost is a concern, we also offer a lower-priced plan that still includes most of the features you currently enjoy. We hope you will give us another chance, and we are happy to answer any questions before you decide."
+  },
+  {
+    "id": "mkt_037",
+    "domain": "marketing",
+    "instruction": "As an insert flyer packaged with an online order of health food products, fix the weak purchase motivation and the lack of specificity.",
+    "seed": "Thank you as always for your continued patronage. Our company also offers a variety of other health food products for you to explore. We hope you will take this opportunity to try some of our other items as well when you place your next order. Many customers who started with just one product eventually became regular users of several items in our lineup once they discovered how well the products complemented each other. We have included a small discount code inside this flyer that can be applied toward your next purchase, and we hope it encourages you to explore what else we offer."
+  },
+  {
+    "id": "mkt_038",
+    "domain": "marketing",
+    "instruction": "As back-of-package copy for frozen dumplings, fix the lack of specificity and the weak appetite appeal.",
+    "seed": "These are delicious dumplings made with carefully selected ingredients. You can easily enjoy an authentic taste at home without much effort. Please serve them at your family table, and they also make a great option on a busy weeknight. Each dumpling is hand-folded before freezing to help lock in flavor, and they cook up crisp on the bottom with a tender, juicy filling inside. They pair well with a simple dipping sauce or alongside rice and vegetables for a more complete meal. We hope your family enjoys them as much as ours does whenever we prepare a batch at home."
+  },
+  {
+    "id": "mkt_039",
+    "domain": "marketing",
+    "instruction": "As QR-code call-to-action copy for a restaurant coupon, fix the weak call to action and the lack of specificity.",
+    "seed": "We have prepared a great coupon for you. You can use it by scanning the QR code provided. Please take this opportunity to make use of it, and we look forward to welcoming you to our restaurant soon. The coupon can be applied toward any item on our regular menu and is valid for a limited time after you scan it, so there is no need to print anything out or remember a special code at the counter. Simply show the screen to a staff member when you order. We hope this makes it easy and convenient for you to enjoy a meal with us."
+  },
+  {
+    "id": "mkt_040",
+    "domain": "marketing",
+    "instruction": "As LINE official account broadcast copy encouraging salon bookings, fix the lack of a personal touch and the weak call to action.",
+    "seed": "Have you made your next appointment yet? Our salon always strives to provide careful, attentive service to every client who visits us. We currently have some availability, so please take this opportunity to book a time that works for you. Our stylists have been getting positive feedback recently for a new seasonal treatment that many clients are trying for the first time. Appointments can be made directly through this chat in just a few taps, and we will confirm the details shortly after you send your preferred date and time. All of us at the salon look forward to seeing you again soon."
+  },
+  {
+    "id": "mkt_041",
+    "domain": "marketing",
+    "instruction": "As the opening of a press notice from a local government announcing a tourism initiative, fix the lack of specificity and the weak news hook.",
+    "seed": "Our city will begin a new initiative to promote tourism. We aim to share the appeal of our region and welcome many visitors as a result of these efforts. Further details will be announced at a later date through official channels. The initiative follows several months of planning involving local business owners, community groups, and city officials who worked together to identify what makes the area distinctive to outside visitors. City leaders believe the timing aligns well with renewed interest in regional travel following recent trends. A dedicated webpage and information center are also being planned to support the rollout in the coming months."
+  },
+  {
+    "id": "mkt_042",
+    "domain": "marketing",
+    "instruction": "As a freelance-marketplace job listing requesting a logo design, fix the lack of specificity and the weak appeal to applicants.",
+    "seed": "We would like to commission a logo design. We are looking for someone who can propose a design with good taste and creativity. If you are interested, we look forward to receiving your application for this project soon. The logo will be used across our website, packaging, and social media, so we are hoping for something versatile that still feels distinctive at a glance. We are open to a range of styles and would appreciate seeing samples of similar work in your portfolio before we begin. Budget and timeline can be discussed further once we have selected a shortlist of candidates to move forward with."
+  },
+  {
+    "id": "mkt_043",
+    "domain": "marketing",
+    "instruction": "As an anniversary message from a long-established traditional confectionery shop, fix the weak emotional appeal and the lack of specificity.",
+    "seed": "Thanks to your support, our shop has been able to continue operating for many years now. This is all because of the loyal patronage we have received from our customers throughout that time. We hope to continue receiving your unwavering support in the years ahead as we move forward together. Generations of our family have worked behind the counter, passing down recipes and techniques that have remained largely unchanged since the shop first opened its doors. Many customers tell us stories of visiting as children and now bringing their own children to try the same treats they remember so fondly from their own youth."
+  },
+  {
+    "id": "mkt_044",
+    "domain": "marketing",
+    "instruction": "As course-introduction copy for an online programming course, fix the lack of specificity and the weak benefit statement.",
+    "seed": "This is an online course where you can learn programming from the basics. The content is designed to be understandable even for beginners. Why not take this opportunity to work on improving your skills starting today with a new subject to explore. The course is organized into short, manageable lessons that build on one another, with hands-on exercises included after each section so you can practice what you just learned. A community forum is also available where students can ask questions and get feedback from instructors and fellow learners. We hope this course helps you build confidence and real, practical skills over time."
+  },
+  {
+    "id": "mkt_045",
+    "domain": "marketing",
+    "instruction": "As app store description copy for a budgeting app, fix the lack of specificity and the weak differentiation from competitors.",
+    "seed": "This is an easy-to-use budgeting app. You can record your daily expenses and use it to help manage your household finances. With simple operation, this app is designed to be easy for anyone to use, regardless of prior experience with similar tools. The app automatically categorizes transactions once linked to your accounts, saving you time compared to entering everything by hand. Monthly summary charts help you spot spending trends at a glance, and reminders can be set for recurring bills so nothing slips through the cracks. We hope this app makes managing your money feel a little less stressful each month."
+  },
+  {
+    "id": "mkt_046",
+    "domain": "marketing",
+    "instruction": "As a review-request message for a beauty salon, fix the weak call to action and the lack of emotional connection.",
+    "seed": "Thank you for visiting our salon recently. If you don't mind, we would appreciate it if you could take a moment to leave a review of your visit. Your feedback helps us improve our services going forward, so please feel free to share your honest thoughts with us. We read every review carefully and use the feedback to guide decisions about training and new services we consider offering in the future. It only takes a couple of minutes, and a link is included below for your convenience. We are grateful for your time today and hope to see you again at your next appointment."
+  },
+  {
+    "id": "mkt_047",
+    "domain": "marketing",
+    "instruction": "As a tagline plus description for a local craft beer festival, fix the lack of atmosphere and the lack of specificity.",
+    "seed": "We are hosting an event where you can enjoy local craft beer. A wide variety of beers can be tasted, and the event draws many attendees every year. Please come with your family or friends and enjoy the festivities together this season. Dozens of local breweries will set up tasting booths throughout the venue, alongside food trucks and live music scheduled across the afternoon and evening. Tasting glasses and tokens are available for purchase at the entrance, and proceeds this year will support a local community project. We hope you'll join us for a relaxed day of good beer and good company."
+  },
+  {
+    "id": "mkt_048",
+    "domain": "marketing",
+    "instruction": "As subway car-card advertising copy for a language school, fix the lack of conciseness and the weak overall impression.",
+    "seed": "This school is recommended for anyone who wants to build their language skills. Experienced instructors provide careful, patient teaching for students of all levels. A free information session is also available, so please feel free to contact us with any questions you might have about our programs. Classes are offered at various times throughout the week to accommodate different schedules, including evening and weekend sessions for working professionals. Small class sizes allow instructors to give individual attention to each student's progress and specific goals. We would be glad to help you find the right course to match your current level and interests."
+  },
+  {
+    "id": "mkt_049",
+    "domain": "marketing",
+    "instruction": "As a letter-style direct mail piece inviting a customer to an insurance review consultation, fix the lack of a personal touch and the weak call to action.",
+    "seed": "Thank you very much for your continued relationship with us. We are writing today to let you know about the option to review your current insurance coverage. Our specialized staff will provide careful, attentive consultation, so please consider taking advantage of this opportunity soon. Life circumstances change over time, and a policy that made sense a few years ago may no longer fit your current needs as well as it once did. A brief conversation, whether by phone or in person, can help identify any gaps or unnecessary costs in your existing plan. We would welcome the chance to speak with you at your convenience."
+  },
+  {
+    "id": "mkt_050",
+    "domain": "marketing",
+    "instruction": "As grand-opening announcement copy for a newly opened chiropractic clinic, fix the lack of specificity and the weak motivation to visit.",
+    "seed": "We are pleased to announce the opening of a new chiropractic clinic. Our experienced practitioners provide treatment tailored to each client's individual concerns about their body. To celebrate our opening, we look forward to welcoming everyone in the community to come and visit us soon. The clinic features private treatment rooms and modern equipment designed to make each session as comfortable as possible for new and returning clients alike. Our practitioners take time during the first visit to understand each person's history and goals before recommending a course of treatment. We hope to become a trusted part of your ongoing wellness routine."
+  }
+]

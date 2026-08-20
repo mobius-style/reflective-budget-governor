@@ -1,0 +1,302 @@
+[
+  {
+    "id": "int_001",
+    "domain": "internal",
+    "instruction": "As a company-wide announcement about an office relocation, improve the specificity of the new location details and the clarity of what employees should do next.",
+    "seed": "Hi everyone. Just a heads up that we're planning to move offices sometime soon. The new place should be bigger and nicer overall. We'll share more details as they become available. If you have any questions, feel free to reach out to the facilities team whenever. We're excited about this change and think it will be good for the company as we keep growing. More info to come, thanks for your patience and understanding during this transition period."
+  },
+  {
+    "id": "int_002",
+    "domain": "internal",
+    "instruction": "As a company-wide announcement of a new CEO, improve the explanation of context/reasoning and the specificity of the call to action for employees.",
+    "seed": "We wanted to let everyone know there will be some changes at the top of the company soon. Leadership is shifting, but the overall direction of the business should stay pretty much the same. We appreciate everyone's continued support during this time and hope you'll join us in welcoming the change with an open mind. We'll share more when things are finalized, so stay tuned for updates in the coming weeks or so."
+  },
+  {
+    "id": "int_003",
+    "domain": "internal",
+    "instruction": "As a cross-department request to submit documents, improve the specificity of what materials are needed, the required format, and the deadline.",
+    "seed": "Hope you're doing well. Following up on what we discussed earlier, could you get those documents ready when you get a chance? No rush, just whenever it's convenient works fine. Feel free to send them over in whatever format is easiest for your team. Let me know if anything comes up or if you need anything from our side to move things along. Appreciate your help with this as always, thanks so much."
+  },
+  {
+    "id": "int_004",
+    "domain": "internal",
+    "instruction": "As a notice about a change to meeting room booking rules, improve the specificity of the changes and the clarity of who is affected.",
+    "seed": "Just letting everyone know that the way we book meeting rooms is going to change. It will be a bit different from how we've been doing things, so please bear with us during the adjustment. We think this will help avoid some of the scheduling issues we've had lately. More details on the new process will be shared at some point, so keep an eye out for that."
+  },
+  {
+    "id": "int_005",
+    "domain": "internal",
+    "instruction": "As a notice about a change to the paid leave request process, improve the clarity of the difference between old and new process and the timing of the switch.",
+    "seed": "The way we handle vacation requests is being updated. It'll look a little different from what you're used to, so please take note of that going forward. We think the new approach will make things smoother for everyone once it's up and running. We'll send out more information once everything is finalized on our end, so thanks for bearing with us in the meantime."
+  },
+  {
+    "id": "int_006",
+    "domain": "internal",
+    "instruction": "As an internal notice about a remote work policy revision, improve the specificity of what is changing and the clarity of who it applies to.",
+    "seed": "We're taking another look at our remote work policy and some updates are coming. Since this touches on how people work day to day, it's probably relevant to a lot of the team. We'll share the revised policy once it's ready to go. Thanks for your patience while we finalize things, and let us know if you have thoughts to share in the meantime."
+  },
+  {
+    "id": "int_007",
+    "domain": "internal",
+    "instruction": "As an invitation to a welcome party for new hires, improve the clarity of the date, location, and how to RSVP.",
+    "seed": "We're planning to throw a little get-together to welcome the folks who recently joined us. It'd be great to have everyone celebrate together if you're able to make it. Location and other details are still being worked out but we'll let you know as soon as we have them locked down. Hope to see lots of familiar faces there, should be a fun time for the whole team."
+  },
+  {
+    "id": "int_008",
+    "domain": "internal",
+    "instruction": "As an invitation to a farewell party for a departing employee, improve the clarity of the schedule for the day and the deadline for RSVP and contributions.",
+    "seed": "We're organizing a send-off for someone who's leaving the company soon. They've been a great part of the team for a long time, so it would be nice for everyone to come show appreciation. If you're interested in joining, just reach out to the organizer whenever works for you. More details about the event itself will be shared closer to the date, so stay tuned."
+  },
+  {
+    "id": "int_009",
+    "domain": "internal",
+    "instruction": "As a notice about a change to the transportation expense reimbursement process, improve the specificity of the new steps and the clarity of when the change takes effect.",
+    "seed": "The process for claiming transportation expenses is changing. It might take a little more effort than before, but this is something finance needs for their own reasons, so we appreciate your understanding. A more detailed guide will be shared later on to walk everyone through the new steps. Thanks in advance for adjusting to this, we know changes like this can be a bit annoying."
+  },
+  {
+    "id": "int_010",
+    "domain": "internal",
+    "instruction": "As a notice about a revision to entertainment expense limits, improve the specificity of the new cap amount and the clarity of the effective date.",
+    "seed": "There are some updates coming to how entertainment expenses are handled. The limits might be adjusted, so folks in sales-related roles especially should keep this in mind going forward. We expect finance to send out the official details at some point soon. In the meantime, just try to be mindful of spending until we hear more about exactly what's changing."
+  },
+  {
+    "id": "int_011",
+    "domain": "internal",
+    "instruction": "As a migration notice for a new time and attendance system, improve the clarity of the migration schedule and what employees need to prepare in advance.",
+    "seed": "We'll be switching over to a new system for tracking attendance. It works a bit differently from what we've used before, so there might be a learning curve for a while. We're looking into some kind of training to help people get up to speed. Appreciate everyone's cooperation as we work through this transition, more info will follow as things develop."
+  },
+  {
+    "id": "int_012",
+    "domain": "internal",
+    "instruction": "As a migration notice for a new email system, improve the clarity of when the old system will be shut down and the steps for migrating data.",
+    "seed": "We're moving to a new email system across the company. During the switch there might be some hiccups or things that feel less convenient than usual. IT will be sending out a more detailed schedule for the migration soon. We appreciate your patience while this gets sorted out, and please reach out if anything seems off during the transition period."
+  },
+  {
+    "id": "int_013",
+    "domain": "internal",
+    "instruction": "As a communication sharing this quarter's revenue targets, improve the specificity of the numeric goals and the clarity of the actions needed to reach them.",
+    "seed": "Wanted to share an update on our targets for this quarter. The plan is to aim higher than we did last quarter, building on the momentum we've had. We're counting on every team to keep pushing hard to make this happen. You can check the attached materials for more details on the numbers, and let us know if you have any questions about the overall direction."
+  },
+  {
+    "id": "int_014",
+    "domain": "internal",
+    "instruction": "As an email sharing this quarter's department KPIs, improve the specificity of how the metrics are defined and what counts as achieving them.",
+    "seed": "Sharing our department goals for the quarter here. There are a few numbers we'll be keeping an eye on as we go about our work. We'll share the exact figures a bit later once everything is finalized on our end. In the meantime, just keep doing great work and we'll circle back with more specifics soon enough."
+  },
+  {
+    "id": "int_015",
+    "domain": "internal",
+    "instruction": "As written feedback from a 1-on-1 with a new hire, improve the specificity of concrete behavioral examples and the clarity of what to improve.",
+    "seed": "Looking back at this past month, I can tell you've been putting in effort and it shows. That said, there's still room to grow in a few areas, so I'd encourage you to keep that in mind going forward. Overall things are heading in a good direction. Let's plan to touch base again soon and talk more about how things are going for you."
+  },
+  {
+    "id": "int_016",
+    "domain": "internal",
+    "instruction": "As written feedback from a 1-on-1 with a mid-level employee about growth areas, improve the specificity of the expected role and the clarity of next steps.",
+    "seed": "Reflecting on your recent work, I've noticed some real progress, along with a few areas where there's still more to develop. As we think about your role going forward, it would help to keep growing in those areas. Let's find some time to talk through this in more detail soon, there's a lot we could dig into together when we next connect."
+  },
+  {
+    "id": "int_017",
+    "domain": "internal",
+    "instruction": "As an internal recognition post for top sales performance, improve the specificity of the recognized achievement and the clarity of what is being praised.",
+    "seed": "We'd like to recognize someone on the sales team who had a strong quarter. It really reflects the hard work they've been putting in day after day. We think it's worth sharing with the wider team as an example of great effort. More details about the specific results will be shared at a later time, so stay tuned for that update."
+  },
+  {
+    "id": "int_018",
+    "domain": "internal",
+    "instruction": "As an internal recognition post for a long-service award, improve the specificity of years of service and contributions along with the clarity of the message of thanks.",
+    "seed": "We're recognizing an employee who has been with the company for a long time. We want to celebrate their dedication and thank them for everything they've contributed over the years. It would be great if the whole team could join in celebrating this milestone together. More details about the ceremony will be shared when the event gets closer, so keep an eye out."
+  },
+  {
+    "id": "int_019",
+    "domain": "internal",
+    "instruction": "As a reminder email about the expense report deadline, improve the clarity of the covered period and the exact deadline date and time.",
+    "seed": "Quick reminder about expense reports. If you haven't submitted yours yet, please try to take care of it soon. The deadline is coming up, so don't forget to get everything turned in before it's too late. Let us know if you run into any issues along the way. Thanks in advance for getting this handled promptly, it really helps the finance team out a lot."
+  },
+  {
+    "id": "int_020",
+    "domain": "internal",
+    "instruction": "As a reminder about the performance review submission deadline, improve the clarity of which items need to be entered and the exact deadline date and time.",
+    "seed": "Just a note about performance reviews. If you haven't finished entering yours, please try to wrap it up soon. Things can get complicated if the deadline passes before everything is submitted, so we'd appreciate you getting to it when you can. Thanks for your cooperation with this, we know it's a busy time of year for everyone involved."
+  },
+  {
+    "id": "int_021",
+    "domain": "internal",
+    "instruction": "As a company-wide announcement about revisions to work rules, improve the specificity of which sections are changing and the clarity of the impact on employees.",
+    "seed": "Some parts of the employee handbook are being revised. Since some of it touches on how people work day to day, we'd encourage everyone to take a look once it's ready. The updated version will be shared as soon as it's finalized on our end. We appreciate your understanding while this process continues, more updates will follow before too long."
+  },
+  {
+    "id": "int_022",
+    "domain": "internal",
+    "instruction": "As a company-wide announcement making security training mandatory, improve the clarity of who is required to attend, how to complete it, and the deadline.",
+    "seed": "We'll be asking everyone to go through some security training soon. This is something we take seriously as a company, so we appreciate everyone's cooperation with it. We'll share more information about how exactly this will work at a later date. In the meantime, thanks for bearing with us as we roll this initiative out across the organization."
+  },
+  {
+    "id": "int_023",
+    "domain": "internal",
+    "instruction": "As a cross-department request for a report on a system outage, improve the specificity of what information is requested and the clarity of the submission deadline.",
+    "seed": "Regarding the system issue from the other day, could you fill us in on what happened when you get a chance? We'd like to have a general understanding on our end as a related team. Whatever details you can share would be appreciated, no need to go into too much depth if it's not convenient. Thanks a lot for your help with this, let us know if anything else comes up."
+  },
+  {
+    "id": "int_024",
+    "domain": "internal",
+    "instruction": "As a cross-department request about a change to the budget request form, improve the clarity of how to obtain the new form and when the switch takes effect.",
+    "seed": "The format for budget requests is being updated. Going forward, submissions will need to use the new version instead of the old one. Sorry for the extra hassle this might cause on your end, but we'd appreciate your cooperation with the change. Let us know if you run into any trouble figuring out the new format once it's out."
+  },
+  {
+    "id": "int_025",
+    "domain": "internal",
+    "instruction": "As a notice about expanded parental leave benefits, improve the specificity of what is being expanded and the clarity of eligibility conditions.",
+    "seed": "We're making some updates to parental leave that should make things easier to use. This should be a positive change for anyone who ends up needing to take advantage of it. HR will be sending out more detailed information about the updated policy before too long. Thanks for your patience while the final details are being worked out on our end."
+  },
+  {
+    "id": "int_026",
+    "domain": "internal",
+    "instruction": "As a company announcement introducing a side-job permission system, improve the specificity of the application process and the clarity of the approval conditions.",
+    "seed": "We're introducing a new policy that allows employees to take on side jobs under certain conditions. Anyone interested will need to go through some kind of process to get approved first. We plan to share the exact rules for how this will work sometime in the near future. Thanks for your patience while we finalize the details of this new policy."
+  },
+  {
+    "id": "int_027",
+    "domain": "internal",
+    "instruction": "As an invitation to the year-end party, improve the clarity of the date, venue, cost, and how to RSVP.",
+    "seed": "It's that time of year again, so we're planning our annual year-end get-together. It should be a nice chance for everyone to relax and celebrate the year together. If you're able to join, we'd love to have you there. More details about the event will be shared closer to the date, so keep an eye out for that update."
+  },
+  {
+    "id": "int_028",
+    "domain": "internal",
+    "instruction": "As an invitation to a promotion celebration, improve the clarity of who is being honored and how to sign up to attend.",
+    "seed": "We're putting together a small celebration for someone's recent promotion. It'd be great for everyone to come together and show some support for this achievement. If you'd like to join in, just reach out to whoever's organizing it. We'll share more details about timing and location as things come together, thanks for helping us celebrate this milestone."
+  },
+  {
+    "id": "int_029",
+    "domain": "internal",
+    "instruction": "As an internal notice about a revision to the business travel expense policy, improve the specificity of which items are changing and the clarity of the effective date.",
+    "seed": "We're revisiting the policy around travel expenses for business trips. There could be some changes to the amounts involved, so it's worth keeping an eye on this if you travel for work. We'll share the finalized details once everything has been worked out on our end. Appreciate everyone's patience while this review process wraps up over the next while."
+  },
+  {
+    "id": "int_030",
+    "domain": "internal",
+    "instruction": "As a notice about a change to the equipment purchase approval process, improve the specificity of the new approval steps and the clarity of when the old process is discontinued.",
+    "seed": "The approval process for buying equipment is going to change. There might be a few more steps involved compared to before, but this is meant to help with oversight going forward. We appreciate everyone's understanding as we roll out this new process across departments. More details about exactly how it will work are coming soon, so stay tuned for that."
+  },
+  {
+    "id": "int_031",
+    "domain": "internal",
+    "instruction": "As a migration notice for a new internal chat tool, improve the clarity of when the old tool will be discontinued and how data will be migrated to the new one.",
+    "seed": "We'll be switching to a different chat tool for internal communication. There might be a bit of a bumpy transition as everyone gets used to the new setup, so thanks in advance for your patience with that. We'll share more information about the switch as things get closer. Please reach out if you run into any issues along the way."
+  },
+  {
+    "id": "int_032",
+    "domain": "internal",
+    "instruction": "As a migration notice for a new cloud storage platform, improve the clarity of which data is in scope for migration and the timeline until migration is complete.",
+    "seed": "We're changing which cloud storage platform we use company-wide. This could affect how existing files and data are accessed going forward. We'll share a more detailed migration plan once it's ready on our end. Thanks for bearing with us during this transition, and let IT know if anything seems off with your files during the process."
+  },
+  {
+    "id": "int_033",
+    "domain": "internal",
+    "instruction": "As a request for employees to set individual goals for the quarter, improve the clarity of the required format and the submission deadline.",
+    "seed": "It's about time to set individual goals for the quarter again. Please think about what you'd like to work toward and share it once you've got something written up. There's no strict format you need to follow, just write it however feels natural to you. Let us know if you have any questions about the process along the way."
+  },
+  {
+    "id": "int_034",
+    "domain": "internal",
+    "instruction": "As a project status update email, improve the specificity of the current progress percentage and the clarity of the next milestone.",
+    "seed": "Wanted to give a quick update on where things stand with the project we've been working on. Overall it seems to be going fairly well, though there are a couple of things that are a bit concerning at the moment. We'll follow up with a more detailed report at some point soon to go over everything in more depth."
+  },
+  {
+    "id": "int_035",
+    "domain": "internal",
+    "instruction": "As written feedback from a 1-on-1 with a leadership candidate, improve the specificity of the leadership behaviors expected of them.",
+    "seed": "Watching how you've been handling things lately, I can see some real leadership qualities coming through. There are also some areas where I think there's more potential to grow into going forward. I'd encourage you to keep that in mind as you take on more responsibility. Let's plan to find time to talk more about this soon."
+  },
+  {
+    "id": "int_036",
+    "domain": "internal",
+    "instruction": "As written feedback from a 1-on-1 addressing performance issues, improve the specificity of the concrete problem examples and the clarity of the deadline for improvement.",
+    "seed": "There are a few things about recent work that I wanted to bring up again, since some of this overlaps with what we discussed before. I'd like to see some improvement in these areas going forward. We'll keep checking in on how things are progressing and talk more as needed. Let me know if you have any questions about any of this."
+  },
+  {
+    "id": "int_037",
+    "domain": "internal",
+    "instruction": "As an internal recognition post for a team award, improve the specificity of the concrete achievements that led to the recognition.",
+    "seed": "One of our teams is being recognized for their recent work, which is great to see. It really reflects the kind of effort they've been putting in on a regular basis. We wanted to share this with everyone so people are aware of the great work happening across the company. More details will be included in an upcoming update soon."
+  },
+  {
+    "id": "int_038",
+    "domain": "internal",
+    "instruction": "As a recognition post for an innovation award, improve the specificity of the initiative that led to the award.",
+    "seed": "We're excited to announce that an innovation award is being given out this cycle, recognizing some great new work being done internally. It's the kind of project that's been getting a lot of positive attention around the company. We'll share more details about exactly what was involved during the upcoming award ceremony, so keep an eye out for that."
+  },
+  {
+    "id": "int_039",
+    "domain": "internal",
+    "instruction": "As a reminder about the deadline to complete a survey, improve the clarity of the survey's purpose and the exact deadline date and time.",
+    "seed": "Just following up on the survey we sent out a while back. If you haven't had a chance to respond yet, it would be great if you could fill it out whenever you get a free moment. We really appreciate everyone's input on this and hope to hear from those who haven't responded soon. Thanks so much for your time."
+  },
+  {
+    "id": "int_040",
+    "domain": "internal",
+    "instruction": "As a reminder about the training completion deadline, improve the clarity of which training is required, how to complete it, and the exact deadline date.",
+    "seed": "This is a reminder about the training that's been assigned. If you haven't completed it yet, please try to get it done as soon as you're able to. Things could get complicated if it's not finished before the cutoff, so we'd really appreciate everyone taking care of it soon. Thanks in advance for your cooperation with this."
+  },
+  {
+    "id": "int_041",
+    "domain": "internal",
+    "instruction": "As a company-wide announcement about strengthened office security, improve the specificity of the new entry and exit rules and the clarity of the effective date.",
+    "seed": "We're stepping up security measures around the office going forward. Some of the procedures for entering and leaving the building will be a little different from before. Facilities will be sending out more information about exactly how the new process will work at some point soon. We appreciate everyone's cooperation as this change gets rolled out across the building."
+  },
+  {
+    "id": "int_042",
+    "domain": "internal",
+    "instruction": "As an internal email announcing the annual health checkup, improve the clarity of the exam period, how to book an appointment, and who is eligible.",
+    "seed": "It's time to start thinking about this year's health checkup program. As usual, we plan to run it again and would like everyone to make time to take part. We'll follow up with more details about how to schedule an appointment sometime soon. Thanks in advance for making this a priority once the scheduling information becomes available to everyone."
+  },
+  {
+    "id": "int_043",
+    "domain": "internal",
+    "instruction": "As a cross-department request for volunteers to serve as interview panelists, improve the specificity of the request and the clarity of how to confirm availability.",
+    "seed": "As part of our hiring efforts, we're looking for people who might be willing to help out with interviews. We know everyone is busy, so we really appreciate anyone who's able to lend a hand with this. If you're interested and have some time, please reach out whenever works for you. Thanks so much for considering this, it really helps the team out a lot."
+  },
+  {
+    "id": "int_044",
+    "domain": "internal",
+    "instruction": "As a cross-department request for design assets, improve the specificity of the required asset specifications and the clarity of the delivery deadline.",
+    "seed": "For some materials we're putting together, could you send over some design assets when you have a chance? There's nothing too specific we need in particular, so whatever works on your end should be fine. Feel free to get to it whenever it's convenient for your schedule. Thanks a lot for the help, we really appreciate it."
+  },
+  {
+    "id": "int_045",
+    "domain": "internal",
+    "instruction": "As a company announcement introducing flextime, improve the specificity of the core working hours and the clarity of the effective date.",
+    "seed": "To give people more flexibility in how they work, we're rolling out a flextime system. This should open up some new options for how everyone structures their day. We'll share the specific rules and details about how this will work sometime in the near future. Thanks for your patience while we put together the final version of the policy."
+  },
+  {
+    "id": "int_046",
+    "domain": "internal",
+    "instruction": "As an internal notice about relaxed dress code rules, improve the specificity of what is now allowed and the clarity of what still counts as inappropriate attire.",
+    "seed": "We're taking another look at the dress code and some changes are coming. Going forward, people should be able to dress a bit more casually than before at the office. We'll share the specific guidelines once everything has been finalized on our end. Thanks for your patience in the meantime while we work out the exact details."
+  },
+  {
+    "id": "int_047",
+    "domain": "internal",
+    "instruction": "As a notice announcing a new remote work stipend, improve the clarity of who is eligible, the stipend amount, and how to apply.",
+    "seed": "We're introducing a new stipend for employees who work remotely, as part of our effort to better support the team. It's meant to be a way of helping cover some of the costs that come with working from home. We'll share the full details once the program has been finalized on our end. Thanks for your patience while this gets worked out."
+  },
+  {
+    "id": "int_048",
+    "domain": "internal",
+    "instruction": "As a migration notice for a new payroll system, improve the clarity of how employees can check their pay stubs during the transition and the support contact.",
+    "seed": "We'll be switching to a new system for handling payroll. There might be some impact around the time of the switch, so please bear with us if anything seems a little off during that period. We apologize for any inconvenience this causes and appreciate everyone's cooperation as we work through the transition over the coming weeks."
+  },
+  {
+    "id": "int_049",
+    "domain": "internal",
+    "instruction": "As an internal message sharing the company-wide vision, improve the specificity of the vision's content and the clarity of what is expected from employees.",
+    "seed": "Wanted to take a moment to share where we're headed as a company going forward. We hope everyone can keep moving in the same direction together as we continue to grow. There's a lot more to talk about here, and we'll go into more detail at some point down the road. Thanks for being part of this journey with us."
+  },
+  {
+    "id": "int_050",
+    "domain": "internal",
+    "instruction": "As a reminder about the contract renewal deadline, improve the clarity of which contracts are affected, the exact deadline date and time, and the renewal procedure.",
+    "seed": "Just a reminder about contract renewals coming up. If this applies to you, please try to take care of it as early as you can. Things could get complicated if the deadline passes without the renewal being completed, so we'd appreciate you handling it soon. Let us know if you have any questions about the process along the way."
+  }
+]

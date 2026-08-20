@@ -1,0 +1,12 @@
+{"key": "t01_product:B7_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t02_apology:B4_vs_A8", "votes": ["first", "first"], "result": "tie"}
+{"key": "t02_apology:C5_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t03_blog:C3_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t05_minutes:B6_vs_A8", "votes": ["tie", "tie"], "result": "tie"}
+{"key": "t05_minutes:C7_vs_A8", "votes": ["tie", "first"], "result": "tie"}
+{"key": "t06_job:B5_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t06_job:C3_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t09_speech:B6_vs_A8", "votes": ["second", "second"], "result": "tie"}
+{"key": "t09_speech:C5_vs_A8", "votes": ["second", "second"], "result": "tie"}
+{"key": "t10_review:B7_vs_A8", "votes": ["second", "first"], "result": "loss"}
+{"key": "t11_notice:B5_vs_A8", "votes": ["second", "first"], "result": "loss"}

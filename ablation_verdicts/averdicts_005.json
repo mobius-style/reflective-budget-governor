@@ -1,0 +1,20 @@
+[
+ {"key": "nosat:26b:edu_016", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:edu_039", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:edu_033", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:acad_038", "vote1": "first", "vote2": "second"},
+ {"key": "nosat:12b:hr_008", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:gov_045", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:26b:hr_013", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:hr_007", "vote1": "second", "vote2": "first"},
+ {"key": "nosat:26b:pr_029", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:mkt_013", "vote1": "first", "vote2": "second"},
+ {"key": "nosat:12b:pr_017", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:26b:cs_012", "vote1": "first", "vote2": "second"},
+ {"key": "nosat:26b:int_038", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:26b:cs_006", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:26b:tech_046", "vote1": "first", "vote2": "second"},
+ {"key": "nosat:12b:pr_013", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:12b:pr_035", "vote1": "tie", "vote2": "tie"},
+ {"key": "nosat:26b:biz_044", "vote1": "tie", "vote2": "tie"}
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "hr_001",
+    "domain": "hr",
+    "instruction": "As a job posting for a SaaS backend engineer role, improve the specificity of the tech stack, the sense of ownership offered, and the overall appeal to candidates.",
+    "seed": "We are looking for a backend engineer to join our team. The candidate should have some programming experience. You will work with other developers on our product and contribute to the company's growth. This is a rewarding opportunity for the right person. Salary will be determined based on experience and discussed during the interview process. Benefits are available and will be explained later. We work in a normal office environment with standard hours. If you think you might be a good fit, please send us your resume and we will get back to you when we have reviewed the applications received."
+  },
+  {
+    "id": "hr_002",
+    "domain": "hr",
+    "instruction": "As a scout email to a candidate for an advertising agency sales role, improve the sense of personalization, the concreteness of the appeal, and the clarity of the call to action.",
+    "seed": "Hello, I came across your profile and wanted to reach out. Our company is currently hiring for a sales position and I thought you might be interested. We think you could be a good match based on what we saw in your background. If you are open to hearing more, we would love to set up a casual conversation sometime soon. There is no pressure at all, just an opportunity to learn about what we do. Let us know if you are available and we can figure out a time that works for both of us. Looking forward to hearing back from you."
+  },
+  {
+    "id": "hr_003",
+    "domain": "hr",
+    "instruction": "As an interview invitation email for a production role at an auto parts manufacturer, improve the clarity of the day's schedule, the specificity of requirements to bring, and the overall politeness.",
+    "seed": "We are writing to let you know that your interview has been scheduled. The interview will take place next Wednesday afternoon at our facility. Please arrive at the main entrance. If there is anything you need to bring, please bring it with you. The interview will be conducted by a member of our team. We look forward to meeting you and discussing the position further. Please let us know if you have any questions before the day of the interview. Thank you for your continued interest in joining our company."
+  },
+  {
+    "id": "hr_004",
+    "domain": "hr",
+    "instruction": "As an offer letter for a retail sales associate position at an apparel company, improve the warmth of the welcome, the clarity of terms, and the concreteness of what to expect after joining.",
+    "seed": "We are pleased to inform you that you have been selected for the position. Further details will be provided at a later date. We will contact you separately to arrange your start date and other onboarding matters. Please let us know if you have any questions in the meantime. We appreciate your patience throughout the hiring process and look forward to working with you. Thank you again for applying and for your interest in our company. We hope this opportunity works out well for both sides going forward."
+  },
+  {
+    "id": "hr_005",
+    "domain": "hr",
+    "instruction": "As a rejection letter for a barista position at a cafe chain, improve the consideration shown to the applicant, move away from generic boilerplate phrasing, and leave the door open for future contact.",
+    "seed": "Thank you for applying to the position at our company. After careful consideration, we have decided not to move forward with your application at this time. We wish you the best in your future endeavors and hope you find a role that suits you well. Thank you again for your interest in our organization. We received many applications and the decision was a difficult one. We appreciate the time you took to apply and to participate in our hiring process, and we are sorry we could not offer you a position on this occasion."
+  },
+  {
+    "id": "hr_006",
+    "domain": "hr",
+    "instruction": "As a company introduction page for a trucking and logistics company, improve the demonstration of industry strengths, the persuasiveness of concrete numbers, and the appeal to prospective employees.",
+    "seed": "Our company operates in the logistics industry. We have locations across the country and deliver packages to many customers every day. Our employees work hard to prioritize safety in everything they do. We have been in business for a number of years and continue to grow. We value our customers and our staff equally. Thank you for taking the time to learn more about our company. We look forward to continuing to serve our community and to growing our team of dedicated drivers and staff members in the years ahead."
+  },
+  {
+    "id": "hr_007",
+    "domain": "hr",
+    "instruction": "As the introduction to an employee interview feature for a caregiver at an elder care facility, improve the hook that draws reader interest, the specificity, and the sense of realism about the workplace.",
+    "seed": "This time we spoke with one of our care staff members. We asked about their experience since joining the company and what their job involves on a daily basis. We hope you find this interview interesting and informative. Please continue reading to learn more about what it is like to work here. Without further delay, here is the interview. We think this is a good opportunity to hear directly from someone on the front lines of our care operations about what the job really entails."
+  },
+  {
+    "id": "hr_008",
+    "domain": "hr",
+    "instruction": "As a benefits explanation document for a regional bank, improve the differentiation from other companies, the appeal to everyday life concerns, and the comprehensiveness of the information.",
+    "seed": "Our bank offers a solid benefits package. There are various allowances and leave programs available to employees. We strive to make sure our staff can work with peace of mind. Employees are encouraged to take advantage of the programs that are offered. For more details, please contact the human resources department. We believe that a good benefits package is important for employee satisfaction and retention, and we continue to review our offerings on a regular basis to make sure they remain competitive and useful."
+  },
+  {
+    "id": "hr_009",
+    "domain": "hr",
+    "instruction": "As an evaluation system explanation document for a construction company, improve the explanation of fairness, the specificity of evaluation criteria, and the connection to career progression.",
+    "seed": "We conduct performance evaluations once a year at our company. Evaluations are determined through a meeting with your supervisor. The results of the evaluation are reflected in salary and promotion decisions. Employees are expected to participate actively in this process. For more detailed information, please contact the human resources department. We believe this system helps ensure that everyone is treated fairly, although specifics vary somewhat depending on the department and the supervisor conducting the review each cycle."
+  },
+  {
+    "id": "hr_010",
+    "domain": "hr",
+    "instruction": "As an onboarding guide for new hires at a publishing company, improve the reduction of first-day anxiety, the specificity of the schedule, and the sense of welcome conveyed.",
+    "seed": "Congratulations on joining our company. On your first day, training will begin in the morning. Please bring any necessary documents with you. If you have any questions, please ask the staff around you. Training will continue over the following days as needed. We look forward to having you as part of our team. Please make sure to arrive on time and dressed appropriately for the office environment. We hope you settle in quickly and enjoy working with everyone here."
+  },
+  {
+    "id": "hr_011",
+    "domain": "hr",
+    "instruction": "As a job posting for a registered nurse position at a hospital, improve the clarity of working conditions, the appeal of the work environment, and the specificity of career support offered.",
+    "seed": "We are hiring nurses. Both experienced and inexperienced candidates are welcome to apply. Night shifts are included in the schedule. Benefits are available. If you are interested, please feel free to apply. Salary will be determined after an interview. We have a supportive team environment and value all of our nursing staff. Please send your application whenever it is convenient for you and we will review it as soon as possible after receiving it from you."
+  },
+  {
+    "id": "hr_012",
+    "domain": "hr",
+    "instruction": "As a scout email to a candidate for a data scientist role at a pharmaceutical company, improve the respect shown for their expertise, the concreteness of the challenges presented, and the overall appeal.",
+    "seed": "We noticed your skill set and wanted to reach out to you. Our company is currently looking for a data scientist to join our team. This role would allow you to use your data analysis experience in a new setting. If you are interested, please reply to this message and we can discuss further. We think you could bring valuable expertise to our organization. Please let us know if you would like to learn more about the position and the team you would be working with."
+  },
+  {
+    "id": "hr_013",
+    "domain": "hr",
+    "instruction": "As an interview invitation for a front desk position at a hotel, improve the sense of reassurance for the visitor, the specificity of attire and items to bring, and the clarity of expected duration.",
+    "seed": "Thank you for passing the document screening stage. We would like to invite you for an interview. Please let us know your availability from the dates listed below. The interview will take place in a meeting room inside the hotel. We look forward to seeing you on the day of the interview. Please reply at your earliest convenience so that we can confirm a suitable time slot for both parties involved in this process."
+  },
+  {
+    "id": "hr_014",
+    "domain": "hr",
+    "instruction": "As an offer letter for a real estate sales position, improve how expectations are conveyed, the specificity of employment terms, and the clarity of next steps.",
+    "seed": "As a result of the selection process, we have decided to hire you for the position. We will now proceed with the necessary procedures for your employment. If you have any questions, please contact the person in charge. We look forward to working with you going forward. Thank you for your patience throughout the interview process. Please expect further communication regarding paperwork and start date within the coming days from our human resources team."
+  },
+  {
+    "id": "hr_015",
+    "domain": "hr",
+    "instruction": "As a rejection letter for an accounting position at a trading company, improve the maintained politeness, move away from formulaic phrasing, and show respect toward the applicant.",
+    "seed": "We are writing to inform you of the results of the selection process. Unfortunately, we have decided not to offer you a position at this time. We wish you continued success in your career going forward. Thank you once again for your interest in our company and for taking part in this process. We hope our paths may cross again in the future under different circumstances, and we appreciate the effort you put into your application materials."
+  },
+  {
+    "id": "hr_016",
+    "domain": "hr",
+    "instruction": "As a company introduction for an agricultural corporation, improve the description of what makes the business unique, its relationship with the local community, and the specificity of the appeal to prospective workers.",
+    "seed": "Our company is engaged in agriculture. We grow vegetables and fruit and ship them to markets. We continue our business with the support of the local community. Our employees work in the fields every day. We are proud of the work we do and hope to continue growing for many years to come. We believe agriculture plays an important role in the region and are committed to sustainable practices wherever possible in our operations."
+  },
+  {
+    "id": "hr_017",
+    "domain": "hr",
+    "instruction": "As the introduction to an employee interview feature for a hair stylist, improve the reader's sense of empathy and interest, and the hook toward their career story.",
+    "seed": "This time we interviewed a stylist who works at our salon. We asked about the rewarding aspects of the job and what a typical day looks like. If you are considering becoming a hair stylist, we hope this is a helpful reference for you. Now, here is the interview. We believe hearing directly from staff members provides valuable insight for anyone thinking about a career in this field."
+  },
+  {
+    "id": "hr_018",
+    "domain": "hr",
+    "instruction": "As a benefits explanation for an IT startup, improve the appeal of flexibility typical of a growing company, the specificity of the actual programs, and the sense of trustworthiness.",
+    "seed": "Here is information about our benefits. Remote work is available. There is also a subsidy for purchasing books. We are working to create a comfortable working environment. Further details will be explained after you join the company. We believe that a good working environment leads to better outcomes for everyone involved, and we continue to add new benefits as the company grows over time."
+  },
+  {
+    "id": "hr_019",
+    "domain": "hr",
+    "instruction": "As an evaluation system explanation for a store manager role at a retail chain, improve the relationship between quantitative targets and qualitative evaluation, the sense of fairness, and the presentation of growth opportunities.",
+    "seed": "Store manager evaluations are based on sales figures and store operations. Interviews are conducted twice a year. The results of the evaluation are reflected in bonuses. If you have any questions, please check with headquarters. We believe this system provides a reasonable way to measure performance, although the exact weighting between different factors can vary somewhat from store to store depending on circumstances."
+  },
+  {
+    "id": "hr_020",
+    "domain": "hr",
+    "instruction": "As an onboarding guide for new call center hires, improve the reduction of initial anxiety, the specificity of the training schedule, and the clarity of support structure.",
+    "seed": "After joining, you will first receive training. The training period includes both classroom learning and practical exercises. If there is anything you do not understand, please ask a senior staff member. After training, you will be assigned to the floor. We look forward to working with you and hope the training period goes smoothly for everyone joining this cohort of new hires this month."
+  },
+  {
+    "id": "hr_021",
+    "domain": "hr",
+    "instruction": "As a job posting for a nursery school teacher, improve the appeal of the workplace atmosphere, the specificity of compensation, and the ease of applying.",
+    "seed": "We are looking for a nursery school teacher. People who like children are welcome. No experience is necessary. Working hours can be discussed. If you are interested, please contact us. Further details will be explained during the interview. We have a friendly team and a supportive environment for new staff members joining our nursery, and we welcome applications from candidates of all backgrounds and experience levels."
+  },
+  {
+    "id": "hr_022",
+    "domain": "hr",
+    "instruction": "As a scout email to a designer candidate from a web design agency, improve the specificity of reference to their portfolio, the appeal of the projects offered, and the casual tone.",
+    "seed": "We came across your profile and wanted to get in touch. Our company is currently looking for a web designer to join our team. There are a variety of projects that you could be involved in. If you are interested, we would love to have a conversation with you sometime soon. Please let us know if this sounds appealing and we can arrange a time to chat further about the opportunity."
+  },
+  {
+    "id": "hr_023",
+    "domain": "hr",
+    "instruction": "As an interview invitation for a cram school instructor position, improve the reduction of applicant nervousness, the outline of what the interview will cover, and the specificity of access information.",
+    "seed": "We would like to inform you about your interview schedule. Please come at the designated date and time. The location is our main classroom. Please bring writing utensils with you. If you have any questions, please contact us. We look forward to meeting you and discussing the teaching position further during the scheduled session next week at our facility. Please arrive a few minutes early so we can begin on time."
+  },
+  {
+    "id": "hr_024",
+    "domain": "hr",
+    "instruction": "As an offer letter for a production role at a food factory, improve the sense of reassurance, the specificity of guidance toward the start date, and the tone of welcome.",
+    "seed": "As a result of the selection process, we would like to offer you a position. Details regarding your start date will be provided later. If you have any questions, please contact the person in charge in human resources. We look forward to working with you going forward and hope you are excited to join our production team in the coming weeks ahead of your first day."
+  },
+  {
+    "id": "hr_025",
+    "domain": "hr",
+    "instruction": "As a rejection letter for an HR position at a staffing agency, improve the politeness appropriate to the industry, and leave room for a possible future opportunity.",
+    "seed": "We are writing to inform you of the results of the selection process. Unfortunately, we were unable to meet your expectations this time. We sincerely wish you continued success in your future endeavors. Thank you very much for your interest in our company throughout this process, and we hope to have another opportunity to work together at some point down the road."
+  },
+  {
+    "id": "hr_026",
+    "domain": "hr",
+    "instruction": "As a company introduction for a chemical manufacturer, improve the demonstration of technical capability, the sense of social contribution, and the appeal of the working environment.",
+    "seed": "Our company manufactures chemical products. We have business partners both domestically and internationally and provide a variety of products. We maintain a safe manufacturing system. All of our employees continue to work hard toward our shared goals. We take pride in the quality of what we produce and are committed to continuing this work responsibly for years to come. We continue to invest in research and development each year."
+  },
+  {
+    "id": "hr_027",
+    "domain": "hr",
+    "instruction": "As the introduction to an employee interview feature for a game development engineer, improve the realism of the development environment described and the hook that draws reader interest.",
+    "seed": "This time we interviewed an engineer who works in game development. We asked about how they joined the company and what their work involves. If you are interested in the gaming industry, we hope this serves as a useful reference for you. We think readers considering a similar career path will find this conversation particularly relevant and informative. We think many readers considering similar roles will find this useful."
+  },
+  {
+    "id": "hr_028",
+    "domain": "hr",
+    "instruction": "As a benefits explanation for a construction company, improve the consideration shown for physical strain, the specificity of qualification support, and the sense of reassurance conveyed.",
+    "seed": "Here is an overview of our benefits. Social insurance is fully provided. There is also a support system for obtaining qualifications. We aim to create an environment where employees can work comfortably for a long time. For more details, please check with the person in charge. We believe supporting our workers through these programs is essential given the demands of construction work over a long career."
+  },
+  {
+    "id": "hr_029",
+    "domain": "hr",
+    "instruction": "As an evaluation system explanation for engineers at an IT company, improve the transparency of technical skill assessment, the connection to a career ladder, and the sense of fairness.",
+    "seed": "Engineer evaluations are determined by assessment from your manager. Evaluations are conducted twice a year. The results are reflected in salary revisions. Please check the separate materials for detailed criteria. We think this process gives a reasonable picture of performance overall, though some engineers have noted that the criteria could be explained more clearly ahead of each review cycle. We continue to look for ways to make the process clearer for everyone involved."
+  },
+  {
+    "id": "hr_030",
+    "domain": "hr",
+    "instruction": "As an onboarding guide for new graduate hires at a bank, improve the framing of professional mindset, the specificity of training content, and the sense of reassurance.",
+    "seed": "Congratulations on joining our company. After joining, there will be a new employee training program. The training includes business manners and job knowledge. Your assigned department will be announced after training. We look forward to your success and hope this marks the beginning of a long and rewarding career with our organization for each of you starting this year. We hope this program helps you feel confident in your new role."
+  },
+  {
+    "id": "hr_031",
+    "domain": "hr",
+    "instruction": "As a job posting for a truck driver position, improve the transparency of working conditions, the appeal to concerns about physical demands, and the amount of reassuring information provided.",
+    "seed": "We are hiring truck drivers. A large vehicle license is welcome. Long distance routes are included. Salary will be determined based on experience. If you are interested, please contact us. We have a dependable team and look forward to welcoming new drivers who share our commitment to safety and reliability on every route we operate. We value reliability and look forward to having you on our team."
+  },
+  {
+    "id": "hr_032",
+    "domain": "hr",
+    "instruction": "As a scout email to a marketer candidate from a D2C brand, improve the appeal of the brand's uniqueness, the specificity of the role offered, and the sense of enthusiasm conveyed.",
+    "seed": "We came across your background and wanted to reach out. Our company is currently looking for someone to join our marketing team. This is a position where you could contribute to the growth of our brand. We would appreciate it if you would consider this opportunity. Please let us know if you would like to hear more about what the role involves and how you might fit in."
+  },
+  {
+    "id": "hr_033",
+    "domain": "hr",
+    "instruction": "As an interview invitation for a medical representative role at a pharmaceutical company, improve the consideration for professional expertise, the clarity of the interview format, and the specificity of duration and items to bring.",
+    "seed": "As a result of the document screening, we would like to invite you for an interview. Please let us know a few candidate dates for scheduling purposes. Please bring your resume on the day of the interview. We look forward to discussing the role with you further and appreciate your continued interest in this opportunity with our sales organization. We appreciate your patience as we coordinate this schedule with our team."
+  },
+  {
+    "id": "hr_034",
+    "domain": "hr",
+    "instruction": "As an offer letter for a clerical position at a public-affiliated organization, improve the accuracy expected of a public-facing body, the warmth of the welcome, and the clarity of procedures.",
+    "seed": "As a result of the selection process, we are pleased to inform you that you have been offered the position. Procedures related to your employment will be explained in a separate document. If you have any questions, please contact the office. We appreciate your patience during this process and look forward to welcoming you to our organization in the coming weeks ahead of your official start date."
+  },
+  {
+    "id": "hr_035",
+    "domain": "hr",
+    "instruction": "As a rejection letter for a designer position at an advertising agency, improve the respect shown toward creative work, and move away from generic boilerplate consideration.",
+    "seed": "Thank you for applying to our company. As a result of the selection process, we have decided not to move forward at this time. We carefully reviewed the work samples you submitted. We appreciate the time and effort you put into your application and wish you continued success in your creative career going forward. We wish you continued success in your creative career going forward."
+  },
+  {
+    "id": "hr_036",
+    "domain": "hr",
+    "instruction": "As a company introduction for a travel agency, improve the description of what makes the business unique in the industry, its relationship with customers, and the specificity of the appeal to prospective employees.",
+    "seed": "Our company plans and arranges travel. We handle both domestic and international travel packages. We aim to provide services that satisfy our customers. Our employees work hard every day toward this goal. We have built strong relationships with partners around the world and take pride in helping customers create memorable experiences through our services. We look forward to continuing to grow alongside our valued partners."
+  },
+  {
+    "id": "hr_037",
+    "domain": "hr",
+    "instruction": "As the introduction to an employee interview feature for a car dealership sales staff member, improve the appeal of the job's rewarding aspects and the hook that draws reader interest.",
+    "seed": "We interviewed a sales staff member who works at our car dealership. We asked about their job responsibilities and daily work routine. If you are interested in a sales career, please take a look. Now, here is the interview. We think this conversation offers a candid look at what the role actually involves day to day. We think this conversation offers useful insight for prospective candidates."
+  },
+  {
+    "id": "hr_038",
+    "domain": "hr",
+    "instruction": "As a benefits explanation for a hospital operated by a medical corporation, improve consideration for the specific burdens faced by medical staff, the specificity of support programs, and the sense of reassurance.",
+    "seed": "Here is information about our benefits. Paid leave is available. There is also a childcare leave program. We aim to be a workplace that is easy to work in. For more details, please contact the personnel department. We understand that medical work can be demanding and try to design our programs with that reality in mind for all of our staff members."
+  },
+  {
+    "id": "hr_039",
+    "domain": "hr",
+    "instruction": "As an evaluation system explanation for staff at a restaurant chain, improve the clarity for frontline employees, the specificity of evaluation criteria, and the appeal to motivation.",
+    "seed": "Staff evaluations are based on store sales and customer service performance. Evaluations are conducted twice a year. The results are reflected in hourly wage and promotion decisions. For details, please check with your store manager. We believe this gives staff a clear incentive to perform well, though the specific weighting of factors can vary by location depending on local management practices."
+  },
+  {
+    "id": "hr_040",
+    "domain": "hr",
+    "instruction": "As an onboarding guide for factory line workers, improve the emphasis on the importance of safety training, the specificity of the first day's schedule, and the reduction of anxiety.",
+    "seed": "After joining, you will first receive safety training. After that, there will be practical training on the floor. If there is anything you do not understand, please check with your supervisor. Information about what to bring will be provided in advance. We look forward to having you join our production team and hope your first weeks go smoothly. We hope your first weeks with us go smoothly and safely."
+  },
+  {
+    "id": "hr_041",
+    "domain": "hr",
+    "instruction": "As a job posting for a paralegal position at a law firm, improve the appeal of professional specialization, the specificity of career growth, and the clarity of application requirements.",
+    "seed": "We are looking for a paralegal. Candidates with experience working at a law firm are welcome. Duties include document preparation and organizing materials. Salary will be determined based on experience. We look forward to receiving your application. We have a professional team environment and are looking for someone dependable to support our attorneys with a wide range of ongoing case work."
+  },
+  {
+    "id": "hr_042",
+    "domain": "hr",
+    "instruction": "As a scout email to a candidate for a corporate planning role at a manufacturer, improve the appeal of involvement in business strategy, the recognition of their expertise, and the call to action.",
+    "seed": "We reviewed your background and wanted to reach out. Our company is currently looking for someone to join our corporate planning division. This is a position where you could be involved in company-wide decision making. If you are interested, please get in touch with us. We think your experience could bring a valuable perspective to our planning team going forward."
+  },
+  {
+    "id": "hr_043",
+    "domain": "hr",
+    "instruction": "As an interview invitation for a staff position at a nonprofit organization, improve the connection to the organization's mission, the conveyance of the interview atmosphere, and the specificity of arrangements.",
+    "seed": "You have passed the document screening stage and we would like to invite you for an interview. Please choose a date from the candidates provided. The location will be our office. We look forward to meeting you on the day of the interview and discussing how your background might align with our mission and ongoing programs. We look forward to learning more about your background and interests."
+  },
+  {
+    "id": "hr_044",
+    "domain": "hr",
+    "instruction": "As an offer letter for an IT help desk position, improve the reassurance offered to candidates without prior experience, the clarity of post-hire support, and the tone of welcome.",
+    "seed": "As a result of the selection process, we are pleased to inform you that you have been offered the position. Your start date will be communicated separately. Details about our training program will be explained after you join. We look forward to working with you and hope you find the onboarding process to be a smooth and welcoming experience overall."
+  },
+  {
+    "id": "hr_045",
+    "domain": "hr",
+    "instruction": "As a rejection letter for a new graduate general-track hiring process, improve the consideration shown to job-seeking students, move away from uniform boilerplate phrasing, and offer encouragement for their future search.",
+    "seed": "Thank you for participating in our selection process. As a result of careful deliberation, we have decided not to offer you a position at this time. We wish you great success in your continued job search. Thank you again for your interest in our company, and we hope you find an opportunity that is the right fit for you soon."
+  },
+  {
+    "id": "hr_046",
+    "domain": "hr",
+    "instruction": "As a company introduction for an electric power and energy company, improve the sense of mission as social infrastructure, the demonstration of technical capability, and the appeal of stability.",
+    "seed": "Our company supplies electric power. We support infrastructure for the local region. We strive to provide a stable supply of electricity. Our employees work together toward this shared goal. We have been serving this community for many years and remain committed to reliability as we continue to invest in our infrastructure and workforce going forward. We remain committed to serving our community reliably for years to come."
+  },
+  {
+    "id": "hr_047",
+    "domain": "hr",
+    "instruction": "As the introduction to an employee interview feature for a registered dietitian at a catering company, improve the appeal of the rewarding aspects of the specialized role and the hook that draws reader interest.",
+    "seed": "This time we interviewed an employee who works as a registered dietitian. We asked about menu planning and nutritional guidance. If you are aiming to become a dietitian, we hope you find this useful. Now, here is the interview. We think this conversation offers a helpful look into a career path that many readers may not know much about. We hope readers find this conversation both informative and encouraging."
+  },
+  {
+    "id": "hr_048",
+    "domain": "hr",
+    "instruction": "As a benefits explanation for an apparel retail company, improve the appeal of industry-specific perks such as employee discounts, the specificity, and the overall attractiveness.",
+    "seed": "Here is information about our benefits. There is an employee discount program. Paid leave is also available. We aim to create a comfortable working environment. For more details, please check with your store manager. We believe these programs make working here more rewarding, and we continue to look for ways to expand what we offer to staff over time. We continue to look for ways to expand what we offer to staff."
+  },
+  {
+    "id": "hr_049",
+    "domain": "hr",
+    "instruction": "As an evaluation system explanation for warehouse manager roles in logistics, improve the clarity of productivity metrics, the inclusion of team management criteria, and the sense of fairness.",
+    "seed": "Warehouse manager evaluations are based on operational efficiency and management conditions. Evaluations are conducted once a year. The results are reflected in salary increases. For details, please check with your supervisor. We think this approach gives a general sense of performance, though team members have sometimes asked for clearer explanations of how specific metrics are weighted each cycle. We hope to make these criteria even clearer in future review cycles."
+  },
+  {
+    "id": "hr_050",
+    "domain": "hr",
+    "instruction": "As an onboarding guide covering all roles at a small startup, improve the warmth characteristic of a small organization, the specificity of the first week's schedule, and the conveyance of company culture.",
+    "seed": "Congratulations on joining our company. On your first day, please come to the office. Necessary equipment will be provided on the spot. If you have any questions, please ask the people around you. We look forward to working with you and hope you settle in quickly as part of our small and growing team over the coming weeks. We hope you enjoy getting to know the team over the coming weeks."
+  }
+]

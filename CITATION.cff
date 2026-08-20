@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data or code, cite the paper."
+title: "Reflective Budget Governor: data and analysis package"
+authors:
+  - family-names: Toeda
+    given-names: Taiko
+    affiliation: MOBIUS LLC
+    orcid: https://orcid.org/0009-0001-7267-0201
+license: AGPL-3.0-or-later
+date-released: 2026-08-20

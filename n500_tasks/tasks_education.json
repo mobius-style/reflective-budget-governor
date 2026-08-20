@@ -1,0 +1,302 @@
+[
+  {
+    "id": "edu_001",
+    "domain": "education",
+    "instruction": "As a beginner-friendly explanation of photosynthesis, improve the background context, the concrete examples, and the use of analogy.",
+    "seed": "Photosynthesis is the process by which plants use light energy to make food. It happens in the chloroplasts, and carbon dioxide and water are converted into oxygen and starch. This process is important for ecosystems, and many organisms depend on it to survive. It is fundamental to how plants exist and grow, forming the basis of most food chains on Earth."
+  },
+  {
+    "id": "edu_002",
+    "domain": "education",
+    "instruction": "As a glossary entry on cloud computing for IT beginners, improve the plain-language rephrasing of jargon, the everyday analogy, and the inclusion of concrete service names.",
+    "seed": "Cloud computing means using computer resources over the internet instead of on your own machine. In the past, companies needed their own servers, but with cloud computing that is no longer necessary. It offers benefits in cost and flexibility, which is why many businesses are adopting it. It is expected to become even more widespread in the coming years as technology develops further."
+  },
+  {
+    "id": "edu_003",
+    "domain": "education",
+    "instruction": "As a concept explanation of compound interest for beginner investors, improve the numeric example, the contrast with simple interest, and the verbal description of the growth curve.",
+    "seed": "Compound interest is when interest is earned not only on the principal but also on previously earned interest. Over the long term, this creates a much bigger difference compared to simple interest. Understanding compound interest is essential when thinking about investing or saving money. Time is said to be an ally when it comes to growing wealth efficiently, so starting early is generally considered advantageous."
+  },
+  {
+    "id": "edu_004",
+    "domain": "education",
+    "instruction": "As a general-audience health explanation of blood pressure, improve the explicit numeric benchmarks, the connection to lifestyle habits, and the concrete action examples.",
+    "seed": "Blood pressure refers to the force exerted by blood against the walls of blood vessels as it flows through them. Sustained high blood pressure is known to increase the risk of various diseases. It is understood that daily lifestyle habits influence blood pressure, so caution is needed. Regular measurement is recommended, and it is important not to ignore the issue but to take proper countermeasures."
+  },
+  {
+    "id": "edu_005",
+    "domain": "education",
+    "instruction": "As a resident-facing explanation of household waste sorting rules, improve the concrete item examples, the mention of variation between municipalities, and the visual/structural clarity.",
+    "seed": "Garbage must be sorted correctly before being put out for collection. It generally needs to be divided into burnable, non-burnable, and recyclable categories. If sorted incorrectly, it may not be collected at all, so care is needed. Following the rules set by your local area helps protect the environment. This is something residents should keep in mind on a daily basis."
+  },
+  {
+    "id": "edu_006",
+    "domain": "education",
+    "instruction": "As a concept explanation of variables for beginner programmers, improve the everyday analogy, the inclusion of a short code example, and the mention of data types.",
+    "seed": "A variable is like a box that temporarily stores data in a program. You give it a name, put a value inside it, and later you can look at or change that value. This is one of the most basic and important concepts in programming, appearing in every language. Understanding variables well is considered the foundation for everything else you will learn afterward."
+  },
+  {
+    "id": "edu_007",
+    "domain": "education",
+    "instruction": "As an economics explainer on inflation and deflation for beginners, improve the concrete examples of price changes, the impact on daily life, and the causal explanation.",
+    "seed": "Inflation is a phenomenon in which prices continuously rise, while deflation is the opposite, where prices continue to fall. Each has different effects on the economy. These terms are frequently mentioned in the news, and understanding them is essential for grasping economic trends. It is important to have a solid grasp of these basic concepts as they affect everyday financial decisions."
+  },
+  {
+    "id": "edu_008",
+    "domain": "education",
+    "instruction": "As a general-audience explanation of sleep quality, improve the concrete improvement methods, the numeric benchmarks, and the contrast with common but ineffective habits.",
+    "seed": "Sleep quality is an important factor for health. It is not simply about sleeping for a long time; what matters is whether you are getting deep, restful sleep. Poor sleep quality over time can negatively affect performance during the day. Reviewing and adjusting your lifestyle habits is considered the first step toward improvement, though many people overlook this simple fact."
+  },
+  {
+    "id": "edu_009",
+    "domain": "education",
+    "instruction": "As an introduction to a beginner tutorial on setting up a Wi-Fi router, improve the clarification of the target audience, the list of required preparations, and the preview of common pitfalls.",
+    "seed": "This section explains how to set up a Wi-Fi router. First, turn on the power and connect the included cable. Then access the initial setup screen using the dedicated app or a web browser and enter the necessary information. Once setup is complete, you will be able to connect to the internet. Let's go through the steps one by one."
+  },
+  {
+    "id": "edu_010",
+    "domain": "education",
+    "instruction": "As a plain-language explanation of the mechanism of earthquakes for middle schoolers, improve the simplification of technical terms, the everyday analogy, and the verbal description of the diagram.",
+    "seed": "Earthquakes occur when tectonic plates, the large slabs of rock that make up the Earth's surface, move. When plates collide or slide against each other, stress builds up, and when it reaches a limit it is suddenly released, causing shaking. Japan sits where several plates meet, which is why earthquakes are frequent there. It is important to stay aware of disaster preparedness."
+  },
+  {
+    "id": "edu_011",
+    "domain": "education",
+    "instruction": "As a course description for a beginner-investor NISA class, improve the clarity of the target audience, the concrete outcomes participants will gain, and the outline of the curriculum.",
+    "seed": "This course covers the NISA system. It is a mechanism that allows tax-free investing, and it is suitable for people interested in building assets. The course is expected to cover everything from the basics of the system to the process of opening an account. Those who are interested are encouraged to consider taking this course, which is designed to be easy for beginners to follow."
+  },
+  {
+    "id": "edu_012",
+    "domain": "education",
+    "instruction": "As a correction of common misconceptions about diabetes for patients, improve the explicit statement of the misconception, the evidence behind the correct information, and the practical action suggestions.",
+    "seed": "Diabetes does not necessarily occur just from eating too much sugar. Multiple factors, including genetics and lifestyle habits, are said to be involved. If people continue living with a mistaken understanding, they may end up taking the wrong precautions. Having accurate knowledge is important for prevention and treatment, and consulting a specialist is also considered valuable."
+  },
+  {
+    "id": "edu_013",
+    "domain": "education",
+    "instruction": "As a general-audience correction of common misconceptions about recycling, improve the concrete examples of common mistakes, the correct handling procedures, and the explanation of why the misconception spreads.",
+    "seed": "Many people assume that anything recyclable can simply be put in the recycling bin, but items with residue or contamination are sometimes rejected as recyclables. Without an accurate understanding of sorting rules, people can unintentionally hinder the recycling process. It is important to have correct knowledge and act accordingly when disposing of household waste."
+  },
+  {
+    "id": "edu_014",
+    "domain": "education",
+    "instruction": "As a glossary entry on AI for non-engineers, improve the plain-language rephrasing of technical terms, the inclusion of familiar usage examples, and the correction of overly anthropomorphic language.",
+    "seed": "AI stands for artificial intelligence, referring to computer systems that think and make decisions like humans. It has been developing rapidly in recent years and is being used in many fields. It is expected that AI will be used in even more situations going forward. AI utilization has also become an important theme in business."
+  },
+  {
+    "id": "edu_015",
+    "domain": "education",
+    "instruction": "As a plain-language explanation of quantum computers for general readers, improve the contrast with classical computers, the rephrasing of technical terms, and the concrete list of application areas.",
+    "seed": "A quantum computer is a type of computer that performs calculations using properties of quantum mechanics. It is said to be capable of processing certain calculations much faster than a huge amount of time it would take with conventional computers. Research and development are still ongoing, and practical applications are expected in the future. This field continues to attract significant attention."
+  },
+  {
+    "id": "edu_016",
+    "domain": "education",
+    "instruction": "As a parent-facing explanation of smartphone rules for children, improve the concrete examples of common household issues, the age-appropriate guidelines, and the tips for productive conversation.",
+    "seed": "When it comes to children's smartphone use, it is desirable to set household rules in advance. Discussing usage time and which apps are allowed ahead of time can help prevent problems. In recent years, issues involving smartphones have been increasing, and parental oversight is required. It is necessary to engage with this topic seriously and consistently."
+  },
+  {
+    "id": "edu_017",
+    "domain": "education",
+    "instruction": "As an introduction to a harassment prevention training document for new employees, improve the clarity of the training objective, the inclusion of relatable examples, and the statement of expectations for participants.",
+    "seed": "This training covers harassment. There are various types of harassment, and it is known to have a significant impact on the workplace environment. To avoid becoming either a perpetrator or a victim, it is important to gain correct knowledge. Everyone is expected to deepen their understanding through this training session."
+  },
+  {
+    "id": "edu_018",
+    "domain": "education",
+    "instruction": "As a learning roadmap for self-taught Python beginners, improve the clarity of goals at each stage, the estimated timeframes, and the mention of common stumbling points.",
+    "seed": "When learning Python on your own, it is good to start with basic syntax and then move on to writing simple programs. Once you become comfortable, you can learn how to use libraries and work on actual projects to deepen your understanding further. Continuous study is the key to improvement. It is important to proceed steadily without rushing."
+  },
+  {
+    "id": "edu_019",
+    "domain": "education",
+    "instruction": "As an introduction to a tutorial on Excel functions for office workers, improve the clarity of the target audience and prerequisite skills, the concrete usage scenarios, and the preview of the chapter structure.",
+    "seed": "This chapter explains Excel functions. Using functions can make calculation tasks more efficient. Representative functions such as SUM and IF will mainly be covered. Being able to use functions effectively will broaden the scope of work you can handle. We will go through the basics step by step."
+  },
+  {
+    "id": "edu_020",
+    "domain": "education",
+    "instruction": "As a course description for a bookkeeping level-3 certification class aimed at working adults, improve the clarity of the target audience, the skills gained after completion, and the estimated course duration.",
+    "seed": "This course aims to help students pass the level-3 bookkeeping certification exam. It mainly covers the basic concepts of journal entries and closing accounts. This knowledge is useful as a foundation for accounting work, and it is one of the most commonly taken certifications among working adults. Those interested are encouraged to consider joining, with careful instruction from the basics."
+  },
+  {
+    "id": "edu_021",
+    "domain": "education",
+    "instruction": "As a glossary entry on blockchain for beginner investors, improve the everyday analogy, the simplified explanation of the mechanism, and the mention of related common misconceptions.",
+    "seed": "Blockchain is a technology that manages transaction records in a distributed manner. It is characterized by being difficult to tamper with, and it is expected to be applied in various fields including cryptocurrency. This technology has been attracting increasing attention in recent years, and further development is anticipated. Understanding its basic mechanism is considered useful."
+  },
+  {
+    "id": "edu_022",
+    "domain": "education",
+    "instruction": "As a correction of common misconceptions about dieting and strength training for health-conscious readers, improve the explicit statement of the misconception, the scientific evidence, and the practical advice.",
+    "seed": "Many people think strength training only makes you bulkier and does not help with weight loss, but in fact increasing muscle mass raises your basal metabolic rate, making the body more likely to burn fat. Some people avoid exercise entirely because of this mistaken image. It is desirable to have correct knowledge when taking on exercise, and consistency is also important."
+  },
+  {
+    "id": "edu_023",
+    "domain": "education",
+    "instruction": "As a concept explanation of the basics of relativity for non-science general readers, improve the plain-language rephrasing of technical terms, the everyday analogy, and the explicit distinction between special and general relativity.",
+    "seed": "The theory of relativity, proposed by Einstein, is said to have greatly changed our understanding of time and space. Starting from the premise that the speed of light is constant for every observer, various strange phenomena can be derived. It is an extremely important theory in physics and has also been applied to modern technology. It is a difficult field to understand, but it is fascinating."
+  },
+  {
+    "id": "edu_024",
+    "domain": "education",
+    "instruction": "As an operation guide for smartphone initial setup for elderly users, improve the plain-language rephrasing of technical terms, the concrete description of screen transitions, and the consideration for likely stumbling points.",
+    "seed": "When using a smartphone for the first time, you need to turn on the power and follow the on-screen instructions to complete the initial setup. This involves several steps such as connecting to Wi-Fi and registering an account. Once setup is complete, you can start using the device right away. If you run into anything unclear, it is a good idea to ask someone nearby for help."
+  },
+  {
+    "id": "edu_025",
+    "domain": "education",
+    "instruction": "As a parent-facing explanation of children's gaming addiction, improve the concrete examples of warning signs, the practical home-based responses, and the guidance on when to consult a professional.",
+    "seed": "In recent years, gaming addiction among children has become a concern. Excessive playtime can interfere with daily life, and parental attention is necessary. It is said to be important to maintain an appropriate distance while staying engaged with the child. Establishing household rules is considered one effective approach to addressing this issue."
+  },
+  {
+    "id": "edu_026",
+    "domain": "education",
+    "instruction": "As an introduction to an information security training document for new employees, improve the clarity of the training objective, the inclusion of concrete past incident examples, and the statement of expected behavior for participants.",
+    "seed": "This training covers the basics of information security. It mainly deals with topics relevant to daily work, such as password management and how to handle email. Information leaks pose a major risk to companies, so awareness among every employee is essential. Participants are expected to deepen their understanding through this training."
+  },
+  {
+    "id": "edu_027",
+    "domain": "education",
+    "instruction": "As a learning roadmap for English study for working adults, improve the level-specific goal setting, the concrete examples of learning materials, and the countermeasures for common points of discouragement.",
+    "seed": "When learning English, it is important to first focus on basic vocabulary and grammar. After that, incorporating listening and speaking practice helps develop well-rounded ability. Consistency matters more than anything, and daily accumulation leads to improvement. It is recommended that learners find a method that suits them and continue with their studies."
+  },
+  {
+    "id": "edu_028",
+    "domain": "education",
+    "instruction": "As a course description for a coding bootcamp aimed at career changers, improve the clarity of the target audience, the concrete post-graduation career image, and the description of learning support offered.",
+    "seed": "This school allows students to learn everything from programming basics to practical skills. The curriculum is designed so that even beginners can learn with confidence. It is suitable for those aiming to transition into the IT industry. Those interested are encouraged to first consider attending an information session, as a thorough support system is in place."
+  },
+  {
+    "id": "edu_029",
+    "domain": "education",
+    "instruction": "As a glossary entry on subscription services for budget-conscious readers, improve the addition of concrete service examples, the balanced presentation of pros and cons, and the explanation of the impact on household finances.",
+    "seed": "A subscription is a system in which you pay a fee at regular intervals in exchange for access to a service. It is widespread in fields such as video and music streaming. It differs from the traditional one-time purchase model and is a business model adopted by many companies. It is considered a convenient system for users."
+  },
+  {
+    "id": "edu_030",
+    "domain": "education",
+    "instruction": "As a correction of common misconceptions about microwaving and nutrients for general readers, improve the explicit statement of the misconception, the scientific evidence, and practical cooking advice.",
+    "seed": "Many people believe that microwaving destroys all nutrients, but in reality the effect depends on the heating method used. In some cases, microwaving preserves more nutrients than boiling. Incorrect information is often spread widely on this topic, so it is important to have accurate knowledge when preparing meals."
+  },
+  {
+    "id": "edu_031",
+    "domain": "education",
+    "instruction": "As a concept explanation of how the immune system works for middle and high school students, improve the everyday analogy, the simplified explanation of technical terms, and the concrete examples of pathogens.",
+    "seed": "The immune system is the body's mechanism for protecting itself from pathogens that invade it. Cells such as white blood cells are said to play a central role. Thanks to the immune system, we are protected from illness on a daily basis. Maintaining immune function is said to require a regular and healthy lifestyle."
+  },
+  {
+    "id": "edu_032",
+    "domain": "education",
+    "instruction": "As an operation guide for e-Tax electronic tax filing for sole proprietors, improve the clarity of prerequisite knowledge for the target reader, the concrete screen-by-screen operation steps, and the handling of common errors.",
+    "seed": "Using e-Tax allows you to file your tax return online. You may need to prepare items such as a My Number card and an IC card reader in advance. You access the designated website and enter the required information by following the on-screen instructions to complete the filing process. Once you get used to it, you can handle the procedure efficiently."
+  },
+  {
+    "id": "edu_033",
+    "domain": "education",
+    "instruction": "As a parent-facing explanation of food allergy handling at a nursery or school, improve the clarity of the concrete response flow, the description of the emergency contact system, and the coordination points with families.",
+    "seed": "For children with food allergies, the facility shares relevant information internally to prevent accidental exposure. Communication with parents is also important, and regular confirmation is carried out. It is necessary to establish a system that allows calm and appropriate responses in case of an emergency. Ongoing coordination on a daily basis is essential."
+  },
+  {
+    "id": "edu_034",
+    "domain": "education",
+    "instruction": "As an introduction to a disaster-preparedness training document for local residents, improve the clarity of the training objective, the description of concrete disaster scenarios, and the presentation of action guidelines for participants.",
+    "seed": "This document explains the content of the disaster preparedness drill. Since disasters can occur at any time, daily preparation is important. It is advisable to confirm evacuation routes and shelters and to prepare emergency supplies in advance. It is necessary for the entire community to work together to strengthen preparedness."
+  },
+  {
+    "id": "edu_035",
+    "domain": "education",
+    "instruction": "As a learning roadmap for working adults pursuing a financial planner certification, improve the clarity of goals at each learning stage, the concrete examples of study materials, and the estimated study duration.",
+    "seed": "When aiming for the financial planner certification, it is good to start by learning basic financial knowledge. The exam covers a wide range of topics including taxes, insurance, and pensions. Repeatedly solving past exam questions can help build up practical ability. Planning your studies carefully is considered the shortest path to passing."
+  },
+  {
+    "id": "edu_036",
+    "domain": "education",
+    "instruction": "As a course description for a beginner yoga class, improve the clarity of the target audience, the concrete benefits participants can expect, and the practical information about what to bring and wear.",
+    "seed": "In this class, students can learn basic yoga poses and breathing techniques. It welcomes a wide range of participants, from beginners to experienced practitioners. Benefits such as relaxation and improved flexibility are expected. Those interested are encouraged to try a trial lesson, as the instruction is designed to be attentive and supportive."
+  },
+  {
+    "id": "edu_037",
+    "domain": "education",
+    "instruction": "As a glossary entry on the furusato nozei hometown tax donation program for taxpayers, improve the concrete step-by-step explanation of the mechanism, the explanation of the deduction limit concept, and the mention of common misconceptions.",
+    "seed": "Furusato nozei is a system in which you make a donation to a local government and receive a gift in return. In many cases the actual out-of-pocket cost ends up being small. The number of users has been increasing in recent years, and many people are interested in it. There are also several points to be careful of when going through the procedure."
+  },
+  {
+    "id": "edu_038",
+    "domain": "education",
+    "instruction": "As a correction of common misconceptions about cholesterol for readers preparing for a health checkup, improve the explicit statement of the misconception, the explanation of the difference between good and bad cholesterol, and the connection to lifestyle habits.",
+    "seed": "Cholesterol is often thought of as simply bad for you, but it actually plays necessary roles in the body. Not all cholesterol is harmful, since different types are said to function differently. Some people end up restricting their diet unnecessarily because of this mistaken image. It is important to gain accurate knowledge on this topic."
+  },
+  {
+    "id": "edu_039",
+    "domain": "education",
+    "instruction": "As a concept explanation of DNA and heredity for middle schoolers, improve the everyday analogy, the simplified explanation of technical terms, and the mention of the relationship between heredity and environment.",
+    "seed": "DNA is the substance that records the genetic information of living organisms. It is passed down from parent to child, carrying physical traits along with it. It exists inside cells and is sometimes called the blueprint of life. It is essential basic knowledge for understanding how living organisms work."
+  },
+  {
+    "id": "edu_040",
+    "domain": "education",
+    "instruction": "As an operation guide for creating a LINE group chat for smartphone beginners, improve the concrete screen-by-screen operation steps, the description equivalent to screenshots, and the explicit mention of caution points.",
+    "seed": "To create a group on LINE, select the option to create a new group from the chat screen. Choose the friends you want to include and set a group name to complete the process. After creation, you can freely add or remove members. This feature is convenient for communicating with family and friends."
+  },
+  {
+    "id": "edu_041",
+    "domain": "education",
+    "instruction": "As a parent-facing explanation of countermeasures for children's declining eyesight, improve the concrete lifestyle habit examples, the age-specific precautions, and the home-based checking methods.",
+    "seed": "In recent years, declining eyesight among children has become a concern. Prolonged use of smartphones and tablets is thought to be a contributing factor. Taking regular breaks and spending more time outdoors are considered effective countermeasures. It is desirable for families to be mindful of this issue and take action at home."
+  },
+  {
+    "id": "edu_042",
+    "domain": "education",
+    "instruction": "As an introduction to a compliance training document for all employees, improve the clarity of the training objective, the inclusion of concrete past violation examples, and the statement of expected behavior after the training.",
+    "seed": "This training covers compliance. Adhering to laws and internal regulations is extremely important in business activities. A violation can seriously damage a company's trust and reputation. Every employee is expected to gain a correct understanding and apply it in their daily work."
+  },
+  {
+    "id": "edu_043",
+    "domain": "education",
+    "instruction": "As a learning roadmap for an introductory statistics course aimed at working adults from non-technical backgrounds, improve the clarity of goals at each learning stage, the concrete examples of tools used, and the mention of commonly difficult topics.",
+    "seed": "When learning statistics, it is good to start by understanding basic concepts such as mean and variance. After that, you can move on to more advanced topics such as probability distributions and hypothesis testing. Learning becomes easier when working with actual data. Continuous study is important for making steady progress."
+  },
+  {
+    "id": "edu_044",
+    "domain": "education",
+    "instruction": "As a course description for a beginner cooking class, improve the clarity of the target audience, the concrete menu examples covered, and the information about required tools and equipment.",
+    "seed": "This class teaches basic cooking techniques. It is designed so that even beginners can participate with confidence. The content ranges from how to use a knife to simple cooking methods. Those interested are encouraged to consider joining, as the class aims to make learning enjoyable for everyone."
+  },
+  {
+    "id": "edu_045",
+    "domain": "education",
+    "instruction": "As a glossary entry on cryptocurrency for beginner investors, improve the concrete explanation of the underlying mechanism, the explicit distinction from stocks, and the mention of risk.",
+    "seed": "Cryptocurrency is a form of digital currency exchanged over the internet. It is characterized by not being issued or managed by a national government. In recent years it has also attracted attention as an investment asset, drawing significant interest from the public. It is also known for its large price fluctuations."
+  },
+  {
+    "id": "edu_046",
+    "domain": "education",
+    "instruction": "As a correction of common misconceptions about carbohydrate restriction for readers interested in dieting, improve the explicit statement of the misconception, the scientific evidence, and the practical precautions.",
+    "seed": "Many people believe that cutting carbohydrates completely leads to healthy weight loss, but in fact excessive restriction can place a burden on the body. Some people end up following extreme dietary restrictions because of this mistaken image. It is desirable to have correct knowledge and approach the diet in a balanced way."
+  },
+  {
+    "id": "edu_047",
+    "domain": "education",
+    "instruction": "As a plain-language explanation of the mechanism of climate change for general readers, improve the plain-language rephrasing of technical terms, the concrete causal explanation, and the examples of familiar impacts.",
+    "seed": "Climate change refers to the long-term change in the Earth's overall climate. An increase in greenhouse gases is considered one of the main causes. Rising temperatures have led to various reported effects around the world. Addressing this issue has become an important international challenge going forward."
+  },
+  {
+    "id": "edu_048",
+    "domain": "education",
+    "instruction": "As an operation guide for a password manager app for security beginners, improve the explanation of why it is necessary, the concrete setup steps, and the important security considerations to keep in mind.",
+    "seed": "A password manager app lets you manage multiple passwords in one place. You can start using it by installing the app and setting a master password. Once you register login information for each service, you can easily retrieve it whenever needed. It is a convenient feature for everyday use."
+  },
+  {
+    "id": "edu_049",
+    "domain": "education",
+    "instruction": "As a parent-facing explanation of dealing with a child's rebellious phase, improve the concrete behavior examples, the practical home-based approaches, and the guidance on when to consult a professional.",
+    "seed": "The rebellious phase is said to be a natural part of a child's growth process. During this time, resistance toward parents often intensifies, and many parents struggle with how to respond. It is said to be important to maintain an appropriate distance while continuing to watch over the child. A patient attitude that supports the child's growth is called for."
+  },
+  {
+    "id": "edu_050",
+    "domain": "education",
+    "instruction": "As an introduction to a customer harassment response training document for new service-industry employees, improve the clarity of the training objective, the inclusion of concrete examples, and the explanation of the support system in place for employees.",
+    "seed": "This training covers how to respond to customer harassment. In recent years, excessive demands and abusive language from customers have become a growing concern. It is important for employees to understand the organization's response policy so they do not have to handle these situations alone. Participants are expected to learn how to respond appropriately."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "acad_001",
+    "domain": "academic",
+    "instruction": "As a research abstract, improve the specificity of claims and the logical justification for the method.",
+    "seed": "This paper proposes a grasping control algorithm for robotic arms. Since conventional methods are said to have low grasp success rates, introducing deep learning should naturally improve performance. In our experiments, several objects were used for grasping trials, and the results were generally favorable, suggesting the approach works well. Further validation is planned. We believe this direction is promising for future manipulation tasks, and additional experiments will be conducted once resources allow, building on the encouraging preliminary observations gathered so far."
+  },
+  {
+    "id": "acad_002",
+    "domain": "academic",
+    "instruction": "As a research abstract, improve the causal-leap between risk reduction and efficacy, and add quantitative results.",
+    "seed": "A clinical trial of the novel antihypertensive drug A was conducted. Since patients with high blood pressure are known to have elevated cardiovascular risk, this drug is expected to substantially lower that risk. The treatment group showed a tendency toward reduced blood pressure, so the drug can be concluded to be effective. Larger trials may be conducted later to confirm these encouraging preliminary findings, which the investigators consider sufficient grounds for recommending continued clinical development of the compound."
+  },
+  {
+    "id": "acad_003",
+    "domain": "academic",
+    "instruction": "As a research abstract, correct the conflation of subjective impression with objective productivity effects and clarify the sample.",
+    "seed": "The spread of remote work has changed how people work. In this survey, employees at a company were asked about their perceptions of productivity. Since most respondents held a favorable impression, it can be said that remote work contributes to higher productivity. This finding suggests companies should adopt remote work broadly, and the survey results are considered representative of general trends across the wider labor market, warranting confident policy recommendations for organizations considering similar transitions in their workforce arrangements."
+  },
+  {
+    "id": "acad_004",
+    "domain": "academic",
+    "instruction": "As a research abstract, make the analytical findings more concrete and clarify the scholarly contribution.",
+    "seed": "Kaii (strange tales) literature of the Edo period is thought to reflect the social anxieties of its time. This paper examines several works and considers the characteristics of their depictions of the uncanny. The analysis found that the uncanny is portrayed in various ways. This finding contributes to the study of Edo literature. Readers interested in cultural history may find some of the discussed passages illuminating, though the precise nature of that contribution is left for future elaboration in later work."
+  },
+  {
+    "id": "acad_005",
+    "domain": "academic",
+    "instruction": "As a research abstract, provide quantitative backing for the comparison and clarify the novelty.",
+    "seed": "Quantum computers are highly susceptible to noise, making error correction essential. This study proposes a new coding scheme and evaluates its performance via simulation. The results suggest that it outperforms conventional schemes. Future work aims to validate the approach on real hardware. The improvement appears consistent across the tested scenarios, and the authors are optimistic that the scheme will prove broadly superior once further testing is completed on larger and more diverse quantum architectures in subsequent studies."
+  },
+  {
+    "id": "acad_006",
+    "domain": "academic",
+    "instruction": "As the background section of a research plan, strengthen the logical connections and cite supporting prior findings.",
+    "seed": "Dementia is a serious problem in an aging society. If early diagnosis becomes possible, patients' quality of life should naturally improve, and therefore discovering new biomarkers is essential. This study will thus explore candidate biomarkers. Once suitable candidates are identified, it is expected that clinical practice will be transformed accordingly, benefiting countless patients and families who currently face uncertainty. The research team is confident that this line of inquiry will yield clinically meaningful results within a reasonable timeframe."
+  },
+  {
+    "id": "acad_007",
+    "domain": "academic",
+    "instruction": "As the background section of a research plan, provide concrete evidence from prior research and reinforce the logical flow.",
+    "seed": "Elderly isolation has recently drawn increasing attention as a social issue. It is said that isolated elderly people tend to have poor health. Therefore, strengthening ties with local communities is necessary, and this study plans to verify the effect of such interventions. It seems reasonable to expect that any community-based program will produce measurable benefits, given how widely the problem has been discussed in the media, and the study will proceed on this general assumption without further preliminary investigation."
+  },
+  {
+    "id": "acad_008",
+    "domain": "academic",
+    "instruction": "As the background section of a research plan, sharpen the research focus and specify the open questions.",
+    "seed": "The reception of Western painting in Meiji-era Japan was an important cultural event. Painters of the time are said to have been influenced in various ways. This study aims to clarify this process of reception, although exactly which aspects will be examined remains a matter for future consideration. The broader significance of this inquiry is assumed to be self-evident given the period's importance, so a detailed justification of the specific research questions has not yet been developed in this proposal."
+  },
+  {
+    "id": "acad_009",
+    "domain": "academic",
+    "instruction": "As the background section of a research plan, avoid relying on analogy from other fields and provide field-specific justification.",
+    "seed": "Aging infrastructure, particularly bridges, is a major societal challenge. AI is believed to be capable of predicting deterioration, and many other fields have reported successful applications. Therefore, building an AI model for this domain should likewise yield effective predictions. Given the consistent success of AI across such a wide range of unrelated applications, there is little reason to expect this project to encounter significant obstacles, and the model architecture will largely mirror those used in prior unrelated studies."
+  },
+  {
+    "id": "acad_010",
+    "domain": "academic",
+    "instruction": "As the background section of a research plan, provide statistical evidence and refine the vague claims.",
+    "seed": "In recent years, childhood obesity is said to be increasing. Poor lifestyle habits are considered the cause, and this could potentially lead to lifestyle-related diseases later in life. This study will investigate children's lifestyle habits and clarify their relationship to obesity. The exact scale of the increase and the specific habits most responsible have not been established in prior literature, but the general trend is assumed to be well known and requires no further citation before proceeding with data collection."
+  },
+  {
+    "id": "acad_011",
+    "domain": "academic",
+    "instruction": "As a peer review response letter, present empirical data and soften the overconfident conclusion.",
+    "seed": "Regarding the reviewer's comment on thermal runaway conditions, the authors have not conducted additional experiments. However, theoretically, the proposed method should reduce the probability of occurrence, so we judge that there is no fundamental problem. We hope the reviewer understands our position. We believe the theoretical argument alone is sufficient to address this concern, and we respectfully request that no further experimental validation be required before the manuscript proceeds to the next stage of the review process."
+  },
+  {
+    "id": "acad_012",
+    "domain": "academic",
+    "instruction": "As a peer review response letter, acknowledge limitations candidly and specify concrete future countermeasures.",
+    "seed": "Thank you for pointing out the high complication rate. Although the case number is small, we believe the complication rate will naturally decrease as surgeons gain more experience, so we do not consider this a major concern at present. We are confident that continued use of the device will resolve the issue over time, and therefore we do not think it necessary to revise our conclusions regarding the safety profile described in the original submission."
+  },
+  {
+    "id": "acad_013",
+    "domain": "academic",
+    "instruction": "As a peer review response letter, provide quantitative grounds for representativeness and note the limitations explicitly.",
+    "seed": "Thank you for your concern regarding sample representativeness. Because the respondents included a diverse range of attributes, we believe a certain degree of representativeness has been secured. Therefore, we do not think there is a significant problem with the generalizability of the results. We consider the diversity of respondents to be self-evidently sufficient for the purposes of this study and see no need to report detailed demographic comparisons against the target population in the revised manuscript."
+  },
+  {
+    "id": "acad_014",
+    "domain": "academic",
+    "instruction": "As a peer review response letter, present concrete textual evidence and refine the argument.",
+    "seed": "Thank you for your comment on the validity of our interpretation. Since similar expressions appear in several manuscript copies of the tale, we believe the author's interpretation is generally valid. We plan to examine this further in future work. At this stage we consider the parallel expressions sufficient confirmation and do not think a detailed comparative table of the manuscript variants is necessary for readers to be persuaded of the interpretation offered in the current draft."
+  },
+  {
+    "id": "acad_015",
+    "domain": "academic",
+    "instruction": "As a peer review response letter, justify the claim of self-evidence and reconsider the need for additional verification.",
+    "seed": "Regarding the reviewer's comment on sensor fusion accuracy, since the proposed method integrates information from multiple sensors, it is self-evident that it should be more accurate than a single sensor. We therefore judge additional comparative experiments to be unnecessary. We believe this reasoning is sufficiently strong on its own and do not think empirical benchmarking against single-sensor baselines would materially change the conclusions already presented in the current version of the manuscript."
+  },
+  {
+    "id": "acad_016",
+    "domain": "academic",
+    "instruction": "As a conference presentation abstract, provide quantitative outcomes and set a properly bounded conclusion.",
+    "seed": "Cancer immunotherapy has drawn considerable attention in recent years. This presentation reports the effects of a novel combination therapy. Since tumor shrinkage was observed in some patients, this therapy could become the standard treatment in the future. The observed responses, though limited in number, are considered encouraging enough to justify describing the approach as a likely future standard, and broader adoption across treatment centers is anticipated well before larger confirmatory trials have been completed."
+  },
+  {
+    "id": "acad_017",
+    "domain": "academic",
+    "instruction": "As a conference presentation abstract, correct the conflation of subjective approval with policy effectiveness and clarify evaluation metrics.",
+    "seed": "Childcare support policies are being expanded across municipalities. This presentation introduces a case study from one municipality. Since many families who used the support expressed favorable opinions, the policy can be said to be highly effective. The positive sentiment gathered through informal feedback is treated here as sufficient evidence of measurable outcomes, and no further quantitative indicators such as employment rates or birth rates were examined before reaching this conclusion about policy effectiveness."
+  },
+  {
+    "id": "acad_018",
+    "domain": "academic",
+    "instruction": "As a conference presentation abstract, concretely enumerate the identified challenges and clarify the scholarly significance.",
+    "seed": "Folk performing arts in rural areas are at risk due to a shortage of successors. This presentation reports a case study from one region. Through the investigation, various challenges became apparent, which is expected to be useful for future consideration of preservation measures. The specific nature of these challenges is not detailed here, and the broader academic significance of the findings for the field of folklore studies is likewise left largely unstated in this abstract."
+  },
+  {
+    "id": "acad_019",
+    "domain": "academic",
+    "instruction": "As a conference presentation abstract, provide quantitative improvement figures and temper the claim about practical deployment.",
+    "seed": "Electricity demand forecasting in smart grids is an important technical challenge. This presentation reports a forecasting method using machine learning. The prediction accuracy has improved compared to existing methods, meaning the path to practical deployment has been opened. No specific accuracy figures are provided, and the transition from a research prototype to real-world grid deployment is treated as a near-certain and imminent outcome based solely on this unspecified improvement in forecasting performance."
+  },
+  {
+    "id": "acad_020",
+    "domain": "academic",
+    "instruction": "As a conference presentation abstract, clarify the distinction between correlation and causation and revise the claim to a defensible scope.",
+    "seed": "Time spent by young people on social media has been increasing year by year. It has been pointed out that youths who use social media for long hours tend to be emotionally unstable. This presentation reports survey results on the relationship between usage time and mental health, and argues that limiting social media use is necessary. The correlational survey findings are treated as if they directly demonstrate a causal effect, leading to a strong policy recommendation for restricting usage."
+  },
+  {
+    "id": "acad_021",
+    "domain": "academic",
+    "instruction": "As the significance section of a grant proposal, ground the expected effects in evidence and remove exaggerated language.",
+    "seed": "Quality assurance is an important issue in software development. This research will develop a test automation platform. This is expected to greatly improve productivity at development sites, and the social significance is extremely high. No baseline data or comparable case studies are cited to support the magnitude of improvement claimed, yet the proposal repeatedly emphasizes that the impact will be transformative across the entire software industry once the platform becomes available to practitioners."
+  },
+  {
+    "id": "acad_022",
+    "domain": "academic",
+    "instruction": "As the significance section of a grant proposal, provide a realistic estimate of expected effects and specify the contribution concretely.",
+    "seed": "Pediatric asthma is a condition afflicting many children. This research will develop a new inhalation therapy. If realized, this treatment is expected to dramatically improve the quality of life for many children, and its contribution to medicine is immeasurable. The proposal does not specify the mechanism of improvement, the expected magnitude of benefit, or comparable outcomes from similar therapies, relying instead on broad assurances that the eventual medical contribution will be exceptionally large and far-reaching."
+  },
+  {
+    "id": "acad_023",
+    "domain": "academic",
+    "instruction": "As the significance section of a grant proposal, strengthen the logical link between research outcomes and policy effects.",
+    "seed": "Population decline in rural areas is a serious social problem. This research will analyze demographic trends to generate insights useful for regional revitalization. If this research progresses, the problem of regional decline is expected to improve substantially. The proposal moves directly from performing a demographic analysis to expecting a substantial improvement in the underlying decline itself, without describing any intermediate policy mechanism through which the analysis would actually translate into real-world change."
+  },
+  {
+    "id": "acad_024",
+    "domain": "academic",
+    "instruction": "As the significance section of a grant proposal, correct the overstated certainty and describe realistic effects.",
+    "seed": "Old documents preserved in local regions are valuable resources for historical research. This research will digitize and preserve them. As digitization progresses, the continuity of regional culture will be completely guaranteed, making this an extremely important undertaking. The claim of a complete guarantee is not supported by any discussion of how digitization interacts with the broader social, educational, and community factors that actually determine whether a culture's traditions continue to be practiced and transmitted."
+  },
+  {
+    "id": "acad_025",
+    "domain": "academic",
+    "instruction": "As the significance section of a grant proposal, limit the scope of the ripple effect claimed and provide concrete grounding.",
+    "seed": "3D printing technology is becoming widespread in manufacturing. This research will evaluate the fatigue strength of printed materials. Once this evaluation method is established, the reliability of the manufacturing industry as a whole is expected to increase dramatically, and the ripple effect on industry will be enormous. The proposal generalizes from a single materials-testing method to an industry-wide reliability transformation without addressing the many other factors that determine manufacturing reliability beyond material fatigue characteristics alone."
+  },
+  {
+    "id": "acad_026",
+    "domain": "academic",
+    "instruction": "As a literature review section, contrast the conflicting findings systematically and clarify how this study is positioned relative to them.",
+    "seed": "Diet therapy for diabetes has been studied extensively. Some reports find low-carbohydrate diets effective, while others do not. Taking these into account, diet therapy can be said to be important in diabetes treatment. The review simply lists the existence of conflicting findings without analyzing why they conflict, under what conditions each result holds, or how the present study is designed to resolve or build upon this unresolved tension in the existing literature."
+  },
+  {
+    "id": "acad_027",
+    "domain": "academic",
+    "instruction": "As a literature review section, systematically organize findings by policy type and clarify the relationships among studies.",
+    "seed": "Numerous studies exist evaluating poverty policy. There are studies evaluating cash transfers, studies evaluating employment support, and various others. From these studies, it can be seen that a multifaceted approach is needed for poverty reduction. The review does not summarize the actual magnitude or direction of effects found in each type of study, nor does it explain how the various strands of research relate to or build upon one another."
+  },
+  {
+    "id": "acad_028",
+    "domain": "academic",
+    "instruction": "As a literature review section, organize the opposing positions and clearly state which position this study adopts.",
+    "seed": "The concept of equivalence in translation theory has long been debated. Some scholars emphasize formal equivalence, while others emphasize dynamic equivalence. Taking these debates into account, this study will examine equivalence in translation. The review does not specify which theoretical camp the study aligns with, what specific research question will be pursued, or how the examination will move the debate forward beyond restating the existence of two established positions."
+  },
+  {
+    "id": "acad_029",
+    "domain": "academic",
+    "instruction": "As a literature review section, compare methods' performance and concretely identify unresolved challenges.",
+    "seed": "Deep learning-based anomaly detection methods have developed rapidly in recent years. Numerous methods have been proposed, including those using autoencoders and those using GANs. All of these methods show high performance, and further development is expected. No comparative performance figures, benchmark datasets, or specific limitations of each method are discussed, leaving the reader unable to judge which approach is actually superior or what gaps remain to be addressed by future work."
+  },
+  {
+    "id": "acad_030",
+    "domain": "academic",
+    "instruction": "As a literature review section, clarify the distinction between existing findings and future projections, and strengthen the supporting rationale.",
+    "seed": "Many clinical studies exist on the combined use of medication and psychotherapy for depression. Most studies find that combination therapy is more effective than either treatment alone. Therefore, combined therapy is expected to become increasingly widespread in the future. The review moves directly from summarizing existing effectiveness findings to predicting future clinical adoption trends without discussing barriers to adoption such as cost, access, or clinician training that might affect this trajectory."
+  },
+  {
+    "id": "acad_031",
+    "domain": "academic",
+    "instruction": "As a limitations section, explain the actual scope of impact and address generalizability more explicitly.",
+    "seed": "This study conducted semi-structured interviews with 10 participants. The small sample size is a limitation, but since this is qualitative research, it is not expected to be a major problem. Verification with a larger number of participants is desired in the future. The claim that qualitative research is inherently immune to sample-size concerns is asserted without further justification, and no discussion is offered of which specific conclusions might be most affected by the limited sample."
+  },
+  {
+    "id": "acad_032",
+    "domain": "academic",
+    "instruction": "As a limitations section, propose concrete measures to address memory bias and state the limitation candidly.",
+    "seed": "This oral history study relies on information based on narrators' memories. Memories may contain inaccuracies, but since accounts were gathered from multiple narrators, the overall reliability is considered sufficiently secured. No method is described for cross-checking or triangulating the narrators' accounts against other sources, and the claim of sufficient reliability rests solely on the number of narrators consulted rather than any substantive verification procedure."
+  },
+  {
+    "id": "acad_033",
+    "domain": "academic",
+    "instruction": "As a limitations section, specify the details of the simplification and address the discrepancy with the real environment.",
+    "seed": "The simulation model in this study simplifies the real environment for tractability. This simplification may introduce a certain degree of error into the results, but the overall trends of the model are believed to be roughly similar to those in the real environment. No specific simplifying assumptions are listed, and the claim of rough similarity to the real environment is not supported by any comparison data or sensitivity analysis of the simplified parameters."
+  },
+  {
+    "id": "acad_034",
+    "domain": "academic",
+    "instruction": "As a limitations section, describe the specific characteristics of the patient population and candidly state the limits of generalization.",
+    "seed": "This clinical trial was conducted at a single institution. Although the patient population is limited to a specific region, it is believed not to differ substantially from the general patient population, so generalization of the results is judged not to be a particular problem. No demographic or clinical characteristics of the trial population are provided for comparison against broader patient populations, undermining the basis for the claim that generalization poses little concern."
+  },
+  {
+    "id": "acad_035",
+    "domain": "academic",
+    "instruction": "As a limitations section, present comparative data on respondent demographics and describe the reliability assessment more cautiously.",
+    "seed": "The response rate for this survey was 30 percent. While the somewhat low response rate is cited as a limitation, the demographic distribution of respondents is believed not to differ greatly from the population, so the reliability of the results is considered unproblematic. No actual comparison between respondent demographics and population statistics is presented, leaving the claim of similarity to the population entirely unsubstantiated in this section."
+  },
+  {
+    "id": "acad_036",
+    "domain": "academic",
+    "instruction": "As an ethics review application description, specify concrete management procedures and elaborate on risk mitigation measures.",
+    "seed": "This study will conduct genetic testing on participants. Results will be used solely for research purposes, with care taken to prevent individual identification. Genetic information is sensitive, but if managed appropriately, no ethical problems are expected to arise. The description does not specify the actual data storage protocol, access controls, encryption methods, or the procedure for handling incidental findings that might be discovered during genetic analysis."
+  },
+  {
+    "id": "acad_037",
+    "domain": "academic",
+    "instruction": "As an ethics review application description, specify the concrete anonymization procedure and describe the data storage method.",
+    "seed": "In this interview study, participant privacy will be respected. Names will be pseudonymized, and individuals will not be identifiable in published materials. These measures are believed to sufficiently secure participant anonymity. No details are given regarding how pseudonyms will be generated and stored, how audio recordings will be secured, or how indirect identifiers such as occupation or location will be handled to prevent re-identification of participants."
+  },
+  {
+    "id": "acad_038",
+    "domain": "academic",
+    "instruction": "As an ethics review application description, propose specific measures to address psychological burden and correct the unfounded optimism.",
+    "seed": "This study will interview survivors of wartime experiences. Elderly participants may experience psychological burden, but since recounting their experiences is believed to also have a positive effect on them, it is judged that there is no major problem. No concrete support measures, such as access to counseling or the option to pause or withdraw from the interview, are described, and the claim of a positive effect is asserted without citing any supporting evidence."
+  },
+  {
+    "id": "acad_039",
+    "domain": "academic",
+    "instruction": "As an ethics review application description, elaborate the risk assessment and specify emergency response measures.",
+    "seed": "In this experiment, participants will perform collaborative tasks with a robot. Since the robot meets safety standards, the likelihood of harm to participants is considered extremely low, and no special safety measures are judged necessary. No specific failure modes, emergency stop procedures, or supervision protocols are described, and meeting general safety standards is treated as sufficient grounds for dispensing with any additional precautions during the actual experimental sessions."
+  },
+  {
+    "id": "acad_040",
+    "domain": "academic",
+    "instruction": "As an ethics review application description, specify the procedure for obtaining child assent and detail the consent process.",
+    "seed": "This clinical trial targets pediatric patients. Since informed consent will be obtained from guardians, the ethical procedures are believed to be satisfied. The children's own wishes will also be confirmed to the extent possible. No specific age-appropriate assent procedure is described, nor is it explained how the children's own wishes will actually be elicited, recorded, or weighed alongside the guardians' consent during the trial."
+  },
+  {
+    "id": "acad_041",
+    "domain": "academic",
+    "instruction": "As a data management plan section, specify storage format, capacity, and backup frequency concretely.",
+    "seed": "This research collects large volumes of data from IoT sensors. The data will be stored on an appropriate server and managed over the long term. Backups will be performed as needed. No specific storage format, retention period, storage capacity estimate, or backup schedule is provided, leaving the actual data management procedure largely undefined beyond the general intention to store and occasionally back up the collected sensor data."
+  },
+  {
+    "id": "acad_042",
+    "domain": "academic",
+    "instruction": "As a data management plan section, specify the anonymization method, retention period, and sharing conditions concretely.",
+    "seed": "Patient data obtained in the clinical trial will be anonymized and managed. Sufficient care will be taken to prevent leakage of personal information. Data will be retained for a certain period after the study ends, and sharing with other researchers will be considered as needed. No specific anonymization technique, exact retention period, or criteria for deciding when and with whom data sharing will occur are specified in this description."
+  },
+  {
+    "id": "acad_043",
+    "domain": "academic",
+    "instruction": "As a data management plan section, present a concrete schedule for the release timing, format, and usage conditions.",
+    "seed": "Survey data obtained in this social research will be used for research purposes. The data will be organized so individuals cannot be identified, and future public release to other researchers is being considered. The specific timing and method of release will be decided later. No target date, repository, licensing terms, or documentation plan for the eventual public dataset is specified, leaving the sharing commitment essentially open-ended."
+  },
+  {
+    "id": "acad_044",
+    "domain": "academic",
+    "instruction": "As a data management plan section, provide a concrete list of metadata fields and specify the standard schema to be adopted.",
+    "seed": "Metadata will be assigned to historical materials that have been digitized into the archive. The metadata fields will be designed appropriately according to the characteristics of each material. A standard format will be referenced to improve future searchability. No specific metadata schema, controlled vocabulary, or standard such as Dublin Core is named, and the actual fields to be recorded for each material type remain unspecified."
+  },
+  {
+    "id": "acad_045",
+    "domain": "academic",
+    "instruction": "As a data management plan section, specify the concrete operational rules for version control and describe the access permission design.",
+    "seed": "Log data obtained from experiments will be managed using a version control system. Change history will be tracked to ensure reproducibility of the research. Detailed operational rules will be developed in the future. No specific branching strategy, commit conventions, access control policy, or retention plan for historical experiment logs is provided, leaving the actual reproducibility guarantee largely aspirational at this stage."
+  },
+  {
+    "id": "acad_046",
+    "domain": "academic",
+    "instruction": "As a general-audience summary of the research, correct the exaggerated claims and accurately convey the current state of progress.",
+    "seed": "Quantum computers are a next-generation technology that perform calculations on principles different from conventional computers. This research explores their basic mechanisms. Once this technology is realized, it is expected that a wide variety of problems will be solved instantly. The leap from studying basic mechanisms to solving a wide variety of problems instantly is presented without qualification, giving readers an inflated sense of how close and how broad the practical impact will be."
+  },
+  {
+    "id": "acad_047",
+    "domain": "academic",
+    "instruction": "As a general-audience summary of the research, set a realistic scope for the expected effects and correct the misleading phrasing.",
+    "seed": "Developing new vaccines is important for infectious disease control. This research is searching for candidate substances for a new vaccine. If this research progresses, it is believed that it will eventually become possible to prevent all infectious diseases. The claim that a single vaccine candidate research program could lead to preventing all infectious diseases vastly overstates the scope of what even a successful outcome from this specific research could plausibly achieve."
+  },
+  {
+    "id": "acad_048",
+    "domain": "academic",
+    "instruction": "As a general-audience summary of the research, strengthen the logic linking research findings to social change and calibrate the scope of the claim.",
+    "seed": "Gender disparities are pointed out in many contexts. This research investigates the actual state of such disparities. Through this research, the problem of social inequality is believed to move substantially toward resolution, and the lives of many people should improve as a result. Conducting a descriptive investigation of disparities is treated as sufficient to produce substantial social change, without any discussion of the policy or institutional steps that would actually need to follow."
+  },
+  {
+    "id": "acad_049",
+    "domain": "academic",
+    "instruction": "As a general-audience summary of the research, correct the exaggeration and clarify the specific research content and contribution.",
+    "seed": "The study of the history of philosophy traces the history of human thought. This research analyzes the writings of a particular thinker. Through this research, the essential nature of human intellectual endeavor is believed to become clear, making this an extremely meaningful undertaking. The scope of the claimed contribution, revealing the essential nature of human intellectual endeavor, is dramatically larger than what an analysis of a single thinker's writings could plausibly establish."
+  },
+  {
+    "id": "acad_050",
+    "domain": "academic",
+    "instruction": "As a general-audience summary of the research, add cautious discussion of generalizability and clarify the scope of applicability.",
+    "seed": "The decline of local communities is a phenomenon seen in many rural areas. This research investigates regeneration efforts in one particular region. If these efforts are applied to other regions, the nationwide problem of regional decline is believed to move toward resolution. The proposal generalizes from a single case study to a nationwide solution without addressing how differing local conditions, resources, or governance structures might affect the transferability of the studied approach."
+  }
+]
