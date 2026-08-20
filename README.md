@@ -5,7 +5,7 @@ data and analysis package for the paper:
 
 > Toeda, T. (2026). *The Reflective Budget Governor: Equilibrium-Based
 > Early Stopping for Iterative LLM Refinement.* Zenodo.
-> DOI: (see CITATION.cff once assigned)
+> https://doi.org/10.5281/zenodo.22031367
 
 A three-signal stopping rule (RZGM-derived equilibrium distance d̂_R,
 RHL-derived loop/saturation detectors, MUSE-derived hard reflection cap)
