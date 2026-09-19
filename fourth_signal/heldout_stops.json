@@ -1,0 +1,1566 @@
+{
+ "12b": {
+  "ho_business_01": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 6
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 7694,
+    "B": 5549,
+    "C": 5549
+   }
+  },
+  "ho_business_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15452,
+    "B": 15452,
+    "C": 4261
+   }
+  },
+  "ho_business_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6745,
+    "B": 6745,
+    "C": 6745
+   }
+  },
+  "ho_business_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15488,
+    "B": 15488,
+    "C": 4236
+   }
+  },
+  "ho_business_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 12550,
+    "B": 12550,
+    "C": 12550
+   }
+  },
+  "ho_business_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15830,
+    "B": 15830,
+    "C": 3634
+   }
+  },
+  "ho_technical_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 22645,
+    "B": 22645,
+    "C": 5460
+   }
+  },
+  "ho_technical_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15702,
+    "B": 15702,
+    "C": 4211
+   }
+  },
+  "ho_technical_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 11258,
+    "B": 11258,
+    "C": 11258
+   }
+  },
+  "ho_technical_04": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 16391,
+    "B": 14099,
+    "C": 16391
+   }
+  },
+  "ho_technical_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 19898,
+    "B": 19898,
+    "C": 5057
+   }
+  },
+  "ho_technical_06": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 20834,
+    "B": 17470,
+    "C": 17470
+   }
+  },
+  "ho_marketing_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6330,
+    "B": 6330,
+    "C": 6330
+   }
+  },
+  "ho_marketing_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 18400,
+    "B": 18400,
+    "C": 4649
+   }
+  },
+  "ho_marketing_03": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7833,
+    "B": 5593,
+    "C": 2360
+   }
+  },
+  "ho_marketing_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8669,
+    "B": 8669,
+    "C": 8669
+   }
+  },
+  "ho_marketing_05": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8123,
+    "B": 5837,
+    "C": 8123
+   }
+  },
+  "ho_marketing_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6007,
+    "B": 6007,
+    "C": 6007
+   }
+  },
+  "ho_academic_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 3390,
+    "B": 3390,
+    "C": 3390
+   }
+  },
+  "ho_academic_02": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7584,
+    "B": 5301,
+    "C": 2005
+   }
+  },
+  "ho_academic_03": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8556,
+    "B": 5970,
+    "C": 2240
+   }
+  },
+  "ho_academic_04": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 6125,
+    "B": 3447,
+    "C": 1792
+   }
+  },
+  "ho_academic_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 4658,
+    "B": 4658,
+    "C": 4658
+   }
+  },
+  "ho_academic_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5772,
+    "B": 5772,
+    "C": 5772
+   }
+  },
+  "ho_public_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 7789,
+    "B": 7789,
+    "C": 7789
+   }
+  },
+  "ho_public_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 5327,
+    "B": 5327,
+    "C": 5327
+   }
+  },
+  "ho_public_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7251,
+    "B": 7251,
+    "C": 1939
+   }
+  },
+  "ho_public_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 5
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6659,
+    "B": 6659,
+    "C": 3863
+   }
+  },
+  "ho_public_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 6661,
+    "B": 6661,
+    "C": 1766
+   }
+  },
+  "ho_public_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 5525,
+    "B": 5525,
+    "C": 1676
+   }
+  },
+  "ho_customer_support_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5969,
+    "B": 5969,
+    "C": 5969
+   }
+  },
+  "ho_customer_support_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 4437,
+    "B": 4437,
+    "C": 4437
+   }
+  },
+  "ho_customer_support_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5687,
+    "B": 5687,
+    "C": 5687
+   }
+  },
+  "ho_customer_support_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 5959,
+    "B": 5959,
+    "C": 1789
+   }
+  },
+  "ho_customer_support_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 4888,
+    "B": 4888,
+    "C": 4888
+   }
+  },
+  "ho_customer_support_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 5342,
+    "B": 5342,
+    "C": 5342
+   }
+  },
+  "ho_internal_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 7661,
+    "B": 7661,
+    "C": 7661
+   }
+  },
+  "ho_internal_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15516,
+    "B": 15516,
+    "C": 4211
+   }
+  },
+  "ho_internal_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 11938,
+    "B": 11938,
+    "C": 11938
+   }
+  },
+  "ho_internal_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6929,
+    "B": 6929,
+    "C": 6929
+   }
+  },
+  "ho_internal_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 10793,
+    "B": 10793,
+    "C": 2949
+   }
+  },
+  "ho_internal_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 7309,
+    "B": 7309,
+    "C": 6267
+   }
+  },
+  "ho_education_01": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 9186,
+    "B": 6428,
+    "C": 2529
+   }
+  },
+  "ho_education_02": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6770,
+    "B": 5737,
+    "C": 6770
+   }
+  },
+  "ho_education_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15699,
+    "B": 15699,
+    "C": 3515
+   }
+  },
+  "ho_education_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 11566,
+    "B": 11566,
+    "C": 2737
+   }
+  },
+  "ho_education_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 13613,
+    "B": 13613,
+    "C": 3410
+   }
+  },
+  "ho_education_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 11313,
+    "B": 11313,
+    "C": 2849
+   }
+  },
+  "ho_hr_01": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 13531,
+    "B": 9518,
+    "C": 3715
+   }
+  },
+  "ho_hr_02": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 5967,
+    "B": 5092,
+    "C": 1682
+   }
+  },
+  "ho_hr_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8487,
+    "B": 8487,
+    "C": 8487
+   }
+  },
+  "ho_hr_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 7003,
+    "B": 7003,
+    "C": 7003
+   }
+  },
+  "ho_hr_05": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 9848,
+    "B": 8371,
+    "C": 2677
+   }
+  },
+  "ho_hr_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8976,
+    "B": 8976,
+    "C": 8976
+   }
+  },
+  "ho_pr_media_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 9517,
+    "B": 9517,
+    "C": 9517
+   }
+  },
+  "ho_pr_media_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8861,
+    "B": 8861,
+    "C": 2039
+   }
+  },
+  "ho_pr_media_03": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 5
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 12508,
+    "B": 7135,
+    "C": 7135
+   }
+  },
+  "ho_pr_media_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8045,
+    "B": 8045,
+    "C": 8045
+   }
+  },
+  "ho_pr_media_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 10401,
+    "B": 10401,
+    "C": 10401
+   }
+  },
+  "ho_pr_media_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6061,
+    "B": 6061,
+    "C": 5202
+   }
+  }
+ },
+ "26b": {
+  "ho_business_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7258,
+    "B": 7258,
+    "C": 2161
+   }
+  },
+  "ho_business_02": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 12387,
+    "B": 8528,
+    "C": 12387
+   }
+  },
+  "ho_business_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 6
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6110,
+    "B": 6110,
+    "C": 4473
+   }
+  },
+  "ho_business_04": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15119,
+    "B": 8434,
+    "C": 4135
+   }
+  },
+  "ho_business_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 14330,
+    "B": 14330,
+    "C": 3838
+   }
+  },
+  "ho_business_06": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 18896,
+    "B": 15882,
+    "C": 4622
+   }
+  },
+  "ho_technical_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 22443,
+    "B": 22443,
+    "C": 5675
+   }
+  },
+  "ho_technical_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 15584,
+    "B": 15584,
+    "C": 15584
+   }
+  },
+  "ho_technical_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 16577,
+    "B": 16577,
+    "C": 4100
+   }
+  },
+  "ho_technical_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 14399,
+    "B": 14399,
+    "C": 2737
+   }
+  },
+  "ho_technical_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 20530,
+    "B": 20530,
+    "C": 4639
+   }
+  },
+  "ho_technical_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 26307,
+    "B": 26307,
+    "C": 26307
+   }
+  },
+  "ho_marketing_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6114,
+    "B": 6114,
+    "C": 6114
+   }
+  },
+  "ho_marketing_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 19744,
+    "B": 19744,
+    "C": 5265
+   }
+  },
+  "ho_marketing_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5589,
+    "B": 5589,
+    "C": 5589
+   }
+  },
+  "ho_marketing_04": {
+   "stops": {
+    "A": 8,
+    "B": 7,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 9180,
+    "B": 7929,
+    "C": 7929
+   }
+  },
+  "ho_marketing_05": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 7422,
+    "B": 4344,
+    "C": 7422
+   }
+  },
+  "ho_marketing_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5738,
+    "B": 5738,
+    "C": 5738
+   }
+  },
+  "ho_academic_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 2903,
+    "B": 2903,
+    "C": 2903
+   }
+  },
+  "ho_academic_02": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7611,
+    "B": 4187,
+    "C": 2093
+   }
+  },
+  "ho_academic_03": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 9464,
+    "B": 6545,
+    "C": 2375
+   }
+  },
+  "ho_academic_04": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 5897,
+    "B": 2725,
+    "C": 1440
+   }
+  },
+  "ho_academic_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 4556,
+    "B": 4556,
+    "C": 4556
+   }
+  },
+  "ho_academic_06": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 4
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6914,
+    "B": 4070,
+    "C": 3157
+   }
+  },
+  "ho_public_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 6963,
+    "B": 6963,
+    "C": 6963
+   }
+  },
+  "ho_public_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6625,
+    "B": 6625,
+    "C": 6625
+   }
+  },
+  "ho_public_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8375,
+    "B": 8375,
+    "C": 2265
+   }
+  },
+  "ho_public_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 7724,
+    "B": 7724,
+    "C": 7724
+   }
+  },
+  "ho_public_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 7418,
+    "B": 7418,
+    "C": 7418
+   }
+  },
+  "ho_public_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5567,
+    "B": 5567,
+    "C": 5567
+   }
+  },
+  "ho_customer_support_01": {
+   "stops": {
+    "A": 8,
+    "B": 5,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 5541,
+    "B": 3394,
+    "C": 5541
+   }
+  },
+  "ho_customer_support_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 4187,
+    "B": 4187,
+    "C": 4187
+   }
+  },
+  "ho_customer_support_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6124,
+    "B": 6124,
+    "C": 6124
+   }
+  },
+  "ho_customer_support_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 7920,
+    "B": 7920,
+    "C": 2012
+   }
+  },
+  "ho_customer_support_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 6355,
+    "B": 6355,
+    "C": 1794
+   }
+  },
+  "ho_customer_support_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6192,
+    "B": 6192,
+    "C": 6192
+   }
+  },
+  "ho_internal_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8355,
+    "B": 8355,
+    "C": 2355
+   }
+  },
+  "ho_internal_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 16055,
+    "B": 16055,
+    "C": 16055
+   }
+  },
+  "ho_internal_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 16795,
+    "B": 16795,
+    "C": 4461
+   }
+  },
+  "ho_internal_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 7849,
+    "B": 7849,
+    "C": 7849
+   }
+  },
+  "ho_internal_05": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 12428,
+    "B": 8680,
+    "C": 3218
+   }
+  },
+  "ho_internal_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 10841,
+    "B": 10841,
+    "C": 9280
+   }
+  },
+  "ho_education_01": {
+   "stops": {
+    "A": 8,
+    "B": 4,
+    "C": 5
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 12540,
+    "B": 5464,
+    "C": 7221
+   }
+  },
+  "ho_education_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 5496,
+    "B": 5496,
+    "C": 4736
+   }
+  },
+  "ho_education_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 15887,
+    "B": 15887,
+    "C": 3720
+   }
+  },
+  "ho_education_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 10933,
+    "B": 10933,
+    "C": 2295
+   }
+  },
+  "ho_education_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 14152,
+    "B": 14152,
+    "C": 14152
+   }
+  },
+  "ho_education_06": {
+   "stops": {
+    "A": 8,
+    "B": 6,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8646,
+    "B": 6180,
+    "C": 2482
+   }
+  },
+  "ho_hr_01": {
+   "stops": {
+    "A": 8,
+    "B": 4,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 14945,
+    "B": 6360,
+    "C": 14945
+   }
+  },
+  "ho_hr_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 5178,
+    "B": 5178,
+    "C": 1509
+   }
+  },
+  "ho_hr_03": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 8582,
+    "B": 8582,
+    "C": 2465
+   }
+  },
+  "ho_hr_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 7
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 8676,
+    "B": 8676,
+    "C": 7457
+   }
+  },
+  "ho_hr_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 9213,
+    "B": 9213,
+    "C": 2595
+   }
+  },
+  "ho_hr_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 8427,
+    "B": 8427,
+    "C": 8427
+   }
+  },
+  "ho_pr_media_01": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 9240,
+    "B": 9240,
+    "C": 9240
+   }
+  },
+  "ho_pr_media_02": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 3
+   },
+   "C_reason": "saturation",
+   "tokens": {
+    "A": 4949,
+    "B": 4949,
+    "C": 1530
+   }
+  },
+  "ho_pr_media_03": {
+   "stops": {
+    "A": 8,
+    "B": 4,
+    "C": 5
+   },
+   "C_reason": "equilibrium_d_r",
+   "tokens": {
+    "A": 12124,
+    "B": 5253,
+    "C": 6920
+   }
+  },
+  "ho_pr_media_04": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 6883,
+    "B": 6883,
+    "C": 6883
+   }
+  },
+  "ho_pr_media_05": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 9827,
+    "B": 9827,
+    "C": 9827
+   }
+  },
+  "ho_pr_media_06": {
+   "stops": {
+    "A": 8,
+    "B": 8,
+    "C": 8
+   },
+   "C_reason": "hard_cap",
+   "tokens": {
+    "A": 9570,
+    "B": 9570,
+    "C": 9570
+   }
+  }
+ }
+}

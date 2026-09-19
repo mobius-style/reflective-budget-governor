@@ -1,0 +1,94 @@
+{
+ "n_pairs": 621,
+ "by_ratio": [
+  {
+   "stratum": "early/iter8 length ratio [0.0,0.6)",
+   "n": 26,
+   "win": 2,
+   "tie": 0,
+   "loss": 24,
+   "loss_rate": 0.923
+  },
+  {
+   "stratum": "early/iter8 length ratio [0.6,0.8)",
+   "n": 182,
+   "win": 10,
+   "tie": 11,
+   "loss": 161,
+   "loss_rate": 0.885
+  },
+  {
+   "stratum": "early/iter8 length ratio [0.8,0.95)",
+   "n": 215,
+   "win": 11,
+   "tie": 49,
+   "loss": 155,
+   "loss_rate": 0.721
+  },
+  {
+   "stratum": "early/iter8 length ratio [0.95,1.05)",
+   "n": 192,
+   "win": 4,
+   "tie": 157,
+   "loss": 31,
+   "loss_rate": 0.161
+  },
+  {
+   "stratum": "early/iter8 length ratio [1.05,10.0)",
+   "n": 5,
+   "win": 2,
+   "tie": 2,
+   "loss": 1,
+   "loss_rate": 0.2
+  }
+ ],
+ "by_abs_delta_words": [
+  {
+   "stratum": "|\u0394words| [0,10)",
+   "n": 183,
+   "win": 4,
+   "tie": 151,
+   "loss": 28,
+   "loss_rate": 0.153
+  },
+  {
+   "stratum": "|\u0394words| [10,25)",
+   "n": 68,
+   "win": 6,
+   "tie": 29,
+   "loss": 33,
+   "loss_rate": 0.485
+  },
+  {
+   "stratum": "|\u0394words| [25,50)",
+   "n": 97,
+   "win": 6,
+   "tie": 18,
+   "loss": 73,
+   "loss_rate": 0.753
+  },
+  {
+   "stratum": "|\u0394words| [50,100)",
+   "n": 132,
+   "win": 8,
+   "tie": 16,
+   "loss": 108,
+   "loss_rate": 0.818
+  },
+  {
+   "stratum": "|\u0394words| [100,1000000)",
+   "n": 141,
+   "win": 5,
+   "tie": 5,
+   "loss": 131,
+   "loss_rate": 0.929
+  }
+ ],
+ "matched_subset": {
+  "n": 192,
+  "win": 4,
+  "tie": 157,
+  "loss": 31,
+  "note": "wins vs losses among near-equal-length pairs; ties excluded"
+ }
+}
