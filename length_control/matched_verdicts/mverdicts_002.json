@@ -1,0 +1,127 @@
+[
+  {
+    "key": "lm:12b:int_014:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:edu_031:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:int_015:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:edu_042:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:edu_036:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:26b:int_025:EvM",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:gov_015:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:biz_009:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:int_026:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:int_006:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:int_023:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:hr_004:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:tech_035:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:26b:int_006:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:cs_046:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:26b:biz_040:EvM",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:26b:int_014:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:cs_047:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:int_044:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:12b:biz_014:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:26b:tech_011:EvM",
+    "vote1": "second",
+    "vote2": "first"
+  },
+  {
+    "key": "lm:26b:hr_008:EvM",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:26b:hr_020:MvF",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:26b:hr_031:EvM",
+    "vote1": "first",
+    "vote2": "second"
+  },
+  {
+    "key": "lm:12b:int_044:MvF",
+    "vote1": "second",
+    "vote2": "first"
+  }
+]

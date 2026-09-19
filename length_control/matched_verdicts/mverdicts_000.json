@@ -1,0 +1,127 @@
+[
+ {
+  "key": "lm:12b:int_014:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:tech_008:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:mkt_027:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:mkt_014:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:edu_042:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:26b:int_025:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:26b:int_026:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:26b:int_014:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:pr_010:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:pr_039:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:tech_025:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:cs_043:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:mkt_014:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:edu_031:EvM",
+  "vote1": "tie",
+  "vote2": "tie"
+ },
+ {
+  "key": "lm:12b:mkt_031:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:hr_011:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:26b:int_006:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:int_015:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:26b:cs_008:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:26b:int_044:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:26b:hr_031:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:tech_006:EvM",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:26b:tech_030:MvF",
+  "vote1": "first",
+  "vote2": "second"
+ },
+ {
+  "key": "lm:12b:pr_039:MvF",
+  "vote1": "second",
+  "vote2": "first"
+ },
+ {
+  "key": "lm:12b:int_002:EvM",
+  "vote1": "second",
+  "vote2": "first"
+ }
+]

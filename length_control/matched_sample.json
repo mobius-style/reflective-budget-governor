@@ -1,0 +1,802 @@
+[
+ {
+  "tag": "12b",
+  "task": "hr_011",
+  "stop": 3,
+  "w_early": 431,
+  "w_full": 557,
+  "w_matched": 423
+ },
+ {
+  "tag": "12b",
+  "task": "biz_014",
+  "stop": 3,
+  "w_early": 291,
+  "w_full": 397,
+  "w_matched": 281
+ },
+ {
+  "tag": "12b",
+  "task": "hr_033",
+  "stop": 3,
+  "w_early": 254,
+  "w_full": 357,
+  "w_matched": 247
+ },
+ {
+  "tag": "12b",
+  "task": "cs_047",
+  "stop": 3,
+  "w_early": 293,
+  "w_full": 394,
+  "w_matched": 283
+ },
+ {
+  "tag": "12b",
+  "task": "int_015",
+  "stop": 3,
+  "w_early": 269,
+  "w_full": 441,
+  "w_matched": 251
+ },
+ {
+  "tag": "12b",
+  "task": "cs_049",
+  "stop": 3,
+  "w_early": 195,
+  "w_full": 327,
+  "w_matched": 195
+ },
+ {
+  "tag": "26b",
+  "task": "hr_008",
+  "stop": 3,
+  "w_early": 430,
+  "w_full": 546,
+  "w_matched": 430
+ },
+ {
+  "tag": "26b",
+  "task": "int_025",
+  "stop": 3,
+  "w_early": 188,
+  "w_full": 399,
+  "w_matched": 175
+ },
+ {
+  "tag": "12b",
+  "task": "int_013",
+  "stop": 3,
+  "w_early": 219,
+  "w_full": 276,
+  "w_matched": 197
+ },
+ {
+  "tag": "12b",
+  "task": "edu_032",
+  "stop": 3,
+  "w_early": 599,
+  "w_full": 809,
+  "w_matched": 582
+ },
+ {
+  "tag": "12b",
+  "task": "int_044",
+  "stop": 3,
+  "w_early": 240,
+  "w_full": 337,
+  "w_matched": 239
+ },
+ {
+  "tag": "26b",
+  "task": "int_044",
+  "stop": 3,
+  "w_early": 254,
+  "w_full": 450,
+  "w_matched": 237
+ },
+ {
+  "tag": "12b",
+  "task": "cs_046",
+  "stop": 3,
+  "w_early": 235,
+  "w_full": 374,
+  "w_matched": 232
+ },
+ {
+  "tag": "12b",
+  "task": "tech_006",
+  "stop": 3,
+  "w_early": 424,
+  "w_full": 605,
+  "w_matched": 412
+ },
+ {
+  "tag": "26b",
+  "task": "tech_030",
+  "stop": 3,
+  "w_early": 506,
+  "w_full": 696,
+  "w_matched": 501
+ },
+ {
+  "tag": "12b",
+  "task": "biz_031",
+  "stop": 3,
+  "w_early": 222,
+  "w_full": 305,
+  "w_matched": 220
+ },
+ {
+  "tag": "26b",
+  "task": "hr_043",
+  "stop": 3,
+  "w_early": 332,
+  "w_full": 459,
+  "w_matched": 327
+ },
+ {
+  "tag": "26b",
+  "task": "cs_012",
+  "stop": 3,
+  "w_early": 315,
+  "w_full": 420,
+  "w_matched": 292
+ },
+ {
+  "tag": "12b",
+  "task": "mkt_031",
+  "stop": 3,
+  "w_early": 188,
+  "w_full": 256,
+  "w_matched": 183
+ },
+ {
+  "tag": "26b",
+  "task": "int_029",
+  "stop": 7,
+  "w_early": 111,
+  "w_full": 175,
+  "w_matched": 81
+ },
+ {
+  "tag": "26b",
+  "task": "pr_025",
+  "stop": 4,
+  "w_early": 123,
+  "w_full": 170,
+  "w_matched": 116
+ },
+ {
+  "tag": "26b",
+  "task": "biz_040",
+  "stop": 3,
+  "w_early": 272,
+  "w_full": 345,
+  "w_matched": 271
+ },
+ {
+  "tag": "12b",
+  "task": "tech_008",
+  "stop": 3,
+  "w_early": 376,
+  "w_full": 495,
+  "w_matched": 372
+ },
+ {
+  "tag": "26b",
+  "task": "gov_016",
+  "stop": 3,
+  "w_early": 183,
+  "w_full": 238,
+  "w_matched": 163
+ },
+ {
+  "tag": "12b",
+  "task": "cs_033",
+  "stop": 3,
+  "w_early": 255,
+  "w_full": 371,
+  "w_matched": 244
+ },
+ {
+  "tag": "12b",
+  "task": "int_006",
+  "stop": 3,
+  "w_early": 290,
+  "w_full": 452,
+  "w_matched": 289
+ },
+ {
+  "tag": "12b",
+  "task": "mkt_036",
+  "stop": 3,
+  "w_early": 261,
+  "w_full": 352,
+  "w_matched": 235
+ },
+ {
+  "tag": "12b",
+  "task": "edu_026",
+  "stop": 3,
+  "w_early": 256,
+  "w_full": 334,
+  "w_matched": 242
+ },
+ {
+  "tag": "26b",
+  "task": "cs_008",
+  "stop": 3,
+  "w_early": 353,
+  "w_full": 477,
+  "w_matched": 347
+ },
+ {
+  "tag": "12b",
+  "task": "biz_044",
+  "stop": 3,
+  "w_early": 261,
+  "w_full": 452,
+  "w_matched": 243
+ },
+ {
+  "tag": "26b",
+  "task": "biz_009",
+  "stop": 3,
+  "w_early": 392,
+  "w_full": 540,
+  "w_matched": 370
+ },
+ {
+  "tag": "26b",
+  "task": "int_036",
+  "stop": 3,
+  "w_early": 198,
+  "w_full": 278,
+  "w_matched": 197
+ },
+ {
+  "tag": "12b",
+  "task": "acad_037",
+  "stop": 3,
+  "w_early": 415,
+  "w_full": 529,
+  "w_matched": 406
+ },
+ {
+  "tag": "26b",
+  "task": "biz_018",
+  "stop": 3,
+  "w_early": 750,
+  "w_full": 955,
+  "w_matched": 700
+ },
+ {
+  "tag": "12b",
+  "task": "gov_015",
+  "stop": 3,
+  "w_early": 210,
+  "w_full": 293,
+  "w_matched": 198
+ },
+ {
+  "tag": "12b",
+  "task": "int_023",
+  "stop": 3,
+  "w_early": 224,
+  "w_full": 369,
+  "w_matched": 206
+ },
+ {
+  "tag": "26b",
+  "task": "tech_003",
+  "stop": 3,
+  "w_early": 342,
+  "w_full": 520,
+  "w_matched": 311
+ },
+ {
+  "tag": "26b",
+  "task": "pr_005",
+  "stop": 3,
+  "w_early": 194,
+  "w_full": 252,
+  "w_matched": 183
+ },
+ {
+  "tag": "12b",
+  "task": "hr_039",
+  "stop": 3,
+  "w_early": 342,
+  "w_full": 471,
+  "w_matched": 331
+ },
+ {
+  "tag": "12b",
+  "task": "edu_050",
+  "stop": 3,
+  "w_early": 291,
+  "w_full": 404,
+  "w_matched": 284
+ },
+ {
+  "tag": "26b",
+  "task": "int_030",
+  "stop": 3,
+  "w_early": 123,
+  "w_full": 232,
+  "w_matched": 122
+ },
+ {
+  "tag": "26b",
+  "task": "edu_029",
+  "stop": 3,
+  "w_early": 343,
+  "w_full": 441,
+  "w_matched": 324
+ },
+ {
+  "tag": "26b",
+  "task": "cs_046",
+  "stop": 3,
+  "w_early": 256,
+  "w_full": 441,
+  "w_matched": 237
+ },
+ {
+  "tag": "26b",
+  "task": "int_014",
+  "stop": 3,
+  "w_early": 319,
+  "w_full": 482,
+  "w_matched": 318
+ },
+ {
+  "tag": "26b",
+  "task": "tech_011",
+  "stop": 3,
+  "w_early": 198,
+  "w_full": 313,
+  "w_matched": 148
+ },
+ {
+  "tag": "26b",
+  "task": "acad_036",
+  "stop": 3,
+  "w_early": 543,
+  "w_full": 687,
+  "w_matched": 533
+ },
+ {
+  "tag": "12b",
+  "task": "pr_039",
+  "stop": 3,
+  "w_early": 178,
+  "w_full": 227,
+  "w_matched": 152
+ },
+ {
+  "tag": "26b",
+  "task": "tech_037",
+  "stop": 3,
+  "w_early": 492,
+  "w_full": 667,
+  "w_matched": 486
+ },
+ {
+  "tag": "12b",
+  "task": "edu_042",
+  "stop": 3,
+  "w_early": 251,
+  "w_full": 325,
+  "w_matched": 238
+ },
+ {
+  "tag": "26b",
+  "task": "biz_011",
+  "stop": 3,
+  "w_early": 229,
+  "w_full": 326,
+  "w_matched": 224
+ },
+ {
+  "tag": "26b",
+  "task": "hr_023",
+  "stop": 3,
+  "w_early": 393,
+  "w_full": 519,
+  "w_matched": 373
+ },
+ {
+  "tag": "26b",
+  "task": "int_026",
+  "stop": 3,
+  "w_early": 452,
+  "w_full": 659,
+  "w_matched": 435
+ },
+ {
+  "tag": "26b",
+  "task": "tech_016",
+  "stop": 3,
+  "w_early": 720,
+  "w_full": 926,
+  "w_matched": 714
+ },
+ {
+  "tag": "26b",
+  "task": "hr_004",
+  "stop": 3,
+  "w_early": 400,
+  "w_full": 509,
+  "w_matched": 389
+ },
+ {
+  "tag": "26b",
+  "task": "hr_020",
+  "stop": 3,
+  "w_early": 383,
+  "w_full": 587,
+  "w_matched": 366
+ },
+ {
+  "tag": "12b",
+  "task": "edu_022",
+  "stop": 3,
+  "w_early": 138,
+  "w_full": 233,
+  "w_matched": 122
+ },
+ {
+  "tag": "12b",
+  "task": "edu_031",
+  "stop": 3,
+  "w_early": 322,
+  "w_full": 441,
+  "w_matched": 298
+ },
+ {
+  "tag": "12b",
+  "task": "tech_027",
+  "stop": 3,
+  "w_early": 491,
+  "w_full": 615,
+  "w_matched": 483
+ },
+ {
+  "tag": "26b",
+  "task": "int_017",
+  "stop": 3,
+  "w_early": 116,
+  "w_full": 196,
+  "w_matched": 94
+ },
+ {
+  "tag": "26b",
+  "task": "pr_014",
+  "stop": 4,
+  "w_early": 156,
+  "w_full": 199,
+  "w_matched": 156
+ },
+ {
+  "tag": "26b",
+  "task": "edu_005",
+  "stop": 3,
+  "w_early": 236,
+  "w_full": 318,
+  "w_matched": 224
+ },
+ {
+  "tag": "12b",
+  "task": "tech_035",
+  "stop": 3,
+  "w_early": 477,
+  "w_full": 714,
+  "w_matched": 477
+ },
+ {
+  "tag": "26b",
+  "task": "tech_022",
+  "stop": 3,
+  "w_early": 199,
+  "w_full": 275,
+  "w_matched": 194
+ },
+ {
+  "tag": "26b",
+  "task": "hr_031",
+  "stop": 3,
+  "w_early": 547,
+  "w_full": 709,
+  "w_matched": 530
+ },
+ {
+  "tag": "12b",
+  "task": "int_026",
+  "stop": 3,
+  "w_early": 411,
+  "w_full": 587,
+  "w_matched": 408
+ },
+ {
+  "tag": "12b",
+  "task": "pr_006",
+  "stop": 3,
+  "w_early": 203,
+  "w_full": 281,
+  "w_matched": 191
+ },
+ {
+  "tag": "12b",
+  "task": "edu_020",
+  "stop": 3,
+  "w_early": 218,
+  "w_full": 285,
+  "w_matched": 216
+ },
+ {
+  "tag": "12b",
+  "task": "int_002",
+  "stop": 3,
+  "w_early": 398,
+  "w_full": 554,
+  "w_matched": 396
+ },
+ {
+  "tag": "12b",
+  "task": "hr_014",
+  "stop": 3,
+  "w_early": 523,
+  "w_full": 659,
+  "w_matched": 517
+ },
+ {
+  "tag": "12b",
+  "task": "hr_008",
+  "stop": 3,
+  "w_early": 429,
+  "w_full": 578,
+  "w_matched": 416
+ },
+ {
+  "tag": "12b",
+  "task": "edu_025",
+  "stop": 3,
+  "w_early": 531,
+  "w_full": 697,
+  "w_matched": 529
+ },
+ {
+  "tag": "26b",
+  "task": "gov_014",
+  "stop": 3,
+  "w_early": 164,
+  "w_full": 248,
+  "w_matched": 157
+ },
+ {
+  "tag": "12b",
+  "task": "cs_043",
+  "stop": 3,
+  "w_early": 280,
+  "w_full": 381,
+  "w_matched": 255
+ },
+ {
+  "tag": "12b",
+  "task": "mkt_014",
+  "stop": 3,
+  "w_early": 229,
+  "w_full": 315,
+  "w_matched": 195
+ },
+ {
+  "tag": "26b",
+  "task": "int_006",
+  "stop": 5,
+  "w_early": 199,
+  "w_full": 275,
+  "w_matched": 193
+ },
+ {
+  "tag": "26b",
+  "task": "cs_027",
+  "stop": 3,
+  "w_early": 377,
+  "w_full": 514,
+  "w_matched": 373
+ },
+ {
+  "tag": "12b",
+  "task": "pr_010",
+  "stop": 3,
+  "w_early": 279,
+  "w_full": 416,
+  "w_matched": 272
+ },
+ {
+  "tag": "12b",
+  "task": "biz_009",
+  "stop": 3,
+  "w_early": 371,
+  "w_full": 497,
+  "w_matched": 346
+ },
+ {
+  "tag": "12b",
+  "task": "edu_036",
+  "stop": 3,
+  "w_early": 258,
+  "w_full": 346,
+  "w_matched": 240
+ },
+ {
+  "tag": "26b",
+  "task": "cs_019",
+  "stop": 3,
+  "w_early": 222,
+  "w_full": 355,
+  "w_matched": 207
+ },
+ {
+  "tag": "26b",
+  "task": "biz_026",
+  "stop": 3,
+  "w_early": 287,
+  "w_full": 394,
+  "w_matched": 276
+ },
+ {
+  "tag": "12b",
+  "task": "biz_050",
+  "stop": 3,
+  "w_early": 736,
+  "w_full": 1043,
+  "w_matched": 722
+ },
+ {
+  "tag": "26b",
+  "task": "acad_045",
+  "stop": 4,
+  "w_early": 229,
+  "w_full": 308,
+  "w_matched": 229
+ },
+ {
+  "tag": "12b",
+  "task": "int_014",
+  "stop": 3,
+  "w_early": 288,
+  "w_full": 551,
+  "w_matched": 232
+ },
+ {
+  "tag": "12b",
+  "task": "hr_020",
+  "stop": 3,
+  "w_early": 433,
+  "w_full": 611,
+  "w_matched": 426
+ },
+ {
+  "tag": "26b",
+  "task": "edu_015",
+  "stop": 3,
+  "w_early": 164,
+  "w_full": 286,
+  "w_matched": 132
+ },
+ {
+  "tag": "12b",
+  "task": "edu_027",
+  "stop": 3,
+  "w_early": 515,
+  "w_full": 718,
+  "w_matched": 513
+ },
+ {
+  "tag": "12b",
+  "task": "biz_039",
+  "stop": 3,
+  "w_early": 271,
+  "w_full": 348,
+  "w_matched": 241
+ },
+ {
+  "tag": "12b",
+  "task": "hr_030",
+  "stop": 3,
+  "w_early": 268,
+  "w_full": 400,
+  "w_matched": 250
+ },
+ {
+  "tag": "26b",
+  "task": "biz_024",
+  "stop": 3,
+  "w_early": 294,
+  "w_full": 455,
+  "w_matched": 280
+ },
+ {
+  "tag": "12b",
+  "task": "acad_038",
+  "stop": 3,
+  "w_early": 369,
+  "w_full": 488,
+  "w_matched": 345
+ },
+ {
+  "tag": "26b",
+  "task": "int_041",
+  "stop": 3,
+  "w_early": 188,
+  "w_full": 271,
+  "w_matched": 187
+ },
+ {
+  "tag": "12b",
+  "task": "tech_041",
+  "stop": 3,
+  "w_early": 297,
+  "w_full": 516,
+  "w_matched": 228
+ },
+ {
+  "tag": "12b",
+  "task": "tech_025",
+  "stop": 3,
+  "w_early": 206,
+  "w_full": 311,
+  "w_matched": 196
+ },
+ {
+  "tag": "26b",
+  "task": "biz_041",
+  "stop": 3,
+  "w_early": 259,
+  "w_full": 381,
+  "w_matched": 248
+ },
+ {
+  "tag": "12b",
+  "task": "hr_004",
+  "stop": 3,
+  "w_early": 352,
+  "w_full": 514,
+  "w_matched": 339
+ },
+ {
+  "tag": "12b",
+  "task": "mkt_027",
+  "stop": 3,
+  "w_early": 249,
+  "w_full": 325,
+  "w_matched": 249
+ },
+ {
+  "tag": "12b",
+  "task": "int_035",
+  "stop": 3,
+  "w_early": 251,
+  "w_full": 434,
+  "w_matched": 249
+ },
+ {
+  "tag": "12b",
+  "task": "pr_031",
+  "stop": 5,
+  "w_early": 242,
+  "w_full": 306,
+  "w_matched": 204
+ },
+ {
+  "tag": "12b",
+  "task": "acad_042",
+  "stop": 3,
+  "w_early": 301,
+  "w_full": 469,
+  "w_matched": 288
+ }
+]
