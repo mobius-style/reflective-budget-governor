@@ -5,7 +5,7 @@ data and analysis package for the paper:
 
 > Toeda, T. (2026). *The Reflective Budget Governor: Equilibrium-Based
 > Early Stopping for Iterative LLM Refinement.* Zenodo.
-> https://doi.org/10.5281/zenodo.22031366 (concept DOI; v1.0 = 22031367, v1.1 = 22844856)
+> https://doi.org/10.5281/zenodo.22031366 (concept DOI; v1.0 = 22031367, v1.1 = 22844856, v1.2 = 22845407)
 
 A three-signal stopping rule (RZGM-derived equilibrium distance d̂_R,
 RHL-derived loop/saturation detectors, MUSE-derived hard reflection cap)
@@ -28,6 +28,17 @@ loss rate). It is a measured two-point dial, not free savings.
 - `fourth_signal/` — pre-registered repetition-ratio guard evaluation
   (PREREG.md committed before data; verdict GO: 2/2 real, 200/200 synthetic,
   0/960 held-out, 0/60 stress, 0/7,998 retrospective false alarms).
+
+## Version 1.2 additions (2026-09-19)
+
+- `length_control/` — length-stratified reanalysis of the 621 judged governor
+  pairs (loss 92% → 16.1% from large to near-equal length gaps; 31 vs 4 at
+  matched length).
+- `fourth_signal/heldout_*` — held-out replication on 60 new tasks (34.5% /
+  34.5% reduction; 31.7% / 36.7% loss).
+- `fourth_signal/governor_online.py`, `online_12b.jsonl` — incremental
+  four-signal governor (0 mismatches on 1,000 chains) run as a genuine online
+  loop on the held-out tasks (319/480 iterations generated).
 
 ## Contents
 
