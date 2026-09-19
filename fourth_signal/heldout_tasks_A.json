@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ho_business_01",
+    "domain": "business",
+    "instruction": "As an internal company memo proposing a four-day workweek pilot, improve clarity, persuasiveness, and structure.",
+    "seed": "Subject: New Work Schedule Idea. Hi team, I wanted to bring up something we've been thinking about. Some companies have tried giving employees an extra day off each week and it seems to work out well for them. We think we could maybe try this too and see what happens. There could be benefits like people being happier and maybe getting more done. Of course there are also some downsides like customers might not be able to reach us as often. We would need to figure out a lot of details before doing this. Let me know your thoughts on this whenever you get a chance. Thanks."
+  },
+  {
+    "id": "ho_business_02",
+    "domain": "business",
+    "instruction": "As a vendor contract renewal recommendation memo for an office cleaning service, improve specificity, evidence-based reasoning, and actionability.",
+    "seed": "This memo is about the cleaning company we use. They have been fine overall this year. There were a few issues here and there but nothing too major. Other companies exist that might charge less or do a better job, we're not totally sure. Renewing the contract seems like the easy choice since switching vendors takes effort and might cause problems. The current price is going up a bit next year but that's probably normal. We should decide soon because the contract ends at some point soon. Please review and let me know if you have concerns before we move forward with whatever decision makes sense."
+  },
+  {
+    "id": "ho_business_03",
+    "domain": "business",
+    "instruction": "As a company-wide policy announcement introducing a home internet stipend for remote employees, improve clarity, structure, and completeness.",
+    "seed": "We are making a change to how expenses work for people working from home. Basically there will be some money available to help with internet costs since a lot of people asked about this. The amount hasn't been fully decided yet but it will be a monthly thing probably. You will need to submit something to get reimbursed, details on that are still being worked out. This should apply to most remote employees but there might be exceptions depending on your situation. We think this is a good change and hope people are happy about it. More information will come later once things are finalized on our end."
+  },
+  {
+    "id": "ho_business_04",
+    "domain": "business",
+    "instruction": "As a board memo recommending relocation of a regional warehouse, improve structural organization, data specificity, and risk analysis.",
+    "seed": "The current warehouse has some issues that have come up over the past year or so. Rent keeps going up and the building is kind of old, plus it's not in the best location for shipping things out quickly. We looked at a couple of other cities that might work better, though we haven't finished comparing all the options. Moving would obviously cost money and take time, and there's some risk that things could go wrong during the transition period. Overall it seems like relocating could be a good move for the company long term, but the board should weigh in before we commit to anything specific."
+  },
+  {
+    "id": "ho_business_05",
+    "domain": "business",
+    "instruction": "As an internal post-mortem report on a failed kitchen appliance launch, improve root-cause analysis, honesty, and actionable recommendations.",
+    "seed": "Our new countertop appliance didn't sell as well as we hoped this quarter. There were a few reasons this might have happened, like maybe the price was too high or the marketing wasn't quite right. Some customers also mentioned issues with how it worked but it's hard to say how widespread that was. We probably could have tested things more before launching. Going forward we should try to do better research and maybe listen to feedback earlier in the process. It's a learning experience for the team and we'll try to apply lessons to future products so this doesn't happen again in the same way."
+  },
+  {
+    "id": "ho_business_06",
+    "domain": "business",
+    "instruction": "As an employee onboarding checklist for new manufacturing plant hires, improve completeness, sequencing, and clarity of instructions.",
+    "seed": "New employees should do a bunch of things when they start. First they need paperwork done, HR handles that. Then there's safety stuff, probably a video or training session of some kind. Someone should show them around the plant floor at some point. They'll also need to meet their supervisor and get equipment like a badge and safety gear. There are various systems they might need access to depending on their role. It would help if all this happened in the first week or so but sometimes things get delayed. Managers should make sure new hires feel welcome and know who to ask questions."
+  },
+  {
+    "id": "ho_technical_01",
+    "domain": "technical",
+    "instruction": "As a technical design document for an API rate-limiting system, improve precision, structure, and technical completeness.",
+    "seed": "We need to add rate limiting to our API because some users are calling it too much. The idea is to limit how many requests someone can make in a period of time. We could use some kind of counter or token system, there are a few common approaches out there. When someone goes over the limit we should send back an error of some kind. We also need to think about how this affects different types of users, like maybe some should get higher limits. This will need to be built into the existing API gateway somehow. More design details will need to be worked out before implementation starts."
+  },
+  {
+    "id": "ho_technical_02",
+    "domain": "technical",
+    "instruction": "As an incident postmortem report on a failed database failover, improve timeline accuracy, root-cause depth, and remediation specificity.",
+    "seed": "Last week our database had some issues during a failover event and things didn't go smoothly. The system was supposed to switch to the backup automatically but it took a while longer than expected, causing some downtime for users. We're not totally sure why it took so long, might be related to configuration or network stuff. The team responded once they noticed and got things back up eventually. We should probably look into making the failover process more reliable going forward. Some monitoring improvements might also help catch this kind of thing sooner next time it happens."
+  },
+  {
+    "id": "ho_technical_03",
+    "domain": "technical",
+    "instruction": "As a README file for an open-source CLI subtitle conversion tool, improve clarity, usage instructions, and completeness.",
+    "seed": "This is a tool for converting subtitle files between formats. You can install it and then run it on your files. It supports a few common subtitle formats that people use for videos. There are some options you can pass when running it but they aren't all documented yet. It should work on most operating systems, though it's mainly been tested on one. If something goes wrong there isn't much error handling right now so it might just fail silently. Contributions are welcome, feel free to open an issue or pull request if you find bugs or want to add features to the project."
+  },
+  {
+    "id": "ho_technical_04",
+    "domain": "technical",
+    "instruction": "As an architecture proposal for migrating an inventory monolith to microservices, improve technical justification, risk assessment, and migration sequencing.",
+    "seed": "Our inventory system is one big application and it's getting harder to maintain as it grows. We think splitting it into smaller services could help with scalability and let teams work more independently. This would involve breaking apart the database and the code into separate pieces somehow. There are risks involved since this is a pretty big change and things could break during the transition. It would probably take a while to do properly, maybe a few quarters. We'd need buy-in from multiple teams since it affects a lot of existing functionality across the company's systems."
+  },
+  {
+    "id": "ho_technical_05",
+    "domain": "technical",
+    "instruction": "As a code review checklist for a mobile app engineering team, improve specificity, prioritization, and coverage of edge cases.",
+    "seed": "When reviewing code, check that it looks reasonable and follows our general style. Make sure tests are included if it makes sense for the change. Look for obvious bugs or things that seem off. Performance should be considered especially for anything that runs often. Security is also important though we don't have a formal process for checking it yet. Reviewers should leave comments if they see problems and approve once things look good enough. It's fine to ask the author questions if something is unclear rather than guessing what they meant by the code."
+  },
+  {
+    "id": "ho_technical_06",
+    "domain": "technical",
+    "instruction": "As an operational runbook for rotating TLS certificates on production servers, improve step-by-step precision, error handling, and verification steps.",
+    "seed": "When certificates are close to expiring, someone needs to rotate them before they cause problems. Generate a new certificate using whatever process we normally use, then get it signed by the certificate authority. After that it needs to be deployed to the relevant servers, which might require restarting some services. It's a good idea to check that everything still works after the change. If something breaks, we can probably roll back to the old certificate as long as it hasn't fully expired yet. This should be done a few weeks before expiration to be safe."
+  },
+  {
+    "id": "ho_marketing_01",
+    "domain": "marketing",
+    "instruction": "As launch email copy for a monthly houseplant subscription box, improve persuasive voice, structure, and call-to-action clarity.",
+    "seed": "Hey there! We're excited to tell you about our new plant box thing we're launching soon. Every month you'll get a plant delivered to your house, which is pretty cool if you like plants. It comes with some care instructions and maybe a pot or other stuff depending on the month. Plants are good for your home and can make it feel nicer. We think people will really like getting a surprise plant each month. Sign up if you're interested, there are different plan options available. Thanks for reading and we hope you consider joining our plant community soon."
+  },
+  {
+    "id": "ho_marketing_02",
+    "domain": "marketing",
+    "instruction": "As a social media caption strategy document for a boutique bicycle shop, improve brand voice consistency, platform-specific guidance, and content variety.",
+    "seed": "For social media we should post about bikes and stuff happening at the shop. Captions should sound friendly and not too salesy. We can post pictures of new bikes when they come in, maybe some customer photos too if people share them. Sometimes we could do posts about biking tips or local rides happening in the area. It's good to post regularly, maybe a few times a week, though the exact schedule isn't set yet. Hashtags could help people find us but we haven't figured out which ones work best. Overall just try to keep it fun and on brand."
+  },
+  {
+    "id": "ho_marketing_03",
+    "domain": "marketing",
+    "instruction": "As landing page copy for a meal-prep delivery service, improve conversion-focused structure, specificity, and emotional appeal.",
+    "seed": "Tired of cooking every night? We deliver meals to your door so you don't have to worry about it. Our food is made with good ingredients and tastes pretty good according to customers. You can choose from a variety of meals each week depending on what you like. It's a convenient option for busy people who don't have a lot of time. Pricing depends on how many meals you order. Sign up today and start getting meals delivered soon. We think you'll enjoy the convenience and the food once you give it a try."
+  },
+  {
+    "id": "ho_marketing_04",
+    "domain": "marketing",
+    "instruction": "As a press release announcing a museum's new exhibit, improve newsworthiness, structure, and quotable detail.",
+    "seed": "The museum is opening a new exhibit soon that people might find interesting. It will feature various items related to the exhibit's theme, some of which are on loan from other places. The exhibit will be open during regular museum hours starting sometime next month. There will probably be some kind of opening event, details still being planned. Museum staff are excited about bringing this exhibit to the public and think visitors of all ages will enjoy it. Tickets can be purchased at the museum or online. More information will be available on the museum's website closer to the opening date."
+  },
+  {
+    "id": "ho_marketing_05",
+    "domain": "marketing",
+    "instruction": "As an e-commerce product description for noise-cancelling headphones, improve sensory detail, benefit-driven language, and scannability.",
+    "seed": "These headphones block out noise pretty well and sound good too. They're comfortable to wear for a while and the battery lasts a decent amount of time before needing a charge. You can connect them to your phone or other devices without much hassle. The design looks nice and comes in a couple of color options. They're good for things like flights, commuting, or just working somewhere noisy. Overall a solid pair of headphones for the price, with useful features that most people looking for noise cancelling headphones would probably appreciate having available to them."
+  },
+  {
+    "id": "ho_marketing_06",
+    "domain": "marketing",
+    "instruction": "As an outreach email pitching a sustainable clothing brand to a lifestyle influencer, improve personalization, value proposition clarity, and professional tone.",
+    "seed": "Hi, I hope this message finds you well. We are a clothing brand that focuses on sustainability and we think you might be a good fit to work with us. We noticed you post about fashion sometimes and thought our products could be interesting to your followers. We'd love to send you some items if you're open to that, and maybe you could post about them if you like them. We're a smaller brand so we can't offer huge budgets right now but we're hoping to build a relationship over time. Let us know if you'd be interested in learning more."
+  },
+  {
+    "id": "ho_academic_01",
+    "domain": "academic",
+    "instruction": "As an abstract for a research paper on urban heat island mitigation, improve precision of claims, methodological detail, and concision.",
+    "seed": "Cities tend to be hotter than surrounding rural areas, which is a problem known as the urban heat island effect. This paper looks at some ways that this effect might be reduced, such as adding more green space or changing building materials. We reviewed a number of studies and also did some analysis of our own using data from a few cities. Results suggest that certain interventions can help lower temperatures somewhat, though the amount varies depending on local conditions. We discuss implications for urban planning and suggest that more research is needed to understand which strategies work best in different contexts."
+  },
+  {
+    "id": "ho_academic_02",
+    "domain": "academic",
+    "instruction": "As a literature review section on the relationship between gut microbiome composition and mood disorders, improve synthesis, citation specificity, and critical analysis.",
+    "seed": "There has been growing interest in how the gut microbiome might relate to mood and mental health. Several studies have looked into this connection and found some interesting associations, though results vary across different research groups. Some researchers think certain bacteria might influence mood through various biological pathways, while others are more skeptical about how strong this connection really is. Animal studies have shown some effects but it's not clear how well this translates to humans. Overall the field is still developing and more research will likely help clarify the relationship between gut health and mood over time."
+  },
+  {
+    "id": "ho_academic_03",
+    "domain": "academic",
+    "instruction": "As a methodology section for a survey study on remote work productivity, improve procedural transparency, justification of design choices, and statistical rigor.",
+    "seed": "We conducted a survey to look at remote work productivity. Participants were recruited through various online channels and asked to fill out a questionnaire about their work habits. The survey included questions about things like hours worked, distractions, and self-reported productivity levels. We got a decent number of responses over the collection period. Data was analyzed using standard statistical methods to look for patterns and relationships between variables. Some limitations exist with this approach, such as relying on self-reported data, which we discuss later in the paper along with other methodological considerations worth noting."
+  },
+  {
+    "id": "ho_academic_04",
+    "domain": "academic",
+    "instruction": "As a grant proposal project summary for a coral reef restoration initiative, improve impact framing, feasibility evidence, and budget justification.",
+    "seed": "This project aims to help restore coral reefs that have been damaged in recent years due to various environmental pressures. We plan to use some established restoration techniques, like growing coral fragments and transplanting them to damaged areas. The team has relevant experience in marine biology and has worked on similar projects before. Funding would support things like equipment, staff time, and monitoring efforts over the project period. We believe this work could have a positive impact on local ecosystems and potentially inform restoration efforts elsewhere. A detailed timeline and budget breakdown are included in later sections of this proposal."
+  },
+  {
+    "id": "ho_academic_05",
+    "domain": "academic",
+    "instruction": "As a conference talk abstract on a new quantum error correction approach, improve technical specificity, contribution clarity, and audience framing.",
+    "seed": "Quantum computers face challenges related to errors that occur during computation. This talk discusses an approach we've been working on that might help address some of these error issues. We describe the general idea behind the method and share some preliminary results from testing it. Compared to existing approaches, ours seems to offer some advantages in certain situations, though more work is needed to fully understand its limitations. We think this could be useful for people working on quantum hardware or algorithms who are interested in improving reliability. Feedback and discussion during the talk would be welcome from attendees."
+  },
+  {
+    "id": "ho_academic_06",
+    "domain": "academic",
+    "instruction": "As a response letter to peer reviewers of a submitted sociology paper, improve point-by-point responsiveness, tone of collegial rigor, and clarity of revisions made.",
+    "seed": "Thank you for reviewing our paper. We appreciate the comments from both reviewers and have made some changes based on their feedback. Reviewer one had concerns about the methodology section, which we've tried to clarify somewhat. Reviewer two suggested we look at additional literature, and we added a few more references to address this. We also fixed some minor issues throughout the paper like wording and formatting. We hope these changes address the reviewers' concerns adequately and look forward to hearing back about the revised version of our manuscript."
+  },
+  {
+    "id": "ho_public_01",
+    "domain": "public",
+    "instruction": "As a city council public notice about upcoming bike lane construction, improve clarity, actionable detail, and resident-focused tone.",
+    "seed": "The city will be doing some construction work related to bike lanes on a few streets starting soon. This might cause some disruption for people driving, walking, or biking in the area during the construction period. The project is part of an effort to make streets safer and more accessible for cyclists. Work is expected to take some time to complete, though the exact schedule may change depending on various factors. Residents with questions can contact the city for more information. We appreciate everyone's patience while this work is being done and hope the end result will benefit the community."
+  },
+  {
+    "id": "ho_public_02",
+    "domain": "public",
+    "instruction": "As a public health department advisory about seasonal flu vaccination, improve clarity, urgency calibration, and accessibility of information.",
+    "seed": "Flu season is coming up again and health officials recommend people think about getting vaccinated. The vaccine is available at various locations like clinics and pharmacies around the area. It's generally a good idea for most people to get it, especially those who might be more at risk. Vaccination can help reduce the chances of getting sick or spreading illness to others. Some people may have questions about cost or where to go, and that information can usually be found through local health resources. Getting vaccinated earlier in the season is often recommended rather than waiting too long."
+  },
+  {
+    "id": "ho_public_03",
+    "domain": "public",
+    "instruction": "As a public library announcement about extended hours during exam season, improve specificity, structure, and community relevance.",
+    "seed": "The library will be open later than usual for a while because it's exam season and students need more time to study. This will apply to some of our branches, though maybe not all of them depending on staffing. Extra hours will probably start soon and continue for a few weeks. We think this will help students who need a quiet place to study outside of their regular routine. Regular library services will still be available during these hours. Please check with your local branch if you have questions about specific hours or availability during this period."
+  },
+  {
+    "id": "ho_public_04",
+    "domain": "public",
+    "instruction": "As a neighborhood association newsletter update about a community garden project, improve engagement, structure, and clarity of volunteer calls-to-action.",
+    "seed": "Some neighbors have been working on a community garden project in the empty lot near the park. Things are coming along, though there's still a good amount of work left to do before it's really usable. Volunteers have helped with things like clearing the area and planning what to grow. More help would be appreciated if anyone has time to pitch in on weekends. There might be a meeting soon to discuss next steps, details to be announced. We think this could be a nice addition to the neighborhood once it's finished and hope more people get involved."
+  },
+  {
+    "id": "ho_public_05",
+    "domain": "public",
+    "instruction": "As a school district notice explaining a new policy for handling snow-day schedule changes, improve clarity, parental actionability, and structure.",
+    "seed": "The district has been thinking about how we handle days when weather causes schedule changes. In the past this has caused some confusion for families. We're planning to update how these decisions get communicated going forward. This might involve things like earlier notifications or additional remote learning options on affected days, though details are still being finalized. Families should keep an eye out for further communication as the policy gets finalized closer to winter. We appreciate everyone's flexibility with this and want to make things as smooth as possible for students and families during weather-related disruptions."
+  },
+  {
+    "id": "ho_public_06",
+    "domain": "public",
+    "instruction": "As a public transit authority announcement introducing a new bus route, improve rider-facing clarity, structure, and practical detail.",
+    "seed": "The transit authority is adding a new bus route to help connect some parts of the city that haven't had great service before. The route will start running at some point in the near future, with stops along a path that covers a few neighborhoods. Buses will run at certain times of day, schedule details are still being worked out. We think this will be helpful for people who need better options for getting around without a car. Riders can check the transit website for updates as more information becomes available closer to the launch date of the new route."
+  }
+]

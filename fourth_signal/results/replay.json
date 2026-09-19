@@ -1,0 +1,29 @@
+{
+ "12b": {
+  "chains_changed": 0,
+  "changed": [],
+  "tokens": {
+   "A": 3076576,
+   "three_signal": 1714164,
+   "four_signal": 1714164
+  }
+ },
+ "26b": {
+  "chains_changed": 1,
+  "changed": [
+   {
+    "task": "hr_027",
+    "stop3": 6,
+    "reason3": "equilibrium_d_r",
+    "stop4": 6,
+    "returned4": 5,
+    "reason4": "repetition_guard_rollback"
+   }
+  ],
+  "tokens": {
+   "A": 2893461,
+   "three_signal": 1724595,
+   "four_signal": 1724595
+  }
+ }
+}

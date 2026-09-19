@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ho_customer_support_01",
+    "domain": "customer_support",
+    "instruction": "As a customer support email responding to a passenger about delayed baggage, improve clarity, empathy, and actionable next steps.",
+    "seed": "Thank you for contacting us about your bag. We understand delays are not good and we are sorry about that. Your bag is somewhere in the system and our team is looking into it. Sometimes bags get delayed because of connections or weather or other issues. We will try to get it to you when we can. You can check the status online but it might not be updated all the time. If you need to buy things because you don't have your bag you can maybe get some money back later but we need receipts and stuff. Please let us know if you have more questions and we will help however we can. Thanks for flying with us and sorry again for the trouble."
+  },
+  {
+    "id": "ho_customer_support_02",
+    "domain": "customer_support",
+    "instruction": "As a customer support chat reply about a confusing subscription downgrade, improve precision, structure, and reassurance.",
+    "seed": "Hi there, so about your plan change, it looks like there was some stuff that happened with the downgrade. Basically when you switch plans things can get mixed up with billing dates and features you had before. It's a bit complicated on our end. Your account should update eventually but it might take a cycle or two to fully show the right plan. Some features may still show up even though you downgraded, that's normal for now. If you get charged the old amount don't worry we can look into refunds later. Let us know if something looks really wrong and we'll check it out when we get a chance. Sorry for any confusion this caused you."
+  },
+  {
+    "id": "ho_customer_support_03",
+    "domain": "customer_support",
+    "instruction": "As a customer support apology message for a wrong food delivery order, improve specificity, ownership, and resolution clarity.",
+    "seed": "Hello, we saw that your order was not right. That's not what we want to happen for our customers. Mistakes happen sometimes in the kitchen or with the driver mixing things up. We are sorry about that and want you to know we take this seriously. We can maybe offer something to make up for it depending on what happened. Please give us a bit more info if you can so we can look into it further. We value you as a customer and hope this doesn't stop you from ordering with us again. Our team is working on things to make orders more accurate going forward. Thanks for your patience while we sort this out."
+  },
+  {
+    "id": "ho_customer_support_04",
+    "domain": "customer_support",
+    "instruction": "As a customer support status update posted during a regional internet outage, improve transparency, specificity, and structure.",
+    "seed": "We know some of you are having trouble with your internet right now. Our team is aware of the issue and is working on it. There could be a few reasons this is happening, like equipment problems or weather related stuff in the area. We don't have an exact time for when it will be fixed but we are trying our best to get things back up as soon as possible. We appreciate your patience during this time. You can keep checking our page for updates although we might not post very often. If you have urgent needs please try to find another way to connect for now. Sorry for the inconvenience this is causing everyone."
+  },
+  {
+    "id": "ho_customer_support_05",
+    "domain": "customer_support",
+    "instruction": "As a customer support letter explaining a denied warranty claim, improve clarity, justification, and tone.",
+    "seed": "We reviewed your warranty claim and unfortunately we are not able to approve it at this time. There were some things about the situation that didn't line up with what our warranty covers. This can happen for different reasons depending on how the product was used or other factors we look at during review. We know this isn't the answer you wanted to hear and we understand that can be frustrating. If you think there was a mistake you can always reach out again and someone will take another look eventually. We do value you as a customer even though this particular claim didn't work out. Thank you for understanding and let us know if there's anything else."
+  },
+  {
+    "id": "ho_customer_support_06",
+    "domain": "customer_support",
+    "instruction": "As a customer support help-center reply to a user locked out after failed two-factor login attempts, improve step clarity, security tone, and reassurance.",
+    "seed": "Sorry to hear you're locked out. This kind of thing happens sometimes when the codes don't match up right or there were too many tries in a row. Our system does this to keep accounts safe so it's actually a good thing in a way. You should be able to get back in eventually but it might take some steps. There are ways to verify who you are and get things unlocked, we can walk you through it if needed. Just make sure you have access to whatever you used to set up your account originally. If none of that works there might be other options but it depends on your situation. Let us know how it goes."
+  },
+  {
+    "id": "ho_internal_01",
+    "domain": "internal",
+    "instruction": "As internal meeting notes shared after a cross-team sync, improve organization, actionability, and ownership clarity.",
+    "seed": "We had the meeting today with people from a few different teams. Lots of things were discussed including some updates and some concerns people had. There was talk about timelines and how things are going generally, some stuff is on track and some stuff is a bit behind. A few people mentioned they need more resources or help from other teams to keep moving forward. We agreed to keep talking about this and figure out next steps soon. Someone will probably follow up on the action items although it wasn't totally clear who. Overall it was a productive discussion and we should meet again at some point to check progress."
+  },
+  {
+    "id": "ho_internal_02",
+    "domain": "internal",
+    "instruction": "As an internal wiki page describing remote-work equipment policy, improve specificity, scannability, and completeness.",
+    "seed": "This page is about equipment for people working remotely. Employees can get some stuff for their home setup depending on their role and what they need. There's a process for requesting things but it can take a while sometimes. Generally the company tries to help out with reasonable requests but there are limits on what's covered. If something breaks you should probably tell someone but the exact process isn't always clear. Returning equipment when you leave the company is also a thing that needs to happen. If you have questions about any of this you can reach out to the appropriate team and they'll try to help you figure it out."
+  },
+  {
+    "id": "ho_internal_03",
+    "domain": "internal",
+    "instruction": "As an internal post-incident retrospective summary for a server outage, improve root-cause clarity, timeline precision, and follow-up accountability.",
+    "seed": "So we had an outage last week that affected some users. It took a while to figure out what was going on and eventually the team got things back up and running. There were a few different factors that probably contributed to it happening, and some monitoring gaps that made it harder to catch early. We talked about what went wrong in a meeting and people had different ideas about the root cause. Going forward we should probably fix some of the issues that came up so this doesn't happen again. A few action items were mentioned but we still need to assign owners and deadlines. Overall the team responded reasonably well given the circumstances."
+  },
+  {
+    "id": "ho_internal_04",
+    "domain": "internal",
+    "instruction": "As an internal company-wide announcement about an upcoming office relocation, improve clarity, logistics detail, and reassurance.",
+    "seed": "We wanted to let everyone know that the office situation is changing soon. The company has decided to move to a new location which should be better in some ways. There will be more details coming about timing and how the move will actually work. We know change like this can be stressful for people so we want to make sure everyone has what they need during the transition. Parking and commute situations might be different at the new place, we're still looking into that. IT will help make sure things keep working during the move. More information will be shared as we get closer to the actual date, thanks for your patience."
+  },
+  {
+    "id": "ho_internal_05",
+    "domain": "internal",
+    "instruction": "As an internal project status update email to stakeholders, improve concreteness, risk visibility, and decision-readiness.",
+    "seed": "Just wanted to give an update on where things stand with the project. Overall progress is happening, some parts are moving faster than others. We ran into a few issues along the way but the team has been working through them. Timeline is still roughly what we expected although there could be some shifts depending on how the next phase goes. Budget seems okay for now but we're keeping an eye on it. There are a couple of decisions that might need to be made soon but nothing urgent yet. Let us know if you have questions or want more detail on any part of this, happy to discuss further whenever works."
+  },
+  {
+    "id": "ho_internal_06",
+    "domain": "internal",
+    "instruction": "As an internal FAQ document explaining PTO carryover rules, improve precision, example clarity, and structure.",
+    "seed": "A lot of people ask about what happens to their time off at the end of the year. Basically there's a limit on how much you can carry over but it depends on a few factors. If you have more than the allowed amount it might get handled in different ways depending on your situation. The exact numbers can change so it's good to check with HR if you're not sure. Some employees are also eligible for different rules based on tenure or location, which makes things a little more complicated. If you're planning time off near the end of the year it's probably smart to think about this stuff ahead of time so you don't lose anything."
+  },
+  {
+    "id": "ho_education_01",
+    "domain": "education",
+    "instruction": "As a syllabus introduction for an online introductory statistics course, improve structure, expectation-setting, and student motivation.",
+    "seed": "Welcome to the course. This class is about statistics and we will cover a bunch of topics over the semester. Some weeks will be harder than others depending on the material. There will be assignments and some kind of tests, details on those are coming later. You should try to keep up with the readings although the pace might vary. Participation matters to some degree but it's not the biggest part of your grade. If you have questions you can reach out during office hours or by email, response times may vary depending on how busy things get. Overall I hope this class is useful for you and that you learn something valuable about statistics by the end."
+  },
+  {
+    "id": "ho_education_02",
+    "domain": "education",
+    "instruction": "As a parent newsletter announcing an upcoming school field trip, improve logistical clarity, tone, and completeness.",
+    "seed": "We are excited to let you know that the students will be going on a field trip soon. This is a fun opportunity for them to learn outside the classroom. There will be some forms that need to be sent back but we'll get those out at some point. Transportation is being arranged and should be fine. Students should probably bring some things with them but we haven't finalized the full list yet. There may be a small cost involved depending on how things work out this year. We'll share more details as the date gets closer, thank you for your support and please let us know if you have any concerns about the trip."
+  },
+  {
+    "id": "ho_education_03",
+    "domain": "education",
+    "instruction": "As a study guide for an upcoming history exam, improve topic specificity, organization, and usefulness for review.",
+    "seed": "This exam will cover material from the semester so far. Make sure you review your notes and the readings since there's a lot of ground covered. Some topics are more important than others but pretty much everything could show up in some form. There will probably be different types of questions, so studying in different ways might help you prepare better. Dates and names tend to matter a lot in history so keep that in mind while reviewing. If you studied throughout the semester you should be in decent shape, but a review closer to the exam is still a good idea. Good luck and let me know if you have questions before the test."
+  },
+  {
+    "id": "ho_education_04",
+    "domain": "education",
+    "instruction": "As an onboarding guide for newly hired teaching assistants, improve role clarity, procedural detail, and confidence-building tone.",
+    "seed": "Welcome to the team, we're glad to have you helping out this semester. As a TA there are various responsibilities you'll take on throughout the term. You'll probably help with grading and maybe some office hours, exact expectations can vary by course. It's a good idea to communicate with the instructor about what they need from you since every class is a little different. Students might reach out with questions and you should try to be helpful when that happens. There are some university policies you should be aware of but we'll cover those at some point during training. If you're ever unsure about something just ask, everyone here is happy to support you as you get started."
+  },
+  {
+    "id": "ho_education_05",
+    "domain": "education",
+    "instruction": "As a rubric explanation shared with students for a writing assignment, improve criteria clarity, grading transparency, and actionable guidance.",
+    "seed": "Your essay will be graded based on a few different things. Content matters, so make sure what you write is relevant and makes sense. Organization is also considered, meaning the essay should flow reasonably well from one part to another. Grammar and spelling count too but they're not the only thing we look at. We also consider effort and whether you followed the assignment instructions in general. Each category is worth some portion of the grade although the exact breakdown might shift a bit depending on the assignment. If you're unsure how you're doing you can always ask for feedback before the final draft is due. We want everyone to do well on this assignment."
+  },
+  {
+    "id": "ho_education_06",
+    "domain": "education",
+    "instruction": "As a lesson plan summary for a middle-school science unit on ecosystems, improve learning-objective clarity, activity specificity, and assessment alignment.",
+    "seed": "This unit is about ecosystems and how living things interact with their environment. Students will learn various concepts related to this topic over the next few weeks. There will be some activities planned, including maybe a project or group work of some kind. We'll also cover vocabulary that's relevant to the subject so students can understand the material better. Assessments will happen at some point to check understanding, probably a mix of quizzes and a bigger assignment near the end. The goal is for students to come away with a general understanding of how ecosystems work and why they matter. More specific details will be shared as the unit progresses."
+  },
+  {
+    "id": "ho_hr_01",
+    "domain": "hr",
+    "instruction": "As a job posting for a data analyst position, improve specificity of responsibilities, qualifications, and appeal to candidates.",
+    "seed": "We are looking for a data analyst to join our team. This person will work with data and help the company make decisions based on it. Responsibilities include various tasks related to analysis, reporting, and other duties as needed. The ideal candidate should have some experience with relevant tools and a good analytical mindset. We are looking for someone who can work well with others and communicate findings clearly. Qualifications include a relevant degree or equivalent experience, exact requirements may vary. We offer competitive compensation and a good work environment. If this sounds like you, we'd love to hear from you and see if you might be a good fit for the role."
+  },
+  {
+    "id": "ho_hr_02",
+    "domain": "hr",
+    "instruction": "As a performance review feedback summary written for an employee, improve specificity, balance, and forward-looking guidance.",
+    "seed": "Overall this has been a decent period for you. You've done a good job with most of your responsibilities and the team generally seems happy with your work. There are some areas where things could improve a bit, nothing major but worth keeping in mind going forward. Communication is something that comes up sometimes as an area to work on, though it's not a huge issue. Your contributions to projects have been noticed and appreciated. Going forward it would be good to keep building on your strengths while also being mindful of the areas mentioned. We look forward to seeing your continued growth and appreciate everything you bring to the team."
+  },
+  {
+    "id": "ho_hr_03",
+    "domain": "hr",
+    "instruction": "As a new-hire welcome email sent before someone's first day, improve warmth, logistical clarity, and first-day readiness.",
+    "seed": "Welcome to the company, we're happy you're joining us soon. Your first day is coming up and we wanted to send some information ahead of time. There will be some paperwork to complete, details on that will come at some point. You should plan to arrive at a reasonable time although the exact schedule for the first day isn't fully finalized yet. Someone from the team will help you get oriented when you arrive. We'll make sure you have access to the things you need to do your job, though some of that might take a few days to fully set up. Let us know if you have any questions before your start date, we're looking forward to having you."
+  },
+  {
+    "id": "ho_hr_04",
+    "domain": "hr",
+    "instruction": "As an internal memo announcing an updated parental leave policy, improve clarity of eligibility, benefits detail, and empathetic tone.",
+    "seed": "We wanted to share some updates about the parental leave policy. The company has made changes that should be helpful for employees who are expecting or adding to their family. Eligibility depends on a few factors including how long you've been with the company. The amount of leave available has changed somewhat, exact details can be found in the updated documents which will be shared soon. Pay during leave works a certain way depending on the situation. We think these changes are a positive step and hope employees find them useful. If you have questions about how this applies to you specifically, reach out to HR and someone will help clarify things for your situation."
+  },
+  {
+    "id": "ho_hr_05",
+    "domain": "hr",
+    "instruction": "As an exit interview summary report compiled for leadership, improve thematic clarity, evidence specificity, and actionable recommendations.",
+    "seed": "We conducted an exit interview with a departing employee recently. Overall the feedback was mixed, with some positive comments and some areas of concern. The employee mentioned a few things about their experience on the team, including some frustrations that came up over time. Management style was brought up as a topic, along with some comments about workload and general team dynamics. The employee also said some nice things about their coworkers and certain aspects of the job they enjoyed. It's worth considering this feedback alongside other exit interviews to see if there are patterns worth addressing. We recommend keeping an eye on this going forward and maybe following up with the team at some point."
+  },
+  {
+    "id": "ho_hr_06",
+    "domain": "hr",
+    "instruction": "As an internal announcement introducing a new diversity hiring initiative, improve concreteness of goals, measurable commitments, and sincerity of tone.",
+    "seed": "We are excited to announce a new initiative focused on diversity in our hiring process. This is something the company has been thinking about for a while and we believe it's an important step. The initiative will involve some changes to how we recruit and evaluate candidates going forward. We hope this leads to a more diverse workplace over time, which we think benefits everyone. There will be some training involved for people who participate in hiring decisions. We'll share more updates as the initiative develops further. We appreciate everyone's support as we work toward building a more inclusive company culture together, and we welcome feedback along the way."
+  },
+  {
+    "id": "ho_pr_media_01",
+    "domain": "pr_media",
+    "instruction": "As a press release announcing a new product feature launch, improve newsworthiness, specificity, and quotable messaging.",
+    "seed": "Today the company announced a new feature for its product. This feature is designed to help users do things more easily and is part of the company's ongoing effort to improve the experience for its customers. The feature includes several capabilities that users have been asking about for a while. Company leadership expressed excitement about the launch and what it means for the future of the product. The feature will be rolling out to users soon, with more availability expected in the coming period. Customers can expect to see improvements in how they interact with the product going forward. The company remains committed to innovation and looks forward to sharing more updates in the future."
+  },
+  {
+    "id": "ho_pr_media_02",
+    "domain": "pr_media",
+    "instruction": "As a crisis communication statement responding to a data breach, improve transparency, specificity, and reassurance without over-promising.",
+    "seed": "We recently became aware of an incident involving some of our systems. We take this matter very seriously and are working to understand what happened. Our team acted quickly once the issue was discovered and has been investigating since then. Some information may have been affected, though we are still determining the full scope of the situation. We want to reassure our customers that their trust matters to us and we are doing everything we can to address this. We will share more information as it becomes available. In the meantime, we encourage anyone with concerns to reach out to us. We apologize for any concern this may have caused and appreciate your patience as we work through this."
+  },
+  {
+    "id": "ho_pr_media_03",
+    "domain": "pr_media",
+    "instruction": "As a press release announcing a corporate partnership between two companies, improve specificity of the deal, strategic rationale, and quote quality.",
+    "seed": "Two companies announced today that they are entering into a partnership. This collaboration is expected to bring benefits to both organizations and their customers. Leaders from both companies spoke positively about the partnership and what it could mean going forward. The partnership will involve working together on various initiatives that align with both companies' goals. Details about the specific scope of the collaboration will be shared over time as things develop further. Both companies expressed enthusiasm about what this partnership represents for their shared future. Customers and stakeholders can expect to hear more as the partnership progresses in the coming months."
+  },
+  {
+    "id": "ho_pr_media_04",
+    "domain": "pr_media",
+    "instruction": "As a media pitch email sent to journalists about a nonprofit's new community initiative, improve hook strength, specificity, and story angle clarity.",
+    "seed": "Hi, I wanted to reach out about something our nonprofit is working on that might be of interest to you. We recently launched an initiative aimed at helping people in the community in a meaningful way. This has been a big effort from our team and we think it could make for an interesting story. There are a lot of angles you could take with this, from the people involved to the broader impact it might have. We'd be happy to connect you with someone from our organization if you want to learn more. Let me know if you're interested and we can figure out a good time to talk further about it."
+  },
+  {
+    "id": "ho_pr_media_05",
+    "domain": "pr_media",
+    "instruction": "As a press release summarizing a company's annual sustainability report, improve data specificity, credibility, and message focus.",
+    "seed": "The company released its sustainability report today, highlighting the progress made over the past year. The report covers a range of topics related to the company's environmental and social efforts. Several initiatives were mentioned as examples of the work being done in this area. Leadership commented on the importance of sustainability to the company's overall mission and expressed pride in the progress achieved so far. The report also touches on future goals the company hopes to work toward. More detailed information can be found in the full report, which is available for anyone interested in learning more about the company's efforts in this space."
+  },
+  {
+    "id": "ho_pr_media_06",
+    "domain": "pr_media",
+    "instruction": "As a public statement responding to a product recall, improve transparency, safety-focused clarity, and customer trust repair.",
+    "seed": "The company has decided to recall a product after some concerns were raised. Customer safety is something the company takes very seriously and this decision reflects that commitment. The issue was identified through internal review processes and the company acted once it became aware of the situation. Customers who purchased the affected product are encouraged to take appropriate action, details of which will be made available soon. The company apologizes for any inconvenience this may cause and is working to resolve the matter as quickly as possible. Further updates will be shared as the situation develops. The company remains committed to quality and safety for all its customers."
+  }
+]

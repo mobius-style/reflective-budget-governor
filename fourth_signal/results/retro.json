@@ -1,0 +1,16 @@
+{
+ "known_fired": {
+  "26b:acad_015:8": {
+   "fired": true,
+   "dup": 0.9736
+  },
+  "26b:hr_027:6": {
+   "fired": true,
+   "dup": 0.9799
+  }
+ },
+ "fp_retro": [],
+ "n_generations": 8000,
+ "tp_real": 2,
+ "fp_retro_count": 0
+}
