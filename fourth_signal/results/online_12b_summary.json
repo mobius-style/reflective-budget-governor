@@ -1,0 +1,38 @@
+{
+ "tasks": 60,
+ "iterations_generated": 319,
+ "of_max": 480,
+ "iteration_savings": 0.3354166666666667,
+ "tokens_spent": 313181,
+ "mean_stop_online": 5.316666666666666,
+ "mean_stop_offline_same_tasks": 5.65,
+ "reasons_online": {
+  "equilibrium_d_r": 15,
+  "saturation": 28,
+  "hard_cap": 16,
+  "loop": 1
+ },
+ "reasons_offline": {
+  "equilibrium_d_r": 11,
+  "saturation": 26,
+  "hard_cap": 23
+ },
+ "stops_online": {
+  "3": 28,
+  "5": 3,
+  "6": 3,
+  "7": 6,
+  "8": 20
+ },
+ "stops_offline": {
+  "3": 26,
+  "5": 2,
+  "6": 1,
+  "7": 3,
+  "8": 28
+ },
+ "guard_fired": 0,
+ "replay_determinism_mismatches": 0,
+ "offline_token_reduction_same_tasks": 0.3446955479739328,
+ "wall_seconds": 2269.2999999999997
+}
