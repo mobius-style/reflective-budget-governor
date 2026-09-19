@@ -10,7 +10,13 @@ license: AGPL-3.0-or-later
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22031367
-    description: The companion paper (Reflective Budget Governor)
+    description: The companion paper (Reflective Budget Governor), v1.0
+  - type: doi
+    value: 10.5281/zenodo.22844856
+    description: The companion paper, v1.1 (adds saturation clarification and pre-registered fourth-signal evaluation)
+  - type: doi
+    value: 10.5281/zenodo.22031366
+    description: Concept DOI (resolves to the latest version)
   - type: doi
     value: 10.5281/zenodo.22842506
     description: Mathematical implementation note (math_note/)

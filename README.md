@@ -5,7 +5,7 @@ data and analysis package for the paper:
 
 > Toeda, T. (2026). *The Reflective Budget Governor: Equilibrium-Based
 > Early Stopping for Iterative LLM Refinement.* Zenodo.
-> https://doi.org/10.5281/zenodo.22031367
+> https://doi.org/10.5281/zenodo.22031366 (concept DOI; v1.0 = 22031367, v1.1 = 22844856)
 
 A three-signal stopping rule (RZGM-derived equilibrium distance d̂_R,
 RHL-derived loop/saturation detectors, MUSE-derived hard reflection cap)
@@ -20,6 +20,14 @@ always-8-iterations baseline but loses 38.0% / 36.6% of judged
 comparisons under a strong judge; disabling the saturation signal gives
 a conservative operating point (10.8% / 12.0% savings at 8.2% / 11.8%
 loss rate). It is a measured two-point dial, not free savings.
+
+## Version 1.1 additions (2026-09-19)
+
+- `math_note/` — what the saturation threshold actually computes (unanimity at
+  window 3; general envelope theorem and n*(τ) rule; DOI 10.5281/zenodo.22842506).
+- `fourth_signal/` — pre-registered repetition-ratio guard evaluation
+  (PREREG.md committed before data; verdict GO: 2/2 real, 200/200 synthetic,
+  0/960 held-out, 0/60 stress, 0/7,998 retrospective false alarms).
 
 ## Contents
 
