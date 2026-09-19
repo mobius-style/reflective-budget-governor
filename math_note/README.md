@@ -1,8 +1,7 @@
 # math_note — what the deployed saturation / similarity signals actually compute
 
 Companion bundle for the note *Unanimity in Disguise: What an Observed-Support
-Entropy Threshold Actually Detects at Short Windows* (Zenodo DOI in the
-repository CITATION.cff once assigned).
+Entropy Threshold Actually Detects at Short Windows* https://doi.org/10.5281/zenodo.22842506
 
 - `v1/` — pilot: exact unanimity for windows n ≤ 8 (Lean), repetition
   stabilization and boundary bounds, full-corpus replay, Claude v1.1 brush-up
