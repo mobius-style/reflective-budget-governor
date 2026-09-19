@@ -1,0 +1,7 @@
+'Pilot.repetition_stability' depends on axioms: [propext, Quot.sound]
+'Pilot.cannot_recover' does not depend on any axioms
+'Pilot.exact_small_certificate' does not depend on any axioms
+'Pilot.exact_small_unanimity' depends on axioms: [propext, Quot.sound]
+'Pilot.cosine_098_boundary' does not depend on any axioms
+'Pilot.cosine_097_boundary' does not depend on any axioms
+'Pilot.dr_boundary' does not depend on any axioms

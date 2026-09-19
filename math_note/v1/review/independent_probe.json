@@ -1,0 +1,77 @@
+{
+  "entropy": [
+    {
+      "n": 3,
+      "max_mixed": [
+        0.08170416594551055,
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "n": 4,
+      "max_mixed": [
+        0.18872187554086717,
+        [
+          1,
+          3
+        ]
+      ]
+    },
+    {
+      "n": 5,
+      "max_mixed": [
+        0.2780719051126377,
+        [
+          1,
+          4
+        ]
+      ]
+    },
+    {
+      "n": 6,
+      "max_mixed": [
+        0.3499775783516459,
+        [
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "n": 7,
+      "max_mixed": [
+        0.40832722141767264,
+        [
+          1,
+          6
+        ]
+      ]
+    },
+    {
+      "n": 8,
+      "max_mixed": [
+        0.4564355568004036,
+        [
+          1,
+          7
+        ]
+      ]
+    }
+  ],
+  "binary_word_checks": 2286,
+  "stable_equals_growing": true,
+  "stable_stops": {
+    "A": 8,
+    "B": 1,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  },
+  "empty_trigrams": [
+    ""
+  ],
+  "space_example_type": "no_change",
+  "short_sequence_error": "IndexError"
+}

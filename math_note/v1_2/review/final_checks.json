@@ -1,0 +1,104 @@
+{
+  "inputs_verified": 9,
+  "audit": {
+    "equilibrium_earliest_witness": 2,
+    "loop_earliest_witness": 2,
+    "saturation_first_available": 3,
+    "source_network_calls": 0,
+    "hr027": {
+      "a": 589,
+      "added": 5,
+      "removed": 0,
+      "new_vs_all_history": 5,
+      "sim": 0.995782351511861,
+      "novelty": 0.008417508417508417,
+      "d_r": 0.0058975924598867625,
+      "raw_lengths": [
+        899,
+        45152
+      ],
+      "normalized_lengths": [
+        763,
+        38177
+      ],
+      "pure_power_of_previous": false,
+      "max_two_boundary_theorem_applicable": false
+    }
+  },
+  "calculator": [
+    {
+      "threshold": "1/100",
+      "n_star": 3,
+      "previous_fires": false,
+      "first_fires": true,
+      "witness": [
+        2,
+        1
+      ],
+      "display_scores": [
+        0.0,
+        0.08170416594551055
+      ],
+      "exact_rule": "n^(100*n) <= 2^(99*n)*(n-1)^(100*(n-1))",
+      "scope": "positive integer counts; observed support; S >= threshold"
+    },
+    {
+      "threshold": "1/3",
+      "n_star": 6,
+      "previous_fires": false,
+      "first_fires": true,
+      "witness": [
+        5,
+        1
+      ],
+      "display_scores": [
+        0.2780719051126377,
+        0.3499775783516458
+      ],
+      "exact_rule": "n^(3*n) <= 2^(2*n)*(n-1)^(3*(n-1))",
+      "scope": "positive integer counts; observed support; S >= threshold"
+    },
+    {
+      "threshold": "7/10",
+      "n_star": 19,
+      "previous_fires": false,
+      "first_fires": true,
+      "witness": [
+        18,
+        1
+      ],
+      "display_scores": [
+        0.6904565708496748,
+        0.7025277510807104
+      ],
+      "exact_rule": "n^(10*n) <= 2^(3*n)*(n-1)^(10*(n-1))",
+      "scope": "positive integer counts; observed support; S >= threshold"
+    },
+    {
+      "threshold": "9/10",
+      "n_star": 78,
+      "previous_fires": false,
+      "first_fires": true,
+      "witness": [
+        77,
+        1
+      ],
+      "display_scores": [
+        0.8999990569896765,
+        0.9010409046442569
+      ],
+      "exact_rule": "n^(10*n) <= 2^(1*n)*(n-1)^(10*(n-1))",
+      "scope": "positive integer counts; observed support; S >= threshold"
+    }
+  ],
+  "cli_rejected": [
+    "0",
+    "1",
+    "-1",
+    "2",
+    "junk",
+    "0.99999999999999999999"
+  ],
+  "lean_stdout": "'all_153_small_envelopes' does not depend on any axioms\n'binary_18_below' does not depend on any axioms\n'binary_19_above' does not depend on any axioms\n",
+  "status": "PASS"
+}

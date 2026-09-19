@@ -1,0 +1,103 @@
+{
+  "captured_at": "2026-09-19T05:03:35.084718+00:00",
+  "files": [
+    {
+      "name": "analyze.py",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/analyze.py",
+      "bytes": 9631,
+      "sha256": "8639019bf0be9752139c6c565fbc1fd0637325aff12ab7b17bd74e03b976d15a",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "analyze_n500.py",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/analyze_n500.py",
+      "bytes": 8158,
+      "sha256": "80a680545626790037957bc669ee5684494061dad4beb9421f6224ffe13e93de",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "detectors.py",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/addons/secretary/evolution/kernel/detectors.py",
+      "bytes": 5503,
+      "sha256": "fedd26bfd4bc99fd14095f5f050597715152d5cf6894579004c106d864a81be8",
+      "public_checkout_equal": null
+    },
+    {
+      "name": "guard.py",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/addons/secretary/evolution/kernel/guard.py",
+      "bytes": 4924,
+      "sha256": "4dc8866224a8796a6301c1581c0b38b8db255b18389f6ec1d2394ee539fd4cdc",
+      "public_checkout_equal": null
+    },
+    {
+      "name": "T1.lean",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/docs/theory_series_2026-08/lean/T1.lean",
+      "bytes": 4242,
+      "sha256": "bdfcabd7e7906be2da3345a1966c05661e530cb9499be6e482b47c38f8f95125",
+      "public_checkout_equal": null
+    },
+    {
+      "name": "RBG_PAPER.md",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/docs/current/RBG_GOVERNOR_PAPER_v1_0_rc.md",
+      "bytes": 29758,
+      "sha256": "aedb3a70178df7760e587dace33568b89347ed8ffa5f8c7a5154503a18eff266",
+      "public_checkout_equal": null
+    },
+    {
+      "name": "CHARTER.md",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/docs/SECRETARY_EVOLUTION_CHARTER.md",
+      "bytes": 11331,
+      "sha256": "8a2ba28fbc2e0b60fa27a1aaf5d4cadf09fa6b799277c4dcf0dd873a4d438f29",
+      "public_checkout_equal": null
+    },
+    {
+      "name": "tasks_n500.json",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/tasks_n500.json",
+      "bytes": 334481,
+      "sha256": "dd97697f83f2d1bf19032c55ba5ccd15dc467e6d8944fc64c969c3a977615b3e",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "rollouts_n500_12b.jsonl",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/rollouts_n500_12b.jsonl",
+      "bytes": 7712624,
+      "sha256": "e89ff4b30748ed1948938408bade572985e53eb2bdd287f1357a19ff11bd50d5",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "rollouts_n500_26b.jsonl",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/rollouts_n500_26b.jsonl",
+      "bytes": 7125428,
+      "sha256": "29890f15798c2350fbb926d29b9414e192a50c78670e16df02be808fb0177194",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "stops_12b.json",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/stops_12b.json",
+      "bytes": 77832,
+      "sha256": "bd96dfbce665072deeeeee4a105588f5061f89f2f76fc17824b2a2420905cc8a",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "stops_26b.json",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/stops_26b.json",
+      "bytes": 77946,
+      "sha256": "ba285dc9e39c94654bdcacff805b61a9d60093bab095738e26aa452099b81517",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "DESIGN.md",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/DESIGN.md",
+      "bytes": 4246,
+      "sha256": "d0df1e16d97fa6ffaa9dafed879810639344fc91fd4ab67fcb5a97f57fb8ffad",
+      "public_checkout_equal": true
+    },
+    {
+      "name": "DESIGN_N500.md",
+      "original": "/home/happy/デスクトップ/mobius_ai/MOBIUS_MMV/experiments/rbg_pilot_20260815/DESIGN_N500.md",
+      "bytes": 3431,
+      "sha256": "f84f3c37c26c3a6166e9e5cd5abfcefa1a516020908b908a4e473d221813e92b",
+      "public_checkout_equal": true
+    }
+  ]
+}

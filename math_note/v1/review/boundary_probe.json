@@ -1,0 +1,74 @@
+[
+  {
+    "a": 26,
+    "extra": 2,
+    "d_r": 0.050396961575769665,
+    "dr_exact_pass": false,
+    "sim97_exact_pass": false,
+    "sim98_exact_pass": false,
+    "trace_equal": true,
+    "B": 2,
+    "C": 2,
+    "C_reason": "loop"
+  },
+  {
+    "a": 27,
+    "extra": 2,
+    "d_r": 0.04864543808414254,
+    "dr_exact_pass": true,
+    "sim97_exact_pass": false,
+    "sim98_exact_pass": false,
+    "trace_equal": true,
+    "B": 2,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  },
+  {
+    "a": 31,
+    "extra": 2,
+    "d_r": 0.04270840272535239,
+    "dr_exact_pass": true,
+    "sim97_exact_pass": false,
+    "sim98_exact_pass": false,
+    "trace_equal": true,
+    "B": 2,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  },
+  {
+    "a": 32,
+    "extra": 2,
+    "d_r": 0.04144391167750676,
+    "dr_exact_pass": true,
+    "sim97_exact_pass": true,
+    "sim98_exact_pass": false,
+    "trace_equal": true,
+    "B": 2,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  },
+  {
+    "a": 48,
+    "extra": 2,
+    "d_r": 0.02812246173203728,
+    "dr_exact_pass": true,
+    "sim97_exact_pass": true,
+    "sim98_exact_pass": false,
+    "trace_equal": true,
+    "B": 2,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  },
+  {
+    "a": 49,
+    "extra": 2,
+    "d_r": 0.02756863921803977,
+    "dr_exact_pass": true,
+    "sim97_exact_pass": true,
+    "sim98_exact_pass": true,
+    "trace_equal": true,
+    "B": 1,
+    "C": 2,
+    "C_reason": "equilibrium_d_r"
+  }
+]

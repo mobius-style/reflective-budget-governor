@@ -1,0 +1,51 @@
+{
+  "captured_at": "2026-09-19T05:49:01.836486+00:00",
+  "v1_1_author": "Claude, per user correction",
+  "files": [
+    {
+      "path": "NOTE_v1_1.md",
+      "bytes": 13810,
+      "sha256": "8df4102edf2283dfdcd295ed0c562b1a9e70e92a7e73bd2152eb39ad62402182"
+    },
+    {
+      "path": "README_JA_v1_1.md",
+      "bytes": 4830,
+      "sha256": "28b6e43f44ac9e719feaa58d17a7abc10cc6718a9569805f9628bf5f80eaef8a"
+    },
+    {
+      "path": "CHANGELOG_v1_1.md",
+      "bytes": 2047,
+      "sha256": "a3bb2ec9e61feaf593f572e2970052c8fb018f042021e71a46493107779dcde6"
+    },
+    {
+      "path": "envelope_windows.py",
+      "bytes": 1810,
+      "sha256": "6a2f4a7ec742da623de2bb319d83a6145506b2be0a8534cefa15b6bb1578f131"
+    },
+    {
+      "path": "results/envelope_windows.json",
+      "bytes": 3032,
+      "sha256": "8ab0dc2f9c2b1cb365be2022472b9987a121caf036f650fed691f9f660023e77"
+    },
+    {
+      "path": "sources/analyze.py",
+      "bytes": 9631,
+      "sha256": "8639019bf0be9752139c6c565fbc1fd0637325aff12ab7b17bd74e03b976d15a"
+    },
+    {
+      "path": "sources/manifest.json",
+      "bytes": 4334,
+      "sha256": "472f366859105fa4c7d1c1334c41eecc9a56d0a99cc4f0bec47bd708b9186071"
+    },
+    {
+      "path": "lean/Pilot.lean",
+      "bytes": 6627,
+      "sha256": "527edf30a25eac548c18a66e9a358189f99981c1b6c0301e55559fb42bccf3e2"
+    },
+    {
+      "path": "sources/rollouts_n500_26b.jsonl",
+      "bytes": 7125428,
+      "sha256": "29890f15798c2350fbb926d29b9414e192a50c78670e16df02be808fb0177194"
+    }
+  ]
+}

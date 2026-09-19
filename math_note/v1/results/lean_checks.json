@@ -1,0 +1,20 @@
+{
+  "lean_version": "Lean (version 4.32.2, x86_64-unknown-linux-gnu, commit f3b06c705e6c85f5314019d5d3baab0fec5b580c, Release)",
+  "forbidden_tokens": [],
+  "negative_mutants_rejected": [
+    "coverage",
+    "threshold",
+    "enumeration"
+  ],
+  "pilot_returncode": 0,
+  "fresh_olean_bytes": 412480,
+  "olean_sha256": "f44d0cd3758c2962e0f48e50022f72d6a39614af383d5d4423b0510cff026cc1",
+  "pilot_source_sha256": "527edf30a25eac548c18a66e9a358189f99981c1b6c0301e55559fb42bccf3e2",
+  "axioms": [
+    "Quot.sound",
+    "propext"
+  ],
+  "unapproved_axioms": [],
+  "t1_returncode": 0,
+  "t1_fresh_olean_bytes": 146456
+}

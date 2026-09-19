@@ -1,0 +1,28 @@
+{
+  "partition_range": [
+    2,
+    35
+  ],
+  "histograms_checked": 81120,
+  "floating_comparison_tolerance": 1e-12,
+  "violations": [],
+  "extra_equality_cases": [],
+  "exact_certificate_n18_below_0_7": true,
+  "exact_certificate_n19_above_0_7": true,
+  "negative_control_n19_unanimity_claim_rejected": true,
+  "scores_n18_n19": [
+    0.6904565708496755,
+    0.7025277510807109
+  ],
+  "noninteger_boundary_counterexample": {
+    "counts": [
+      0.1,
+      9.9
+    ],
+    "sum": 10,
+    "score": 0.919206864104089,
+    "integer_n10_max": 0.5310044064107184
+  },
+  "status": "PASS",
+  "scope": "Independent finite floating corroboration plus two exact integer threshold certificates; not a proof of the all-n theorem."
+}

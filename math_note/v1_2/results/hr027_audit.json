@@ -1,0 +1,19 @@
+{
+  "a": 589,
+  "added": 5,
+  "removed": 0,
+  "new_vs_all_history": 5,
+  "sim": 0.995782351511861,
+  "novelty": 0.008417508417508417,
+  "d_r": 0.0058975924598867625,
+  "raw_lengths": [
+    899,
+    45152
+  ],
+  "normalized_lengths": [
+    763,
+    38177
+  ],
+  "pure_power_of_previous": false,
+  "max_two_boundary_theorem_applicable": false
+}

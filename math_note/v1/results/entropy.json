@@ -1,0 +1,104 @@
+{
+  "rows": [
+    {
+      "n": 1,
+      "ordered_histograms": 1,
+      "max_mixed_histogram": null,
+      "max_mixed_score": null
+    },
+    {
+      "n": 2,
+      "ordered_histograms": 2,
+      "max_mixed_histogram": [
+        1,
+        1
+      ],
+      "max_mixed_score": 0.0
+    },
+    {
+      "n": 3,
+      "ordered_histograms": 4,
+      "max_mixed_histogram": [
+        1,
+        2
+      ],
+      "max_mixed_score": 0.08170416594551055
+    },
+    {
+      "n": 4,
+      "ordered_histograms": 8,
+      "max_mixed_histogram": [
+        1,
+        3
+      ],
+      "max_mixed_score": 0.18872187554086717
+    },
+    {
+      "n": 5,
+      "ordered_histograms": 16,
+      "max_mixed_histogram": [
+        1,
+        4
+      ],
+      "max_mixed_score": 0.2780719051126377
+    },
+    {
+      "n": 6,
+      "ordered_histograms": 32,
+      "max_mixed_histogram": [
+        1,
+        5
+      ],
+      "max_mixed_score": 0.3499775783516459
+    },
+    {
+      "n": 7,
+      "ordered_histograms": 64,
+      "max_mixed_histogram": [
+        1,
+        6
+      ],
+      "max_mixed_score": 0.40832722141767264
+    },
+    {
+      "n": 8,
+      "ordered_histograms": 128,
+      "max_mixed_histogram": [
+        1,
+        7
+      ],
+      "max_mixed_score": 0.4564355568004036
+    }
+  ],
+  "rbg_label_triples": 64,
+  "first_nonunanimous_by_envelope": {
+    "n": 19,
+    "histogram": [
+      18,
+      1
+    ],
+    "score": 0.7025277510807103
+  },
+  "fixed_alphabet_mutant_score": 0.8188118522668012,
+  "calibration": "PASS",
+  "same_max_counterexample_tau_07": [
+    {
+      "counts": [
+        910,
+        89,
+        1
+      ],
+      "score": 0.7196171390959948,
+      "exact_fires": true
+    },
+    {
+      "counts": [
+        910,
+        45,
+        45
+      ],
+      "score": 0.6678345280569353,
+      "exact_fires": false
+    }
+  ]
+}

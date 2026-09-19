@@ -1,0 +1,170 @@
+{
+ "threshold": "7/10",
+ "first_window_with_nonunanimous_breach": 19,
+ "unanimity_only_windows": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "rows": [
+  {
+   "window": 2,
+   "max_mixed_S": 0.0,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 3,
+   "max_mixed_S": 0.081704166,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 4,
+   "max_mixed_S": 0.188721876,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 5,
+   "max_mixed_S": 0.278071905,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 6,
+   "max_mixed_S": 0.349977578,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 7,
+   "max_mixed_S": 0.408327221,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 8,
+   "max_mixed_S": 0.456435557,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 9,
+   "max_mixed_S": 0.496741665,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 10,
+   "max_mixed_S": 0.531004406,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 11,
+   "max_mixed_S": 0.560503013,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 12,
+   "max_mixed_S": 0.58618315,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 13,
+   "max_mixed_S": 0.608756436,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 14,
+   "max_mixed_S": 0.628767673,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 15,
+   "max_mixed_S": 0.646640665,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 16,
+   "max_mixed_S": 0.662709933,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 17,
+   "max_mixed_S": 0.677243041,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 18,
+   "max_mixed_S": 0.690456571,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": false
+  },
+  {
+   "window": 19,
+   "max_mixed_S": 0.702527751,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 20,
+   "max_mixed_S": 0.713603043,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 21,
+   "max_mixed_S": 0.723804572,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 22,
+   "max_mixed_S": 0.733235012,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 23,
+   "max_mixed_S": 0.741981331,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 24,
+   "max_mixed_S": 0.750117707,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  },
+  {
+   "window": 25,
+   "max_mixed_S": 0.757707811,
+   "argmax_k": 2,
+   "mixed_breach_at_0.70_exact": true
+  }
+ ],
+ "corollary": "for all windows 2..18, S>=0.70 iff unanimous (by Proposition E envelope + exact certificate)"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "finished_at": "2026-09-19T05:15:55.751390+00:00",
+  "source_files": 14,
+  "source_drift": [],
+  "exact_positive_compositions": 255,
+  "label_triples": 64,
+  "repetition_equalities": 10160,
+  "real_chains": 1000,
+  "generation_rows": 8000,
+  "scope": "exact finite tests + source replay; universal proofs in NOTE.md; no performance inference"
+}
