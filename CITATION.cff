@@ -18,6 +18,9 @@ identifiers:
     value: 10.5281/zenodo.22845407
     description: The companion paper, v1.2 (adds length-stratified reanalysis, held-out replication, online-intervention verification)
   - type: doi
+    value: 10.5281/zenodo.22845998
+    description: The companion paper, v1.3 (adds pre-registered length-matched re-judging)
+  - type: doi
     value: 10.5281/zenodo.22031366
     description: Concept DOI (resolves to the latest version)
   - type: doi
